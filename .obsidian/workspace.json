@@ -11,8 +11,12 @@
             "id": "2258d0f844cd9ef1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Services/Verifiable Claims & Credentials.md",
+                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Services/Verifiable Claims & Credentials.md",
+                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Services/Verifiable Claims & Credentials.md"
+                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md"
               }
             }
           },
@@ -134,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,7 +155,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab656e8d940feb93",
+  "active": "d4798287772d813b",
   "lastOpenFiles": [
     "Core Services/Temporal Semantics.md",
     "Core Services/Permissive Commons.md",
