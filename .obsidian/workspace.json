@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "47512b0bcc04250d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2316a0a149281fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f42c9ad88d623d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/FOAF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee8cc37dc0708d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation V1/Implementation V1 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fac0e7f250b06fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation V1/Implementation V1 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "515ed10296db2d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Services/Temporal Semantics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9774466a8cd2c3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/Sitemap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9840d05f6f21c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDHR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "311fb436a5700c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4310be61ea5651c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8a467381f6120a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab656e8d940feb93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e40ee876f754a78b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da5d4048c7d8c57c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5fb13397d0529f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "66afab2fd2058c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67d250d3b6017fd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UDHR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11cc095b6d56e04a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UDHR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4798287772d813b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47512cbf32e19863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UDHR.md"
+              }
+            }
+          },
+          {
+            "id": "011a9cf32f3fae96",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "e9840d05f6f21c30",
+  "lastOpenFiles": [
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
+    "UDHR.md",
+    "Core Technologies/Webizen App Spec/WebSpec/HTML SPECS.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/Sitemap.md",
+    "Core Services/Temporal Semantics.md",
+    "Core Services/Safety Protocols/Social Factors/Relationships (Social).md",
+    "Core Services/Safety Protocols/Social Factors/Social Attack Vectors.md",
+    "Core Services/Safety Protocols/Social Factors/Ending Digital Slavery.md",
+    "Core Services/Safety Protocols/Social Factors/Freedom of Thought.md",
+    "Core Services/Safety Protocols/Social Factors/Best Efforts.md"
+  ]
+}

@@ -1,0 +1,1 @@
+https://www.w3.org/TR/2008/WD-skos-reference-20080829/skos.html
