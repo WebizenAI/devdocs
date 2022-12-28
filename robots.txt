@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://devdocs.webizen.org/sitemap/sitemap-index.xml
+Host: https://devdocs.webizen.org
