@@ -2,11 +2,11 @@
 
 ## Group1
 
-- [[getting-started/readme.mdx|Getting started]]
-  - [[getting-started/readme.mdx|Gatsby CLI]]
-- [[usage/readme.mdx|Usage]]
-  - [[usage/local-development.mdx|Local development]]
+- [Getting started](getting-started/readme.mdx)
+  - [Gatsby CLI](getting-started/readme.mdx)
+- [Usage](usage/readme.mdx)
+  - [Local development](usage/local-development.mdx)
 
-## [[./group2.md|Group2]]
+## [Group2](./group2.md)
 
-- [[contributing.mdx|Contributors]]
+- [Contributors](contributing.mdx)
