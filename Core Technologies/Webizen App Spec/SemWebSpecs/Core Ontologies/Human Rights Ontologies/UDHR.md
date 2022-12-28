@@ -1,6 +1,13 @@
 
 An Example of the UN [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) in RDF, is below.
 
+Links to the Files are per below
+
+Turtle: https://github.com/WebCivics/ontologies/blob/2023/ttl/un/udhr.ttl
+Json-LD: https://github.com/WebCivics/ontologies/blob/2023/jsonld/un/udhr.jsonld
+
+This is work in progress, there are many others that are on the to do list.
+
 ```
 @prefix udhr: <http://www.udhr.org/ontology/udhr#> .
 

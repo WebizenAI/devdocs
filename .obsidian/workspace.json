@@ -61,8 +61,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDHR.md",
-                "mode": "preview",
+                "file": "Commercial/Community of Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8475670d0ffe8956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation V1/App-design-sdk-v1/Data Applications.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDHR.md",
+                "file": "Implementation V1/App-design-sdk-v1/Data Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDHR.md",
+                "file": "Implementation V1/App-design-sdk-v1/Data Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDHR.md"
+                "file": "Implementation V1/App-design-sdk-v1/Data Applications.md"
               }
             }
           },
@@ -212,17 +224,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e9840d05f6f21c30",
+  "active": "ab656e8d940feb93",
   "lastOpenFiles": [
-    "summary/__tests__/summary2.md",
-    "summary/__tests__/summary.md",
-    "summary/README.md",
-    "Attachments/Pasted image 13.png",
-    "Attachments/Pasted image 8.png",
-    "Attachments/Pasted image 5.png",
-    "Attachments/Pasted image.png",
-    "UDHR.md",
-    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
-    "Core Technologies/Webizen App Spec/WebSpec/HTML SPECS.md"
+    "Commercial/Commercial Structure.md",
+    "Commercial/Community of Practice.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Semantic Web - An Introduction.md",
+    "Core Services/Temporal Semantics.md",
+    "Implementation V1/App-design-sdk-v1/Data Applications.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/FOAF.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/General Ontology Information.md",
+    "Commercial/Domains.md",
+    "Core Services/Webizen Socio-Economics/Centricity.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/Human Rights Ontologies/UDHR.md"
   ]
 }

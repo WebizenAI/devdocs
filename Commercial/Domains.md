@@ -1,5 +1,7 @@
 The Webizen Project is currently supported via the ownership of the domains listed below;
 
+intent.eco
+
 linkeddata.com.au
 linkeddata.au
 
