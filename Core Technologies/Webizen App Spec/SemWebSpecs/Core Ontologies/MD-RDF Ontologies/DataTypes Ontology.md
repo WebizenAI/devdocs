@@ -25,25 +25,25 @@ The Data Types Ontology (DTO) RDF vocabulary, described using W3C RDF Schema and
 
 #### Contents
 
-- [Agent](#agent)
-- [Person](#person)
-- [name](#name)
-- [title](#title)
-- [img](#img)
-- [depiction](#depiction)
-- [family name](#family-name)
-- [given name](#given-name)
-- [knows](#knows)
-- [based near](#based-near)
-- [age](#age)
-- [made](#made)
-- [primary topic](#primary-topic)
-- [Project](#project)
-- [Organization](#organization)
-- [Group](#group)
-- [member](#member)
-- [Document](#document)
-- [Image](#image)
+- [[#agent|Agent]]
+- [[#person|Person]]
+- [[#name|name]]
+- [[#title|title]]
+- [[#img|img]]
+- [[#depiction|depiction]]
+- [[#family-name|family name]]
+- [[#given-name|given name]]
+- [[#knows|knows]]
+- [[#based-near|based near]]
+- [[#age|age]]
+- [[#made|made]]
+- [[#primary-topic|primary topic]]
+- [[#project|Project]]
+- [[#organization|Organization]]
+- [[#group|Group]]
+- [[#member|member]]
+- [[#document|Document]]
+- [[#image|Image]]
 
 ## Agent
 
@@ -86,7 +86,7 @@ The Person class represents people. Something is a Person if it is a person. We 
 
 `rdfs:subClassOf`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ### equivalent classes
 
@@ -99,8 +99,8 @@ The Person class represents people. Something is a Person if it is a person. We 
 
 `owl:disjointWith`
 
-- [Organization](#organization) `foaf:Organization`
-- [Project](#project) `foaf:Project`
+- [[#organization|Organization]] `foaf:Organization`
+- [[#project|Project]] `foaf:Project`
 
 ## name
 
@@ -176,19 +176,19 @@ Terminology: note that img is a property (ie. relationship), and that code:Image
 
 `rdfs:subPropertyOf`
 
-- [Depiction](#depiction) `foaf:depiction`
+- [[#depiction|Depiction]] `foaf:depiction`
 
 ### domain
 
 `rdfs:domain`
 
-- [Person](#person) `foaf:Person`
+- [[#person|Person]] `foaf:Person`
 
 ### range
 
 `rdfs:range`
 
-- [Image](#image) `foaf:Image`
+- [[#image|Image]] `foaf:Image`
 
 ## depiction
 
@@ -223,13 +223,13 @@ The depiction property is a super-property of the more specific property img, wh
 
 `rdfs:range`
 
-- [Image](#image) `foaf:Image`
+- [[#image|Image]] `foaf:Image`
 
 ### inverse of
 
 `owl:inverseOf`
 
-- [depicts](#depicts) `foaf:depicts`
+- [[#depicts|depicts]] `foaf:depicts`
 
 ## family name
 
@@ -256,7 +256,7 @@ See the issue tracker for design discussions, status and ongoing work on rationa
 
 `rdfs:domain`
 
-- [Person](#person) `foaf:Person`
+- [[#person|Person]] `foaf:Person`
 
 ### range
 
@@ -322,13 +322,13 @@ Perhaps the most important use of knows is, alongside the rdfs:seeAlso property,
 
 `rdfs:domain`
 
-- [Person](#person) `foaf:Person`
+- [[#person|Person]] `foaf:Person`
 
 ### range
 
 `rdfs:range`
 
-- [Person](#person) `foaf:Person`
+- [[#person|Person]] `foaf:Person`
 
 ## based near
 
@@ -381,7 +381,7 @@ The age property is a relationship between a Agent and an integer string represe
 
 `rdfs:domain`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ### range
 
@@ -408,7 +408,7 @@ The made property relates a Agent to something made by it. As such it is an inve
 
 `rdfs:domain`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ### range
 
@@ -420,7 +420,7 @@ The made property relates a Agent to something made by it. As such it is an inve
 
 `owl:inverseOf`
 
-- [maker](#maker) `foaf:maker`
+- [[#maker|maker]] `foaf:maker`
 
 ## primary topic
 
@@ -446,7 +446,7 @@ It is an inverse of the isPrimaryTopicOf property, which relates a thing to a do
 
 `rdfs:domain`
 
-- [Document](#document) `foaf:Document`
+- [[#document|Document]] `foaf:Document`
 
 ### range
 
@@ -458,7 +458,7 @@ It is an inverse of the isPrimaryTopicOf property, which relates a thing to a do
 
 `owl:inverseOf`
 
-- [is primary topic of](#is-primary-topic-of) `foaf:isPrimaryTopicOf`
+- [[#is-primary-topic-of|is primary topic of]] `foaf:isPrimaryTopicOf`
 
 ## Project
 
@@ -479,8 +479,8 @@ The Project class represents the class of things that are 'projects'. These may 
 
 `owl:disjointWith`
 
-- [Person](#person) `foaf:Person`
-- [Document](#document) `foaf:Document`
+- [[#person|Person]] `foaf:Person`
+- [[#document|Document]] `foaf:Document`
 
 ## Organization
 
@@ -501,14 +501,14 @@ The Organization class represents a kind of Agent corresponding to social instit
 
 `rdfs:subClassOf`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ### disjoint with
 
 `owl:disjointWith`
 
-- [Person](#person) `foaf:Person`
-- [Document](#document) `foaf:Document`
+- [[#person|Person]] `foaf:Person`
+- [[#document|Document]] `foaf:Document`
 
 ## Group
 
@@ -589,7 +589,7 @@ There is a FOAF issue tracker associated with this FOAF term. A design goal is t
 
 `rdfs:subClassOf`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ## member
 
@@ -612,13 +612,13 @@ See Group for details and examples.
 
 `rdfs:domain`
 
-- [Group](#group) `foaf:Group`
+- [[#group|Group]] `foaf:Group`
 
 ### range
 
 `rdfs:range`
 
-- [Agent](#agent) `foaf:Agent`
+- [[#agent|Agent]] `foaf:Agent`
 
 ## Document
 
@@ -647,8 +647,8 @@ The Image class is a sub-class of Document, since all images are documents.
 
 `owl:disjointWith`
 
-- [Organization](#organization) `foaf:Organization`
-- [Project](#project) `foaf:Project`
+- [[#organization|Organization]] `foaf:Organization`
+- [[#project|Project]] `foaf:Project`
 
 ## Image
 
@@ -671,7 +671,7 @@ Digital images (such as JPEG, PNG, GIF bitmaps, SVG diagrams etc.) are examples 
 
 `rdfs:subClassOf`
 
-- [Document](#document) `foaf:Document`
+- [[#document|Document]] `foaf:Document`
 
 ### equivalent class
 

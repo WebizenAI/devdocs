@@ -1,0 +1,19 @@
+{
+  "name": "@theowenyoung/gatsby-plugin-slug",
+  "description": "generate slug field",
+  "version": "1.10.2",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "dependencies": {
+    "@theowenyoung/gatsby-relative-path-to-slug": "^1.0.1"
+  }
+}

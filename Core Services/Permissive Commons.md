@@ -1,4 +1,4 @@
-Permissive Commons is in-fact similar to the [Decentralised Ontologies](Decentralised%20Ontologies.md) however the scope of 'hyper-media' assets is broader than simply any RDF based assets; and the two are interoperable.
+Permissive Commons is in-fact similar to the [[Decentralised Ontologies]] however the scope of 'hyper-media' assets is broader than simply any RDF based assets; and the two are interoperable.
 
 The Permissive Commons concept is like an advancement of 'open-data', whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.
 
@@ -47,9 +47,9 @@ This then employs the ontological structures to support AI processing for the in
 
 The storage of information about each 'concept' is intended to support provonance, and any alterations provide links to previous versions; alongside an ability to form semantic inferencing notations about any meaningful relations between the concepts / topics noted earlier as may be effected by updates. 
 
-[Temporal Semantics](Temporal%20Semantics.md)
+[[Temporal Semantics]]
 For example; is a news-article was written about a particular topic in reliance of a particular 'fact' that was believed to be 'true' at the time; but later, new information shows that the old assumption was in-fact incorrect.  The permissive commons engine would support the ability to contextualise the information both from a perspective of when that article or piece of content was written; and, as the manifest underlying assumptions or representations - whether it be about the circumstances of that time, or any changes that have happened since - can in-turn be contextualised for observers (users), temporallly.
 
-[Verifiable Claims & Credentials](Verifiable%20Claims%20&%20Credentials.md)
+[[Verifiable Claims & Credentials]]
 
 The verifiable claims element, has various applications / implications; including, the ability to support provonance in relation to who did what; and in-turn, any terms that may relate to those contributions.  

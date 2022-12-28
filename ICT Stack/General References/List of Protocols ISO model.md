@@ -63,7 +63,7 @@
 -   [STP](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol "Spanning Tree Protocol") Spanning Tree Protocol
 -   [Split multi-link trunking](https://en.wikipedia.org/wiki/Split_multi-link_trunking "Split multi-link trunking") Protocol
 -   [Token Ring](https://en.wikipedia.org/wiki/Token_Ring "Token Ring") a protocol developed by IBM; the name can also be used to describe the [token passing](https://en.wikipedia.org/wiki/Token_passing "Token passing") ring logical topology that it popularized.
--   [Virtual Extended Network (VEN)](https://en.wikipedia.org/w/index.php?title=Virtual_Extended_Network_(VEN)&action=edit&redlink=1 "Virtual Extended Network (VEN) (page does not exist)") a protocol developed by iQuila.
+-   [[VEN)](https://en.wikipedia.org/w/index.php?title=Virtual_Extended_Network_(VEN|Virtual Extended Network (VEN)]]&action=edit&redlink=1 "Virtual Extended Network (VEN) (page does not exist)") a protocol developed by iQuila.
 -   [VTP](https://en.wikipedia.org/wiki/VTP "VTP") VLAN Trunking Protocol
 -   [VLAN](https://en.wikipedia.org/wiki/VLAN "VLAN") Virtual Local Area Network
 
@@ -123,7 +123,7 @@
 -   [Sinec H1](https://en.wikipedia.org/wiki/Sinec_H1 "Sinec H1") for telecontrol
 -   [TUP](https://en.wikipedia.org/wiki/Telephone_User_Part "Telephone User Part"), Telephone User Part
 -   [SPX](https://en.wikipedia.org/wiki/IPX/SPX "IPX/SPX") Sequenced Packet Exchange
--   [NBP](https://en.wikipedia.org/wiki/AppleTalk#Name_Binding_Protocol "AppleTalk") Name Binding Protocol {for AppleTalk}
+-   [[https://en.wikipedia.org/wiki/AppleTalk#Name_Binding_Protocol "AppleTalk"]] Name Binding Protocol {for AppleTalk}
 -   TCP [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol "Transmission Control Protocol")
 -   UDP [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol "User Datagram Protocol")
 -   [QUIC](https://en.wikipedia.org/wiki/QUIC "QUIC")
@@ -147,20 +147,20 @@ This layer, presentation Layer and application layer are combined in [TCP/IP mo
 -   [SMB](https://en.wikipedia.org/wiki/Server_message_block "Server message block") Server Message Block
 -   [SMPP](https://en.wikipedia.org/wiki/Short_Message_Peer-to-Peer "Short Message Peer-to-Peer") Short Message Peer-to-Peer
 -   [SOCKS](https://en.wikipedia.org/wiki/SOCKS "SOCKS") "SOCKetS"
--   [ZIP](https://en.wikipedia.org/wiki/AppleTalk#Zone_Information_Protocol "AppleTalk") Zone Information Protocol {For AppleTalk}
+-   [[https://en.wikipedia.org/wiki/AppleTalk#Zone_Information_Protocol "AppleTalk"]] Zone Information Protocol {For AppleTalk}
 -   This layer provides session management capabilities between hosts. For example, if some host needs a password verification for access and if credentials are provided then for that session password verification does not happen again. This layer can assist in synchronization, dialog control and critical operation management (e.g., an online bank transaction).
 
 ## Layer 6 ([Presentation Layer](https://en.wikipedia.org/wiki/Presentation_layer "Presentation layer"))
 
--   [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security") Transport Layer Security[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
--   [SSL](https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol "Secure Socket Tunneling Protocol") Secure Socket Tunneling[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
--   [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol "Apple Filing Protocol") Apple Filing Protocol[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security") Transport Layer Security[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [SSL](https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol "Secure Socket Tunneling Protocol") Secure Socket Tunneling[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol "Apple Filing Protocol") Apple Filing Protocol[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   Independent Computing Architecture (ICA), the Citrix system core protocol
--   Lightweight Presentation Protocol (LPP)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   Lightweight Presentation Protocol (LPP)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   NetWare Core Protocol (NCP)
--   Network Data Representation (NDR)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   Network Data Representation (NDR)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   Tox, The Tox protocol is sometimes regarded as part of both the presentation and application layer
--   eXternal Data Representation (XDR)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   eXternal Data Representation (XDR)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   X.25 Packet Assembler/Disassembler Protocol (PAD)
 
 ## Layer 7 ([Application Layer](https://en.wikipedia.org/wiki/Application_layer "Application layer"))
