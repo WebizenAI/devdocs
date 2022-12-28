@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+                "file": "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+                "file": "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+                "file": "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md"
+                "file": "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d4798287772d813b",
+  "active": "2258d0f844cd9ef1",
   "lastOpenFiles": [
+    "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
     "Core Services/Temporal Semantics.md",
     "Core Services/Permissive Commons.md",
     "Core Services/Webizen Socio-Economics/Sustainable Development Goals (ESG).md",
@@ -165,7 +166,6 @@
     "Core Services/Safety Protocols/Social Factors/The Webizen Charter.md",
     "Core Services/Safety Protocols/Social Factors/Social Attack Vectors.md",
     "Core Services/Safety Protocols/Social Factors/Relationships (Social).md",
-    "Core Services/Safety Protocols/Social Factors/Freedom of Thought.md",
-    "Core Services/Safety Protocols/Values Credentials.md"
+    "Core Services/Safety Protocols/Social Factors/Freedom of Thought.md"
   ]
 }
