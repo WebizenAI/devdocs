@@ -23,36 +23,24 @@
             "id": "8ee8cc37dc0708d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation V1/Implementation V1 Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "5fac0e7f250b06fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementation V1/Implementation V1 Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "515ed10296db2d8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Services/Temporal Semantics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -83,12 +71,8 @@
             "id": "311fb436a5700c7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -228,7 +212,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab656e8d940feb93",
+  "active": "e9840d05f6f21c30",
   "lastOpenFiles": [
     "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
     "UDHR.md",
