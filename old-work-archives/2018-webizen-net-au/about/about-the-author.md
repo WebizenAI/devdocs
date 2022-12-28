@@ -8,7 +8,7 @@ guid: 'https://www.webizen.net.au/?page_id=767'
 inline_featured_image:
     - '0'
 ---
-
+```html
 <div>(document status; draft)</div>I had an interest in computers since he was a child. Born in 1978, from the early 90’s my interest in computer led me to worked as a computer professional from the mid 90s (as a teenager) fixing / building computers, etc.
 
 Whilst i grew up sailing, learning piano and being supported in my interest in computers (grandpa gave me a vic 20, and later bought me my first, 386dlc, which i upgraded) my family were troubled, as is documented in the press.
@@ -226,3 +226,4 @@ The only way to solve the problems my lived experience has demonstrated to me; h
 Parts of these works make use of ‘[social encryption](https://www.webizen.net.au/social-encryption-an-introduction/)‘, yet, intrinsically, this is, in-turn, a sociologically refined informatics tool. A form of apparatus, tailored in the approach through which it’s been made use of, over the many years; to form a comprehensive global framework of tooling that has everything it now needs. Simple fact is, not everyone needs to know everything; yet, If you know how to find me; and think of something i’ve missed, let me know.
 
 As i think i’ve said previously; the purpose of this site, is to ensure those who are willing and able to engage in what is likely to be amongst the most valuable fields of economic development, growth and expertise, as a core foundation to the [4th industrial revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution); that this, should help, alongside the other resources available globally – to independently go about doing related work, that can help others. Whilst the site contains alot of my works, as republished assets (and i’ve not provided the ‘[priority dates](https://en.wikipedia.org/wiki/Priority_right)‘ purposefully); for the most-part, its more about the resources available; and my means to help people think about alternatives and how it is they can be made to work for them.
+```

@@ -10,7 +10,7 @@ inline_featured_image:
 sharing_disabled:
     - '1'
 ---
-
+```html
 ###### *<span style="font-weight: 400;">Artificium Corpora et Sapientiae Universitas </span>*
 
 > *<span style="font-weight: 400;">Webizen.net.au is about how it is entirely possible, to build a knowledge banking industry that is designed to support, a non-linear knowledge curation framework. These systems produce ‘inforgs’, that support the electromagnetic operation of Human Experience</span>*
@@ -79,3 +79,4 @@ My work, in part, argues the point; in a far more inclusive way.
 This site is new, raw and a “work in progress”. I have years of work that i need to publish and intend to do so here; but that takes more time than i’ve spent, and as such – this site is still, from a content perspective, incomplete. I also need to refactor my ‘code’ to make it more accessible to others. In-past, i’ve employed an array of techniques now made defunct. As anyone who really knows what its like to do this kinda work will know; The importance of ensuring global, open, patent pool protected standards was (is) extraordinary.
 
 It is the case today that the tooling required, is available in that format. This wasn’t the case at all when i started; so, please be considerate of the journey.
+```
