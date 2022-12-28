@@ -23,4 +23,4 @@ Webizen Project Documentation
 
 DOCUMENT NOTES:
 
-Some content is produced through the use of information obtained from wikipedia.  The links are provided to the articles, where this is the case.
+Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case.
