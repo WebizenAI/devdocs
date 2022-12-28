@@ -27,5 +27,5 @@ The Webizen 1.0 will be used to develop the [Webizen Alliance](Commercial/Webize
 #### DOCUMENT NOTES:
 Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case.
 
-**TAGS** 
+
 #intro #Summary #draft

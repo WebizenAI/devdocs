@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4bb5a02c86615c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Services/Permissive Commons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf044d70161c845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HyperMedia Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba49de72a743cf91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen 2.0/Webizen Pro Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md",
+                "file": "Webizen 2.0/Webizen Pro Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md",
+                "file": "Webizen 2.0/Webizen Pro Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md"
+                "file": "Webizen 2.0/Webizen Pro Summary.md"
               }
             }
           },
@@ -156,17 +192,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2258d0f844cd9ef1",
+  "active": "ba49de72a743cf91",
   "lastOpenFiles": [
+    "Webizen 2.0/Webizen Vision.md",
+    "HyperMedia Library.md",
+    "Core Services/Permissive Commons.md",
+    "Commercial/Value Accounting Initiatives.md",
     "README.md",
+    "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md",
     "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md",
     "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
     "Core Services/Temporal Semantics.md",
-    "Core Services/Permissive Commons.md",
-    "Core Services/Webizen Socio-Economics/Sustainable Development Goals (ESG).md",
-    "Core Services/Webizen Socio-Economics/SocioSphere Ontologies.md",
-    "Core Services/Safety Protocols/Safety Protocols.md",
-    "Core Services/Safety Protocols/Social Factors/The Webizen Charter.md",
-    "Core Services/Safety Protocols/Social Factors/Social Attack Vectors.md"
+    "Core Services/Webizen Socio-Economics/Sustainable Development Goals (ESG).md"
   ]
 }

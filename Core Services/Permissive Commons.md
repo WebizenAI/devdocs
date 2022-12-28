@@ -54,4 +54,45 @@ For example; is a news-article was written about a particular topic in reliance 
 
 The verifiable claims element, has various applications / implications; including, the ability to support provonance in relation to who did what; and in-turn, any terms that may relate to those contributions.  
 
+**### About
+
+The concept of permissive commons is predicated upon the concept of advancing semantic web technologies that have a capacity to provide peace infrastructure of international significance. 
+
+The Semantic Web is a collection of techniques and/or technologies that provide a standardised method for producing systems and services that are able to be built to support a world that is predicated upon a presumption of responsibility, opportunity and acknowledgement of members of our human family in relation to the causal relationship between what people do and the impact that has upon other members of our human family.   
+
+### Purpose
+
+Whilst we have historically produced other forms of knowledge (and information) infrastructure to support means for members of our human family to support & be supported by one another to grow and prosper with a shared commitment to peace, law (or lore) and various other socioeconomic requirements; the mainstream method that has become increasingly important has been the development of ‘internet communications technology infrastructure’ as a primary form of media for verifiable communications.
+
+The development and widespread deployment of these tools and related apparatus has resulted in changes of great significance that impact all life on earth.  These changes presently display various characteristics where the performance achieved through the use of modern technology far exceeds what was possible without it, however this is not universally the case.  There are various other characteristics of our societies prior to the growth of these new mediums (collectively - media) that have not prospered. In some cases, there are aspects to societies that were highly valued that have been consumed, exploited and allowed to deteriorate in ways that are known to be supportive for some, whilst a cause of harm for others.  The characteristics of beneficiaries and those who have been consumed, is many, it is broad. 
+
+There are concepts such as ‘truth telling’ that have been dispensed with, to support beneficiaries that have preferred to ensure that is not amongst the features most valued by the things they have made.
+
+There are societal values, like human rights concepts that have been largely dispensed with, benefiting some who are of a particular character that best supports means to care-less-ly seek revenue, profits. 
+
+There are social resources, like language - that have too often been intentionally misused & abused via systems that seek to apply ‘projections’ upon the many, whilst maintaining systems of control via a small group of artificial actors.  These artificial actors (legal entities / companies) were historically operated by human beings as incorporated persons (as it is called in the USA & similar) did not have facility to employ active - artificial agents, which has been considered a problem & solutions are emerging for it. 
+
+These works are fundamentally supported as a consequence of the mindsphere of natural persons, of members of our human family, whose incentives frameworks as have been acted upon, demonstrably illustrate a series of ideologies that are able to be characterised - at least, theoretically if not practically.
+
+Throughout human history, there has always been an acknowledged requirement to support different groups of people who are able to be distinguished by a common set of values illustrated by those groups; and to seek to ensure that there is a capacity for different groups of people, to hold different ‘values frameworks’; who are in-turn sought to be supported as to peacefully interact with one another without requiring a common agreement that would invalidate people of a particular group, rather, that the focus has been on seeking to ensure means to distinguish between persons who act in a manner that is consistent with the requirements of peaceful relations, from those whose behaviours are not peaceful or reasonably directed / acted / engaged with - on a basis that is equipped to supply peaceful outcomes, morally.  Therein, is a situation where the concept of ‘moral’ or ‘morality’ becomes invoked; as does in-turn also, relate to the concepts historically illustrated via tamper-evidence means called law.
+
+Whilst there is an array of infrastructure that has developed over time to support societal requirements; as is in the interests of all members of our human family, many of these infrastructure requirements are not reasonably supported via these new mediums.  Regardless of whether or not it's distasteful, they’re designs that have developed as a consequence of what has been defined to be important by its designers.
+
+It is my belief that there is now an opportunity to better define an alternative modality that can support members of the human family who are seeking an alternative knowledge technology infrastructure solution, a solution that those members may consider to be better equipped to support their means to live, grow and prosper in an environment where part of their time is spent both using and improving peace infrastructure projects; that meaningfully benefit the lives of others, done in association to values that cannot be easily illustrated via the infrastructure provided by the leaders of platforms as defined today. 
+
+Lawful Rights to; seek to ensure,
+
+-   Safety & infrastructure to support ones ability to protect life & rights.
+    
+-   The timely arbitration of Justice in courts of law.
+    
+-   The desire to ensure our economic system protects the right for proper compensation to be provided to a person who has acted lawfully whilst subjected to wrongs by actors whose behaviours should be able to be determined in a court of law by judge and/or jury of ones peers.
+    
+-   That behaviour is illustrative of knowingly seeking to engage in harm or to undermine law; not warrant greater benefit and/or impunity for reasons that seek by financed acts, lawful impunity.
+    
+-   Those wrongs committed via artificial beings, whether active (ie: software / AI) or by sophisticated legal and/or financial means - regardless of how few or how many are disaffected; are sought to be associated with the natural persons who were fundamentally involved in executing such wrongs. That our society is not defined in a manner that seeks to discourage / mute, concepts such as law.
+    
+
+Whilst my words may be inelegant and/or of a draft nature that could always be improved with more work; the underlying reality becomes, that there are already many very good instruments that exist, and whilst they’re not able to be made employable usefully enough online or socio-economically in our world; there is a capacity to employ the tools made by people of different values, to produce tools that are able to provide different sorts of ‘user experiences’. It is thereafter considered important to note, that an array of nomenclature does indeed need to be defined, or specifically re:defined should ‘words’ have become commonly used for purposes / meaning, that are considered different to the science or purpose of any such words at a time of origin.**
+
 #Privacy #socialfabric #ValuesFrameworks #SafetyProtocols
