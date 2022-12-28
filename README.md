@@ -1,4 +1,4 @@
-# Webizen Docs Go Project
+# Webizen V1 Project Documentation
 The [Webizen 1.0](Implementation%20V1/Webizen%201.0.md) [Design Goals Overview](Implementation%20V1/App-design-sdk-v1/Design%20Goals/Design%20Goals%20Overview.md) documents alongside the [Implementation V1 Summary](Implementation%20V1/Implementation%20V1%20Summary.md), provides information about the objectives, which seek to use [GoLang Libraries](Implementation%20V1/GoLang%20Libraries.md) as a means to quickly produce a solution that provides basic functionality as required to make progress.
 
 **There are two packages required;**
@@ -9,7 +9,7 @@ The project intends to improve upon the works already previously demonstrated as
 
 The Webizen 1.0 will be used to develop the [Webizen Alliance](Commercial/Webizen%20Alliance.md) socio-technical framework.  Therefore, the objectives of the Webizen 1.0 Software Development (Platform) Project; is specifically targeted at providing the underlying system functionality required to build these systems using Semantic(RDF)Web(HTML/JS/CSS) app development practices.
 
-Webizen Project Documentation
+### Webizen Project Documentation
 
 1. Webizen 1.0 
 3. Core Services
@@ -21,6 +21,8 @@ Webizen Project Documentation
 9. Commercial
 
 
-DOCUMENT NOTES:
-
+#### DOCUMENT NOTES:
 Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case.
+
+**TAGS** 
+#intro #Summary #draft

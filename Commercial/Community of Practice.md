@@ -10,3 +10,4 @@ CoPs can exist in physical settings, for example, a lunchroom at work, a field s
 
 Communities of practice are not new phenomena: this type of learning has existed for as long as people have been learning and sharing their experiences through storytelling. The idea is rooted in [American pragmatism](https://en.wikipedia.org/wiki/American_pragmatism "American pragmatism"), especially [C. S. Peirce](https://en.wikipedia.org/wiki/C._S._Peirce "C. S. Peirce")'s concept of the "[community of inquiry](https://en.wikipedia.org/wiki/Community_of_inquiry "Community of inquiry")" ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFShields2003)), but also [John Dewey](https://en.wikipedia.org/wiki/John_Dewey "John Dewey")'s principle of learning through occupation ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFWallace2007)).
 
+#socialfabric #ValuesFrameworks

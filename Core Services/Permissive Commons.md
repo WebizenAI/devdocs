@@ -53,3 +53,5 @@ For example; is a news-article was written about a particular topic in reliance 
 [Verifiable Claims & Credentials](Verifiable%20Claims%20&%20Credentials.md)
 
 The verifiable claims element, has various applications / implications; including, the ability to support provonance in relation to who did what; and in-turn, any terms that may relate to those contributions.  
+
+#Privacy #socialfabric #ValuesFrameworks #SafetyProtocols

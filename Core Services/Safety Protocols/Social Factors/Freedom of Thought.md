@@ -23,3 +23,6 @@ There are a number of behaviors that can threaten freedom of thought, including:
 4.  Groupthink: Pressure to conform to the beliefs or opinions of a particular group can discourage independent thought and limit the diversity of ideas and perspectives.
     
 5.  Lack of access to information: If people do not have access to a wide range of viewpoints and sources of information, they may be limited in their ability to think freely and form their own opinions.
+
+
+#socialfabric #ValuesFrameworks #SafetyProtocols

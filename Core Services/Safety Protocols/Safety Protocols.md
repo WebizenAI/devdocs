@@ -2,3 +2,4 @@ There is a balance between absolute security and secrecy / privacy vs. social ne
 
 The Safety Protocols requirement will end-up being defined in-full to be interoperable terms with by [The Webizen Charter](Social%20Factors/The%20Webizen%20Charter.md). 
 
+#socialfabric #ValuesFrameworks #SafetyProtocols

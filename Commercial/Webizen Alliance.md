@@ -12,3 +12,4 @@ The effect of this alliance has multiple tiers;
 2. Value Added Reseller (VAR)
 	A VAR would generally be some sort of vendor who provides some sort of valued services to an end-user / consumer / owner of a webizen system.
 
+#socialfabric #ValuesFrameworks

@@ -11,3 +11,5 @@ There are MANY who've been instrumentally supportive in various ways over time (
 What i have found historically, is that many attempts to create 'decentralised platforms' have come and gone over the decades.  Whenever projects start with some kind of centralised model, they never seem to be able to get to the part where they're then able to decentralise the platform and/or platform deployments, as to support the human rights of people that groups involved in commercialising products / platforms, want to have depending upon their works / platforms. 
 
 As such; great care has been taken, to seek to ensure that there are no barriers for doing it right, to do the right thing by people, who i hope will benefit greatly through the use of Webizen technology.
+
+#draft 

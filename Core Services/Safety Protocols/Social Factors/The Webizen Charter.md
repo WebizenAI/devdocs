@@ -26,3 +26,5 @@ The Artificial Intelligence related terms; also consider the following aspects,
 
 3. Humans always stewards of our 'Tools'. 
    This principal relates to the use of software and other sorts of tools, as to support the values outlined by (1) and (2).  
+
+#socialfabric #ValuesFrameworks #SafetyProtocols
