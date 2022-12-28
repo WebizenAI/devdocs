@@ -59,12 +59,8 @@
             "id": "e9840d05f6f21c30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDHR.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDHR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDHR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UDHR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,17 +204,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e9840d05f6f21c30",
+  "active": "ab656e8d940feb93",
   "lastOpenFiles": [
-    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
+    "Attachments/Pasted image 8.png",
+    "Attachments/Pasted image 5.png",
+    "Attachments/Pasted image.png",
     "UDHR.md",
+    "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/MD-RDF Ontologies/FOAF.md",
     "Core Technologies/Webizen App Spec/WebSpec/HTML SPECS.md",
     "Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/Sitemap.md",
     "Core Services/Temporal Semantics.md",
     "Core Services/Safety Protocols/Social Factors/Relationships (Social).md",
-    "Core Services/Safety Protocols/Social Factors/Social Attack Vectors.md",
-    "Core Services/Safety Protocols/Social Factors/Ending Digital Slavery.md",
-    "Core Services/Safety Protocols/Social Factors/Freedom of Thought.md",
-    "Core Services/Safety Protocols/Social Factors/Best Efforts.md"
+    "Core Services/Safety Protocols/Social Factors/Social Attack Vectors.md"
   ]
 }
