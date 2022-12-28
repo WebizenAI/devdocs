@@ -20,7 +20,10 @@ The Webizen 1.0 will be used to develop the [Webizen Alliance](Commercial/Webize
 8. Webizen 2.0
 9. Commercial
 
-
+### History about the battle btw mainframes & personal computing
+```html
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8&font=Default&lang=en&hash_bookmark=true&initial_zoom=4&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+```
 #### DOCUMENT NOTES:
 Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case.
 
