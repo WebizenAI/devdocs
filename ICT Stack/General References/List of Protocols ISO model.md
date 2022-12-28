@@ -152,15 +152,15 @@ This layer, presentation Layer and application layer are combined in [TCP/IP mo
 
 ## Layer 6 ([Presentation Layer](https://en.wikipedia.org/wiki/Presentation_layer "Presentation layer"))
 
--   [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security") Transport Layer Security[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
--   [SSL](https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol "Secure Socket Tunneling Protocol") Secure Socket Tunneling[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
--   [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol "Apple Filing Protocol") Apple Filing Protocol[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security "Transport Layer Security") Transport Layer Security[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [SSL](https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol "Secure Socket Tunneling Protocol") Secure Socket Tunneling[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol "Apple Filing Protocol") Apple Filing Protocol[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   Independent Computing Architecture (ICA), the Citrix system core protocol
--   Lightweight Presentation Protocol (LPP)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   Lightweight Presentation Protocol (LPP)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   NetWare Core Protocol (NCP)
--   Network Data Representation (NDR)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   Network Data Representation (NDR)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   Tox, The Tox protocol is sometimes regarded as part of both the presentation and application layer
--   eXternal Data Representation (XDR)[[2]](https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
+-   eXternal Data Representation (XDR)[2](2)(https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)#cite_note-:0-2)
 -   X.25 Packet Assembler/Disassembler Protocol (PAD)
 
 ## Layer 7 ([Application Layer](https://en.wikipedia.org/wiki/Application_layer "Application layer"))

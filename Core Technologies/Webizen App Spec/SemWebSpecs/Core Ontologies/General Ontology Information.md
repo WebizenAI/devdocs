@@ -1,12 +1,12 @@
 
-Ontologies are defined using [[RDF]]. 
+Ontologies are defined using [RDF](../W3C%20Specifications/RDF.md). 
 
 CORE Ontologies include;
-- [[Core Technologies/Webizen App Spec/SemWebSpecs/Core Ontologies/FOAF]]
-- [[RDFS]]
-- [[OWL]]
-- [[SOIC]]
-- [[SKOS]]
+- [FOAF](FOAF.md)
+- [RDFS](RDFS.md)
+- [OWL](OWL.md)
+- [SOIC](SOIC.md)
+- [SKOS](SKOS.md)
 
 
 

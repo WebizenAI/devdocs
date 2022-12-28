@@ -2,7 +2,7 @@ The Webizen Charter is the web-civics version of the 3 laws of robotics or the U
 
 Its yet to be formally defined, yet basically, its about promoting good (even if not understood at the time) whilst discouraging / punishing bad behaviours.  The structure of it, seeks to support the semantics of what people involved 'believe' rather than being dictatorial; and, It seeks to support rule of law.  
 
-There are also philophical elements, yet these constituencies are often emboided in some form via existing [[Values Credentials]]. As such, it forms a fabric to support both; network wide scale terms, in addition to personal terms; that relate more specifically to the user and/or their dependants (ie: their kids, or elderly persons for whom they are lawfully responsible to make just decisions for).
+There are also philophical elements, yet these constituencies are often emboided in some form via existing [Values Credentials](../Values%20Credentials.md). As such, it forms a fabric to support both; network wide scale terms, in addition to personal terms; that relate more specifically to the user and/or their dependants (ie: their kids, or elderly persons for whom they are lawfully responsible to make just decisions for).
 
 The Artificial Intelligence related terms; also consider the following aspects,
 
@@ -10,7 +10,7 @@ The Artificial Intelligence related terms; also consider the following aspects,
 
 	a. It is not upto a 'computer' to determine finally a 'just outcome' rather, the facility is provided socially via courts of law.  Systems are produced to support the requirements of courts of law.
 	
-	b. That the right to self-determination (as is required and a requirement for [[Freedom of Thought]] ) depends upon an ability for persons to have some sense of situation awareness that is provided to them - on a basis that may reasonably be considered [[Best Efforts]] as to distinguish a circumstance where a person engaged in behaviour that was an intentional or willful breach, vs. other circumstances that should influence the determinations of fault & other 'common' responsibilities.
+	b. That the right to self-determination (as is required and a requirement for [Freedom of Thought](Freedom%20of%20Thought.md) ) depends upon an ability for persons to have some sense of situation awareness that is provided to them - on a basis that may reasonably be considered [Best Efforts](Best%20Efforts.md) as to distinguish a circumstance where a person engaged in behaviour that was an intentional or willful breach, vs. other circumstances that should influence the determinations of fault & other 'common' responsibilities.
 	
 	c. That the environment expressly supports the means for persons to both learn about; and support / agree / take-on the personal responsibility, to uphold particular values.  If somone engages with another who has not taken-on those values, then to some-degree they do so knowingly. 
 	
