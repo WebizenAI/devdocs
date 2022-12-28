@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "430d16bb04c0d548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation V1/Networking Considerations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen 2.0/Webizen Pro Summary.md",
+                "file": "Implementation V1/Networking Considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen 2.0/Webizen Pro Summary.md",
+                "file": "Implementation V1/Networking Considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen 2.0/Webizen Pro Summary.md"
+                "file": "Implementation V1/Networking Considerations.md"
               }
             }
           },
@@ -192,8 +204,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ba49de72a743cf91",
+  "active": "430d16bb04c0d548",
   "lastOpenFiles": [
+    "Webizen 2.0/Webizen Pro Summary.md",
     "Webizen 2.0/Webizen Vision.md",
     "HyperMedia Library.md",
     "Core Services/Permissive Commons.md",
@@ -202,7 +215,6 @@
     "old-work-archives/2018-webizen-net-au/resource-library/handong1587/_posts/deep_learning/2015-10-09-dl-applications.md",
     "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary.md",
     "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
-    "Core Services/Temporal Semantics.md",
-    "Core Services/Webizen Socio-Economics/Sustainable Development Goals (ESG).md"
+    "Core Services/Temporal Semantics.md"
   ]
 }
