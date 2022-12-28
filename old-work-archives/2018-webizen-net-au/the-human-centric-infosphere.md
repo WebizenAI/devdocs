@@ -10,31 +10,26 @@ inline_featured_image:
 sharing_disabled:
     - '1'
 ---
-```html
-###### *<span style="font-weight: 400;">Artificium Corpora et Sapientiae Universitas </span>*
 
-> *<span style="font-weight: 400;">Webizen.net.au is about how it is entirely possible, to build a knowledge banking industry that is designed to support, a non-linear knowledge curation framework. These systems produce ‘inforgs’, that support the electromagnetic operation of Human Experience</span>*
-> 
-> An **inforg** is an informationally embodied organism, entity made up of information, that exists in the [infosphere](https://en.wikipedia.org/wiki/Infosphere "Infosphere"). These informationally embodied organisms are also called natural agents. source [wikipedia](https://en.wikipedia.org/wiki/Inforg)
+## Artificium Corpora et Sapientiae Universitas 
 
-<span style="font-weight: 400;">My core argument is that the present, cloud-computing, silo based architecture is distorting the reality of humanity as a whole, causing significant problems. I have held a strong belief about how it is these problems can be solved, and this website documents the outcomes formed as a result of around two decades of work done on producing (and contributing towards) the tooling for a ‘Human Centric Web’. My theory, has been built upon the underlying theory that our societies need ‘knowledge banking industries’. </span><span style="font-weight: 400;"> </span>
+Webizen.net.au is about how it is entirely possible, to build a knowledge banking industry that is designed to support, a non-linear knowledge curation framework. These systems produce ‘inforgs’, that support the electromagnetic operation of Human Experience.
+
+An **inforg** is an informationally embodied organism, entity made up of information, that exists in the [infosphere](https://en.wikipedia.org/wiki/Infosphere "Infosphere"). These informationally embodied organisms are also called natural agents. source [wikipedia](https://en.wikipedia.org/wiki/Inforg)
+
+My core argument is that the present, cloud-computing, silo based architecture is distorting the reality of humanity as a whole, causing significant problems. I have held a strong belief about how it is these problems can be solved, and this website documents the outcomes formed as a result of around two decades of work done on producing (and contributing towards) the tooling for a ‘Human Centric Web’. My theory, has been built upon the underlying theory that our societies need ‘knowledge banking industries’. 
 
 I started in 2000 with my idea for an information bank, and over the course of my journey, have had the opportunity to work with many world-leaders overtime, in what has been a remarkable journey.
 
-<span style="font-weight: 400;">In attempting to define the purpose of these works, in latin; </span>
+In attempting to define the purpose of these works, in latin; *Artificium*’ is defined to mean craft, skill or technology, *corpora* as the plural form of *corpus*, derives from the Latin word for body, or a “body of people” as to have now evolved to the term ”corporation” *Sapientiae* as to mean in plural wisdom; and *Universitas* the word latin word to mean “the whole, total, the universe, the world”.
 
-- *<span style="font-weight: 400;">Artificium</span>*<span style="font-weight: 400;">’ is defined to mean craft, skill or technology, </span>
-- *<span style="font-weight: 400;">corpora as t</span>*<span style="font-weight: 400;">he plural form of </span>*<span style="font-weight: 400;">corpus, </span>*<span style="font-weight: 400;">derives from the Latin word for body, or a “body of people” as to have now evolved to the term ”corporation”</span><span style="font-weight: 400;">, </span>
-- *<span style="font-weight: 400;">Sapientiae</span>*<span style="font-weight: 400;"> as to mean in plural wisdom; and </span>
-- *<span style="font-weight: 400;">Universitas</span>*<span style="font-weight: 400;"> the word latin word to mean “the whole, total, the universe, the world”.</span>
+The concept of corpus is used in relation to the concept of Persona Ficta which means ‘legal personality’, or legal entities who are not human. 
 
-<span style="font-weight: 400;">The concept of </span>*<span style="font-weight: 400;">corpus </span>*<span style="font-weight: 400;">is used in relation to the concept of </span>*<span style="font-weight: 400;">Persona Ficta</span>*<span style="font-weight: 400;"> which means ‘legal personality’, or legal entities who are not human. </span>
+By extension, the application of law has formed a man-made concept of ‘artificial persons’ that are now attributed legal rights, independent to its relationships with natural persons. 
 
-<span style="font-weight: 400;">By extension, the application of law has formed a man-made concept of ‘artificial persons’ that are now attributed </span>*<span style="font-weight: 400;">legal rights,</span>*<span style="font-weight: 400;"> independent to its relationships with natural persons. </span>
+Natural legal persons are of course distinct to any ‘artificial person’ and whilst the original context was formed in the previous generation of (“printing era”) technology and tools; the application of considerations with respect to ‘artificial actors’ now also include ICT agents. 
 
-<span style="font-weight: 400;">Natural legal persons are of course distinct to any ‘artificial person’ and whilst the original context was formed in the previous generation of (“printing era”) technology and tools; the application of considerations with respect to ‘artificial actors’ now also include ICT agents. </span>
-
-<span style="font-weight: 400;">The purpose of a ‘human centric web’, through the active use of inforgs, is to adapt the use of technology, to progress humanity as a species, in service to our natural world.</span>
+The purpose of a ‘human centric web’, through the active use of inforgs, is to adapt the use of technology, to progress humanity as a species, in service to our natural world.
 
 This site is designed to compile the work-product produced; alongside related links and information; in the hope it’ll be useful to others. The site contains libraries of links, videos, books that are available to learn about the global standards based software tooling and related software products; alongside an array of thoughts, business concepts and related theory produced by me.
 

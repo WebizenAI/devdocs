@@ -8,8 +8,8 @@ guid: 'https://www.webizen.net.au/?page_id=496'
 inline_featured_image:
     - '0'
 ---
-
-<span style="font-weight: 400;">As is programatically a constituent of the effects brought about by [the integral works of others](https://www.webizen.net.au/about/history/history-global-governance-ict-1/); notwithstanding the fields of endeavour as yet left unattended,</span>
+```html
+<span style="font-weight: 400;">As is programmatically a constituent of the effects brought about by [the integral works of others](https://www.webizen.net.au/about/history/history-global-governance-ict-1/); notwithstanding the fields of endeavour as yet left unattended,</span>
 
 <span style="font-weight: 400;">It is the case today, that in living memory, the concept of money has transformed systems based on the [gold standard](https://en.wikipedia.org/wiki/Gold_standard), to the binary notations produced by ICT. It is now the case that the complexities of [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money) and [Fractional Reserve Banking](https://en.wikipedia.org/wiki/Fractional-reserve_banking) are a complex area of specialised knowledge which was to some-degree, made simple by the post by visualcapitalist.com in 2017 of “[All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/)” as to see the effect of these global, structural works.</span>
 
@@ -48,3 +48,5 @@ In other words, by other references; some alive today remember the circumstances
 <span style="font-weight: 400;">The fastest way to bring this about; is to form the economic means, through which, participating in the development of new and emergent economic models, beneficially supports them as they’re doing it. </span>
 
 If this is going to be made able to occur; the means to do so must be constructed in a manner that is rendered meaningful support by (accessible) law.
+
+```
