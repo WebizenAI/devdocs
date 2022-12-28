@@ -4,7 +4,7 @@ There are various 'classes' of bad actors which are not the same as one-another.
 
 Due to various forms of vulnerability and the lack of functionality provided to support [[../Values Credentials]] - that is, the ability to support a means where people self-declare what their values frameworks are; and both, what should be expected of them and in-turn also, the relationship.
 
-So, this document seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safety) [[Social)](Relationships (Social|Relationships (Social)]].md),  etc.
+So, this document seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safety) [[Relationships (Social|Relationships (Social|[Social)]]]].md),  etc.
 
 Topics: Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs. 
 

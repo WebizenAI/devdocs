@@ -2,7 +2,7 @@
 The [[Implementation V1/Webizen 1.0]] [[Implementation V1/App-design-sdk-v1/Design Goals/Design Goals Overview]] documents alongside the [[Implementation V1/Implementation V1 Summary]], provides information about the objectives, which seek to use [[Implementation V1/GoLang Libraries]] as a means to quickly produce a solution that provides basic functionality as required to make progress.
 
 **There are two packages required;**
-a. An Implementation that can be installed and operated on a VPS:  [[VPS)](Implementation V1/vps/Server Functionality Summary (VPS|Server Functionality Summary (VPS)]].md)
+a. An Implementation that can be installed and operated on a VPS:  [[Implementation V1/vps/Server Functionality Summary (VPS|Server Functionality Summary (VPS|[VPS)]]]].md)
 b. An Implementation that can be easily installed and operated on Home Computers: [[Implementation V1/edge/Webizen Local App Functionality]] 
 
 The project intends to improve upon the works already previously demonstrated as [GOLD](https://github.com/linkeddata/gold). 

@@ -9,7 +9,7 @@ The Values Credentials, provide support for how other agents are able to be mana
 
 Users are able to use values credentials, to help them curate how they interact with other agents; and can even provide support for excluding themselves from other agents who do not share some particular common-value that is of great importance to that person / agent.
 
-Importantly also, these systems are designed to support [[../Temporal Semantics]] as part of how these systems play a fundamental role in supporting [[Social)](Social Factors/Relationships (Social|Relationships (Social)]].md), [[../../Implementation V1/App-design-sdk-v1/Core Apps/Credentials & Contracts Manager]], [[../../Implementation V1/App-design-sdk-v1/Core Apps/Agent Directory]]
+Importantly also, these systems are designed to support [[Social Factors/Relationships (Social|Relationships (Social|[../Temporal Semantics]]]].md), [[../../Implementation V1/App-design-sdk-v1/Core Apps/Credentials & Contracts Manager]], [[../../Implementation V1/App-design-sdk-v1/Core Apps/Agent Directory]]
 
 ### Types of Values Credentials
 

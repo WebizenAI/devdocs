@@ -2,4 +2,4 @@ The Concept of Sociosphere Ontologies is similar and interactive with [[Biospher
 
 Presently, many electronically interactive socio-economic systems prioritise the value of claims over whether or not they've been categorised appropriately or indeed also, if intimated to be 'facts', whether or not they're actually true.   
 
-There are many interactive concepts and implications that delineate the relationships between activities and inferences; that is the causal relationships between natural agents, and observers; and these natural systems have [[../Temporal Semantics]] and are impactful with [[Social)](../Safety Protocols/Social Factors/Relationships (Social|Relationships (Social)]].md).
+There are many interactive concepts and implications that delineate the relationships between activities and inferences; that is the causal relationships between natural agents, and observers; and these natural systems have [[../Safety Protocols/Social Factors/Relationships (Social|Relationships (Social|[../Temporal Semantics]]]].md).

@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-- [Gatsby CLI](getting-started/gatsby-cli.mdx)
-  - [你好世界](getting-started/你好世界.mdx)
+- [[getting-started/gatsby-cli.mdx|Gatsby CLI]]
+  - [[getting-started/你好世界.mdx|你好世界]]
   - [[世界]]
   - [[note-properties]]
   - [[write-notes-in-foam]]
@@ -11,11 +11,11 @@
 
 ## Usage
 
-- [Customization](usage/customization.mdx)
-- [Local development](usage/local-development.mdx)
-- [Live Code](usage/live-code.mdx)
-- [Front Matter](usage/front-matter.mdx)
-- [Using Images](usage/using-images.mdx)
+- [[usage/customization.mdx|Customization]]
+- [[usage/local-development.mdx|Local development]]
+- [[usage/live-code.mdx|Live Code]]
+- [[usage/front-matter.mdx|Front Matter]]
+- [[usage/using-images.mdx|Using Images]]
 
 ## Features
 
