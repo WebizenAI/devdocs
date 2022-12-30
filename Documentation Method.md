@@ -20,7 +20,7 @@ The alternative that i've used is described below;
 1. Github: 
 	a. A user needs to set-up a [GitHub](https://github.com/) account. 
 	b. then they need to set-up a github repo to publish their documents #website 
-	c. The user then needs to set-up [GitHub Pages](https://pages.github.com/). Make sure you set the pages link to the gh-pages branch.
+	c. The user then needs to set-up [GitHub Pages](https://pages.github.com/). Make sure you set the pages link to the gh-pages branch.  Decide whether you want to use the github provided address or add a cname to the dns records of your domainname, sync and add ssl.
 	d. Then they need to download [GitHub Desktop](https://github.com/) and clone the repo to a local storage location.
 
 2. Download and install [vscode](https://code.visualstudio.com/)
@@ -38,5 +38,27 @@ The alternative that i've used is described below;
 	
 	Obsidian automatically saves files.  
 	
-5. Publish
+5. Publish or Publish Draft
 	When you're ready, go back to github desktop and you should see that your project has a bunch of updates. In Github Desktop, goto the repo (project) create a 'commit' by providing a summary and description, then d hit 'commit to main'; and push the 'pull' button. 
+	
+	If you get an error with  ```workspace.json``` right click and add to .gitignore. 
+	
+	a. Current Branch: Main - The main branch will build the application, and publish it to gh-pages. 
+	b. drafts: if you want to save your draft, but not publish it - try creating a different branch. 
+	
+	NOTE: GIT has a learning curve.  I've had some difficulties with it, and i'm still working on it. 
+
+
+hope that helps! 
+
+**NOTE:** I have had some difficulty with syncing. I have found at times, that work appears to have dissappeared.  In-turn also, i've had challenges with git and git-stash requirements, which has led me to figure out how to find files (work) that have 'gone'; and then go and recover it.  
+
+put simply, you've got to goto the git system files and look at the log; then find the hash for the stash that's been lost; and goto command prompt and type in git branch (name of branch - ie: recovered) and then the hash.  Then after its been recovered, there's a process to merge back with the original files.
+
+Whilst the method explained above is intended to be useful; it may also be better, to keep the local docs seperate from docs uploaded to github: so basically, write the docs in obsidian and store your work in progress in a folder somewhere; then, when you want to upload it - copy those files to the github folder location, overwriting old files.  
+
+The other issue that i've had is that HTML in files can break gatsby; so, in the github actions section (online in github) you'd need to look at what might have gone wrong if the build fails & then fix it. 
+
+I'm therefore thinking about how to apply [[Phase 1 Fee For Service Offerings]] type concepts to get help for people, although i'm not entirely sure how to do that yet. 
+
+In anycase; that's how this development documentation has been produced for the [devdocs.webizen.org](https://devdocs.webizen.org) site.

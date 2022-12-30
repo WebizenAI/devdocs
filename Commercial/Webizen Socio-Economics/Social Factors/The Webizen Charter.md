@@ -2,7 +2,7 @@ The Webizen Charter is the web-civics version of the 3 laws of robotics or the U
 
 Its yet to be formally defined, yet basically, its about promoting good (even if not understood at the time) whilst discouraging / punishing bad behaviours.  The structure of it, seeks to support the semantics of what people involved 'believe' rather than being dictatorial; and, It seeks to support rule of law.  
 
-There are also philophical elements, yet these constituencies are often emboided in some form via existing [Values Credentials](../Values%20Credentials.md). As such, it forms a fabric to support both; network wide scale terms, in addition to personal terms; that relate more specifically to the user and/or their dependants (ie: their kids, or elderly persons for whom they are lawfully responsible to make just decisions for).
+There are also philophical elements, yet these constituencies are often emboided in some form via existing [Values Credentials](Values%20Credentials.md). As such, it forms a fabric to support both; network wide scale terms, in addition to personal terms; that relate more specifically to the user and/or their dependants (ie: their kids, or elderly persons for whom they are lawfully responsible to make just decisions for).
 
 The Artificial Intelligence related terms; also consider the following aspects,
 

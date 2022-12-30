@@ -1,7 +1,6 @@
-**
+
 
 HyperMedia Library Modelling
-
 
 Concept
 

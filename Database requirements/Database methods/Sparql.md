@@ -1,1 +1,0 @@
- [Sparql Family](../../Core%20Technologies/Webizen%20App%20Spec/SemWebSpecs/Sparql/Sparql%20Family.md) is the intended native method for the platform.
