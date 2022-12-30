@@ -48,7 +48,9 @@ The overarching mandate involves establishing, building, testing and refining th
 
 In-order to drive the economics and take-up of this new internet platform functions, a corporate structure is to be established. 
 
-The Objective of this structure is to support the development of a knowledge banking industry, that supports the interests of people (citizens) ahead of more narrowly focused for-profit enterprise structures. ![](./Webizen2015/image2.png)
+The Objective of this structure is to support the development of a knowledge banking industry, that supports the interests of people (citizens) ahead of more narrowly focused for-profit enterprise structures. 
+
+![[image2.png]]
 
 The 'hub' of these activities relate to the development and operation of systems that will be storing data on behalf of users in a manner that is secure and able to securely be used with applications designed to use the data, for specified use, stored by the user.
 
@@ -138,7 +140,7 @@ Holborn]{.underline}](https://docs.google.com/document/d/1WuztAUPQ0usSbXhL1YhIrp
 Web Civics aims to be a world-class contributor to the Knowledge Economy. Through its works as a Non-Profit, supported by practical hands-on programs of work establishing network infrastructure to support local markets and empower enterprise. Media Prophet and Trust Factory support the engine-room of an international Civics Agenda. The entities are initially planned to be operated in Australia with an International Alliance of market leading professionals, organisations, and webizens committed to the development of the Web and its beneficial application in all efforts directed towards egalitarian democracies and the way in
 which all of humanity may be supported in growing to fullest potential.
 
-![](./WEbizen2015/image1.png)
+![](image1.png)
 
 Rich Media Distribution accounts for a significant portion of Internet infrastructure use. In the SandVine report for the second half of 2014[^1], The Peak Period Traffic Composition of Internet use in Asia Pacific shows significant percentages of Real-Time Entertainment.
 
@@ -166,7 +168,7 @@ Systems supporting Linked-Data technology are already deployed in many of the la
 
 ### What is Web Science?
 
-![](./Webizen2015/image3.jpg)
+![](image3.jpg)
 
 The Concept of [Web Science](http://en.wikipedia.org/wiki/Web_science) is an emerging profession, providing a structure of study and education. The concept was introduced early to leading edge web practitioners in a presentation about [Network Theory by Tim Berners-Lee](https://www.youtube.com/watch?v=u_2YWiaPJ6A).
 He described the concept of 'philosophical engineering', incorporating psychology, social sciences, and economics into a specialised field of Web Science.
