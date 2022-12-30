@@ -1,4 +1,4 @@
-Webizen 1.0 is a 'hello world' platform.  The details of the objectives are described in the [Implementation V1 Summary](Implementation%20V1%20Summary.md) document. 
+Webizen 1.0 is a 'hello world' platform.  The details of the objectives are described in the [Implementation V1](Implementation%20V1.md) document. 
 
 Webizen 1.0 is intended to provide an ability to either sign-up to a webizen provider or create your own on your own VPS, and then using an installer package for your Windows/OSX/Linux desktop/laptop machines, with an installation helper, set-up a 'Webizen' Environment that provides the user an ability to make, use and maintain their own AI environment, that is able to be used in various ways through the use of apps designed using HTML5 (HTML/JS/CSS) that operate locally, or online on other devices by authentication into the users Webizen AI environment.
 

@@ -7,9 +7,9 @@ The documentation library is under active development and will continue to be up
 If you are interested in being involved then send me a connection request on [linkedin](https://www.linkedin.com/in/ubiquitous/) and send me a message to let me know.  There is also a [Web Civics Discord](https://discord.gg/HX7W4gY45N) Group and various other bits and pieces lying about generally.  
 
 ### Webizen V1 Project Documentation
-The [Webizen 1.0](Implementation%20V1/Webizen%201.0.md) [Design Goals Overview](Implementation%20V1/App-design-sdk-v1/Design%20Goals/Design%20Goals%20Overview.md) documents alongside the [Implementation V1 Summary](Implementation%20V1/Implementation%20V1%20Summary.md), provides information about the objectives, which seek to use [GoLang Libraries](Implementation%20V1/GoLang%20Libraries.md) as a means to quickly produce a solution that provides basic functionality as required to make progress.
+The [Webizen 1.0](Implementation%20V1/Webizen%201.0.md) [Design Goals Overview](Implementation%20V1/App-design-sdk-v1/Design%20Goals/Design%20Goals%20Overview.md) documents alongside the [Implementation V1](Implementation%20V1.md), provides information about the objectives, which seek to use [GoLang Libraries](Implementation%20V1/GoLang%20Libraries.md) as a means to quickly produce a solution that provides basic functionality as required to make progress.
 
-The [[Work Methods Statement]] document provides some general information about the background, whilst the documents under the 'commercial' folder provide more general information.
+The [[Social Factors]] document provides some general information about the background, whilst the documents under the 'commercial' folder provide more general information.
 
 **There are two packages required;**
 a. An Implementation that can be installed and operated on a VPS:  [[Server Functionality Summary (VPS)]]
@@ -30,12 +30,12 @@ The Webizen 1.0 will be used to develop the [Webizen Alliance](Webizen%20Allianc
 8. Webizen 2.0
 9. Commercial
 
-### History about the battle btw mainframes & personal computing
-```html
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8&font=Default&lang=en&hash_bookmark=true&initial_zoom=4&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-```
+### [History about the battle btw mainframes & personal computing](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8)
+
+The [timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8) provides some historical content, primarily about Steve Jobs and Tim Berners-Lee.  IMO: its always good, to review history... 
+
 #### DOCUMENT NOTES:
-Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case.  Other articles have been quickly generated using chat.openai.com.  The [[Documentation Method]] document also provides some information about how to create a site like this for yourself, and in-turn acts also to illustrate some points that are useful prior to doing more collaborative work on this documentation project with others. 
+Some content is produced through the use of information obtained from Wikipedia.  The links are provided to the articles, where this is the case. Other articles have been quickly generated using [chat.openai.com](https://chat.openai.com).  The [[Documentation Method]] document also provides some information about how to create a site like this for yourself, and in-turn acts also to illustrate some points that are useful prior to doing more collaborative work on this documentation project with others. 
 
 
 #intro #Summary #draft

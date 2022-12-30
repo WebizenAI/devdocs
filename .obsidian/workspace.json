@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/WebCivics BizPlan 2018.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/WebCivics BizPlan 2018.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/WebCivics BizPlan 2018.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/WebCivics BizPlan 2018.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "f9e7acf7eb769826",
   "lastOpenFiles": [
-    "old-work-archives/webcivics-mediumexport/2019/Inforgs & The Collective Infosphere.md",
-    "old-work-archives/webcivics-mediumexport/WebCivics Medium Posts.md",
-    "old-work-archives/webcivics-mediumexport/2019/Tech for Permissive Commons.md",
-    "old-work-archives/webcivics-mediumexport/2019/The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech..md",
-    "old-work-archives/webcivics-mediumexport/2019/An Open Letter - What is your Digital Identity Mandate for Humanity.md",
-    "old-work-archives/webcivics-mediumexport/during-covid/A Major Manifestation Problem.md",
-    "old-work-archives/webcivics-mediumexport/2019/Causal Relationships between Social informatics design and Quantum Mechanical Phenomenon..md",
-    "old-work-archives/WebCivics BizPlan 2018.md",
-    "old-work-archives/webcivics-mediumexport/during-covid/Do We Need a Space Time Navigator.md",
-    "old-work-archives/webcivics-mediumexport/during-covid/Is an International Cyber Migration Even Possible.md"
+    "Social Factors.md",
+    "Implementation V1.md",
+    "old-work-archives.md",
+    "Webizen App Spec.md",
+    "Work in Progress.md",
+    "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+    "old-work-archives/2018-webizen-net-au/about/history.md",
+    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/reanimation.md",
+    "old-work-archives/2018-webizen-net-au/about/executive-summary/consumer-protections.md",
+    "old-work-archives/2018-webizen-net-au/about/executive-summary/knowledge-banking-legal-structures.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 id: 533
-title: 'Roles &#8211; Entity Analysis'
+title: 'Roles & Entity Analysis'
 date: '2018-10-02T12:55:24+10:00'
 author: ubiquitous
 layout: page
@@ -19,13 +19,13 @@ It is important to note that jurisdictional considerations have an influence on 
 - <span style="font-weight: 400;">A real-world actor may be subject to legal penalties in a manner that is distinct to the role of any other legal actor.</span>
 - <span style="font-weight: 400;">Human actors are rendered means in which to socioeconomically participate by way of the socio-geopolitical mechanic of personhood; in which citizenship makes distinct those whom a series of interpretive definitions apply in a particular form of manifest; vs. those considered to be ‘alien’ to any-such geographically defined environment.</span>
 
-##### **Persona Ficta;** *<span style="font-weight: 400;"> ‘[legal person](https://en.wikipedia.org/wiki/Legal_person)‘ or ‘legal personality’</span>*
+##### **Persona Ficta;**  ‘[legal person](https://en.wikipedia.org/wiki/Legal_person)‘ or ‘*legal personality*’
 
-- *<span style="font-weight: 400;">legal personalities, incorporating a group of persons as to form a group personality </span>*<span style="font-weight: 400;">which is rendered means of existence by way of shared responsibilities and whom by such means may own tangible legal rights whether ‘artificial’ (copyright), commons subject (law) or natural (land). </span>*<span style="font-weight: 400;"> </span>*
+- legal personalities, incorporating a group of persons as to form a group personality which is rendered means of existence by way of shared responsibilities and whom by such means may own tangible legal rights whether ‘artificial’ (copyright), commons subject (law) or natural (land). 
 - <span style="font-weight: 400;">Is operated by way of human actors whose responsibilities and custodianship may change from time to time.</span>
 
 ##### **[Persona](https://en.wiktionary.org/wiki/persona) [artificium](https://en.wiktionary.org/wiki/artificium)**
 
-*<span style="font-weight: 400;">An Artificial personalities that is brought about by the work of natural persons, to be an artificial and native actor within the [infosphere](https://en.wikipedia.org/wiki/Infosphere) whose acts influence the natural world; such as, a program, an applied machine learning algorithm and other forms of artificial intelligence.</span>*
+*An Artificial personalities that is brought about by the work of natural persons, to be an artificial and native actor within the [infosphere](https://en.wikipedia.org/wiki/Infosphere) whose acts influence the natural world; such as, a program, an applied machine learning algorithm and other forms of artificial intelligence.*
 
-- <span style="font-weight: 400;">A work of art produced by one or more persons which by its operation brings cause to influence the acts of others in a manner that may or may not be intended by its custodians.</span>
+- A work of art produced by one or more persons which by its operation brings cause to influence the acts of others in a manner that may or may not be intended by its custodians.

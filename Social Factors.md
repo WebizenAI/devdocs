@@ -1,3 +1,6 @@
+
+## Work Methods Statement
+
 This field of endevour and related objectives have led to many very difficult challenges and hardships of an impactful nature.  
 
 From 2000, when considering the future of 'online data storage', whilst young and surviving through difficult circumstances, I wanted to ensure people were the primary custodians of the works that they've produced for the purpose of seeking to have some sort of beneficial socioeconomic future outcome related to the consequence of a person doing work that is sought to be used by others for economically gainful purposes.  The designs were also highly influenced by the stories of a somewhat distant relatives (grandfathers cousin) nobel prize winning work on how synapses work ([john carew eccles](https://www.nobelprize.org/prizes/medicine/1963/eccles/facts/)) and in-turn also, my interest in psychology.  In-effect, there was a series of moral concepts inextricably linked to the intended purpose of the works, from the beginnings. 

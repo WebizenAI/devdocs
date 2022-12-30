@@ -49,8 +49,11 @@ inline_featured_image:
 
 <span style="font-weight: 400;">The objective is to provide means in which those who know, can communicate more easily to others what it is they believe is important for them, and for others.</span>
 
-- <span style="font-weight: 400;">A Basic Vision Mapping Demo: </span>[<span style="font-weight: 400;">https://www.youtube.com/watch?v=ohmajJTcpNk</span>](https://www.youtube.com/watch?v=ohmajJTcpNk)
-- <span style="font-weight: 400;">High Quality Facial Animation: </span>[<span style="font-weight: 400;">https://www.youtube.com/watch?v=eOjzC\_NPCv8</span>](https://www.youtube.com/watch?v=eOjzC_NPCv8)
-- <span style="font-weight: 400;">Modelling Raw-Audio: </span>[<span style="font-weight: 400;">https://deepmind.com/blog/wavenet-generative-model-raw-audio/</span>](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- A Basic Vision Mapping Demo: [<span style="font-weight: 400;">https://www.youtube.com/watch?v=ohmajJTcpNk</span>](https://www.youtube.com/watch?v=ohmajJTcpNk)
+- High Quality Facial Animation: 
+- https://www.youtube.com/watch?v=eOjzC\_NPCv8 (https://www.youtube.com/watch?v=eOjzC_NPCv8)
+- Modelling Raw-Audio: 
+- https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+- https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 
-<span style="font-weight: 400;">The lack of details in this document about technology capability considerations should not be interpreted as not being considerate of what i can see, in terms of the possibilities, it seems ridiculous for me to describe the capabilities of the most advanced technologies to the intended audience of this document. </span>
+The lack of details in this document about technology capability considerations should not be interpreted as not being considerate of what i can see, in terms of the possibilities, it seems ridiculous for me to describe the capabilities of the most advanced technologies to the intended audience of this document.

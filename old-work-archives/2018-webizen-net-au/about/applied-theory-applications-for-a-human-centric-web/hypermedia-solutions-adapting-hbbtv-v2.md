@@ -1,6 +1,6 @@
 ---
 id: 574
-title: 'HyperMedia Solutions &#8211; Adapting HbbTV V2'
+title: 'HyperMedia Solutions Adapting HbbTV V2'
 date: '2018-10-02T16:52:30+10:00'
 author: ubiquitous
 layout: page

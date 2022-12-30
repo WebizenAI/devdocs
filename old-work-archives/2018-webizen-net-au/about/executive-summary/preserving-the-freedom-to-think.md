@@ -77,4 +77,3 @@ that the tools for you to make decisions about what you do with it, are not simp
 > 
 > — Timothy Holborn (@SailingDigital) [February 7, 2017](https://twitter.com/SailingDigital/status/828918333365817344?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
