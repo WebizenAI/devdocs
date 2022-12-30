@@ -1,5 +1,4 @@
 
-
 **Australian Knowledge Banking Industry Establishment**
 
 **Presented by:** **Timothy Charles Holborn** **("holborn")**
@@ -8,17 +7,18 @@
 
 **Document authored by:** **[Timothy Charles Holborn](https://www.linkedin.com/in/ubiquitous/)
 
-Date: 22nd November 2015 
+Date: 22nd November 2015
 
 [Original Document link](https://docs.google.com/document/d/1UZqygx0OpNbguvq-UNiryr9l7SQxJZ0auj8Dx15EJMU/edit?usp=sharing)
 
-#### BACKGROUND
+### BACKGROUND
+
 A unique opportunity exists to support the establishment of knowledge banking infrastructure, where legal entities store their own data. Applications in-turn address user-data storage, rather than storing user-data in the same database as the application, as is the current standard method for web-applications. Tim Berners-Lee labelled this concept 'socially aware cloud storage' in his 'design notes' webpage dated 17-8-2009. The concept is not new. It has been the subject of world-wide technology standards development since about 1998, Tim Holborn independently commencing work on this area from 2000.
 
 *The underlying principle can be simply explained by using an addressbook example. The principle is that i do not need to send you my details; I should only need to send you a link. In-turn that link is the web-address for a page, where my details are maintained by me. When i
 change my details, it will then be automatically updated because your reference is not the data provided to you on a temporal basis, but rather, the link, and access permissions pertaining to that link; that will obtain my details whenever you use the link.*
 
-From a technology standpoint, one of the most challenging obstacles has been how to support the creation of the underlying technology solutions in an inclusive manner as to support the management of patent-pools, dependencies with other software and software vendors (ie: browsers) and global awareness of the underlying architectural models that in-turn decentralise the opportunity for developing marketplaces (storage, website creation), identity, application and knowledge management systems.
+From a technology standpoint, one of the most challenging obstacles has been how to support the creation of the underlying technology solutions in an inclusive manner as to support the management of patent-pools, dependencies with other software and software vendors (ie: browsers) and global awareness of the underlying architectural models that in-turn decentralise the opportunity for developing marketplaces (storage, website creation), identity, application and knowledge management systems.
 
 Timothy Holborn, author of this document, started developing his "knowledge banking" concepts in 2000 with great naivety. Inspired by the work of Sir John Carew Eccles, who won a nobel prize for his work on synaptic nerve-cells. Apparently Tim Berners-Lee was inspired also by the way the brain worked, whilst he commenced building the 'semantic web' concepts with others, which has now been rebranded 'linked data'\...
 
@@ -31,7 +31,7 @@ Over what has become a 15 year journey, the next steps are to create an organisa
 societal and commercial impacts of this opportunity are vast.
 
 ## INTRODUCTION
-The principal architect of this opportunity is Timothy Holborn where the primary goal is to establish a Knowledge Banking Platform, the basis for the development of a new-industry servicing the needs of citizens data. 
+The principal architect of this opportunity is Timothy Holborn where the primary goal is to establish a Knowledge Banking Platform, the basis for the development of a new-industry servicing the needs of citizens data.
 
 The Knowledge Banking Platform is supported by global standards, such as open web-standards and those used for payments and identity systems. These systems enable legal entities to own their data whilst significantly enhancing the manner in which data may be used, for virtually limitless reuse potential, through web applications developed by anyone, that are designed to interoperate with these socially-aware cloud-storage dataspace systems via use W3C standardised methods. W3C is the World Wide Web Consortium, who is responsible for WWW software technologies such as HTML, XML, RDF and the array of others that make the web, function. The systems enabling the means to store data on behalf of the legal entity the data is about. In this way, they produce a user-experience that is similar to desktop computing, where the user owns the documents produced in a word processing package without damaging the rights of the company who made the word-processing package itself. Knowledge Banking allows this basic concept to be applied to web-applications, internet devices and systems that interact with WWW.
 
@@ -46,9 +46,9 @@ The overarching mandate involves establishing, building, testing and refining th
 
 ## CORPORATE STRUCTURE
 
-In-order to drive the economics and take-up of this new internet platform functions, a corporate structure is to be established. 
+In-order to drive the economics and take-up of this new internet platform functions, a corporate structure is to be established.
 
-The Objective of this structure is to support the development of a knowledge banking industry, that supports the interests of people (citizens) ahead of more narrowly focused for-profit enterprise structures. 
+The Objective of this structure is to support the development of a knowledge banking industry, that supports the interests of people (citizens) ahead of more narrowly focused for-profit enterprise structures.
 
 ![[image2.png]]
 
@@ -59,7 +59,7 @@ Non-profit activities are extremely important and will be managed by way of 'Web
 These products and services have an secondary impact in that if successful, they would lower the effective cost of media distribution whilst maintaining and enhancing media-industry economics; whilst simultaneously delivering a proof-of-concept for the knowledge-banking
 infrastructure by providing compelling opportunities for advertisers to deliver targeted advertising; in a manner that does not require sharing of user-information mandatorily, with advertisers.
 
-**BUILDING AN ECONOMIC PLATFORM & MARKETPLACE**
+## BUILDING AN ECONOMIC PLATFORM & MARKETPLACE
 
 The objective of establishing the Knowledge Banking Platform is to enables marketplaces to build applications that use the infrastructure where the paradigm is based upon users owning their data, not website owners/operators.
 
@@ -72,11 +72,11 @@ data.
 
 Differentiators from the existing market-place includes;
 
-**Web 2.0**
+#### **Web 2.0**
 
 Existing Users store User-Data and in-turn obtain a license for that data, as required to operate their business (that provides both applications and cloud-storage services (often free of end-user fees).
 
-**Commercial Use**
+#### **Commercial Use**
 
 a.  Existing services have very few tools that support citizens generating an income directly, in relation to the use of their data.
 
@@ -462,14 +462,15 @@ Users store information and define how to use that information in relation to an
 ## WHAT ARE CREDENTIALS?
 A ***credential*** is a qualification, achievement, quality, or piece of information about an entity's background, typically used to indicate suitability. A credential could include information such as a name, home address, government ID, professional license, or university degree. The use of credentials to demonstrate capability, membership, status, and minimum legal requirements is a practice as old as society itself. The potential use cases are innumerable, but common important examples are represented here in the domains of:
 
--   **Education** - where academic credentials and co-curricular activities are recognized and exchanged among learners, institutions, employers or consumers.
--   **Workplace** - where an applicant's certified skill or license is a condition for employment, professional development and promotability
--   **Civil Society** - where access to social benefits and contracts may be based on verifiable conditions such as marital status
--   **Payments** - where the legal right to purchase a product depends on the verifiable age or location of the buyer
--   **Identity** - where an entity presents credentials to prove their identity or qualification
--   **Ownership** - where an entity presents proof of ownership of a particular asset or a right to perform specific operations against a resource. Examples are ownership of securities that entitles the entity to dividend payments or the authority to transact on an account.
+- **Education** - where academic credentials and co-curricular activities are recognized and exchanged among learners, institutions, employers or consumers.
+- **Workplace** - where an applicant's certified skill or license is a condition for employment, professional development and promotability
+- **Civil Society** - where access to social benefits and contracts may be based on verifiable conditions such as marital status
+- **Payments** - where the legal right to purchase a product depends on the verifiable age or location of the buyer
+- **Identity** - where an entity presents credentials to prove their identity or qualification
+- **Ownership** - where an entity presents proof of ownership of a particular asset or a right to perform specific operations against a resource. Examples are ownership of securities that entitles the entity to dividend payments or the authority to transact on an account.
 
 ## **Goals**
+
 A number of W3C member organizations are proposing the creation of a new standardization activity around credentials on the Web with the following goals in mind:
 
 - **Interoperability** and **Portability.** We want to ensure that an open credential can be used by as broad of a range of organizations as possible. We firmly support the notion that a recipient of a credential should be able to store, archive, and migrate credentials throughout their lifetime with relative ease.
@@ -485,9 +486,11 @@ A number of W3C member organizations are proposing the creation of a new standar
 - **Patent and Royalty-free.** We are building public infrastructure whose growth should not be limited by patents and royalties. Credentials affect everyone and the technology to create them must be open and free.
 
 ## SEMANTIC REASONING SYSTEMS
+
 Semantic reasoning systems identifies unstructured data, such as text or contour information in images, or phonics in sound; and references that text with semantic web or structured data about how to represent that data in different ways. In this way, it can translate Voice to Text, or the term Tim Berners-lee: [http://mediaprophet.github.io/fusepool-uduvudu/](http://mediaprophet.github.io/fusepool-uduvudu/)
 
 ### MEDIA MARKET OPPORTUNITIES
+
 A key opportunity identified is community media. Spectrum Efficiency is becoming increasingly important, and whilst older legacy systems continue to use traditional DVB related technologies, IP based alternatives offer far more flexibility whilst also embodying an array of new issues that are arguably poorly considered by local markets, over medium to longer-term timelines. Within Europe in the mid to late 00's, a standard called 'TV-Anytime' first emerged, later progressing to form and build the now established HbbTV Standard, that has recently become HTML5 compatible with HbbTV v2; and is furnished with an accelerated
 opportunity for incumbent markets to commercialise an advanced, linked-data enabled HbbTV v2 Content package and standardised distribution format that can offer both extraordinary targeting and privacy, through the use of linked-data enabled dataspaces. Whilst debates may take place about DVB-T2 or HEVC enabled TV's, the majority of citizens can be enabled today through HDMI dongles and mobile devices. The Data-Volume involved at scale, paths the way
 
@@ -501,6 +504,7 @@ A number of systems will need to be developed in-order to support privacy soluti
 Whilst the application development program itself is not specifically designed to be extensible at this stage; the extensibility of Linked-Data Systems, where users store their own data, has virtually limitless reuse potential.
 
 ### USE CASE: Community Media, Education, and Content Syndication. 
+
 Within an indigenous 'outback' community, the local radio station has set-up their hypermedia capability. Their website offers an array of local media, that is available for syndication with local community tv providers and other news-outlets. Their system works by taking a percentage of the revenue attributed to the content they curate with local community members.
 
 They've got a shed they've turned into a historical society, storing valued historical artifacts that are important to their community. People in the community have memories of life, and stories that relate to those artifacts.
@@ -520,6 +524,7 @@ In this use-case, the practice of community media provides both the capacity to 
 employment.
 
 ## WEB CIVICS EVENTS - OVERVIEW
+
 It is important that Web Civics holds and supports events that will examine Web-Science from practice-led examples, demonstrating how these systems can be used, supporting the development of know-how within the community to leverage the technologies on their own merit for their own projects, and/or how to work within the Web Civics (and related entity)
 community, in defining projects and means for using these technologies and related Web Science knowhow, for specified tasks.
 
@@ -531,12 +536,14 @@ Whilst the format of the show is subject to the wishes of the show presenter, it
 presenters both locally and abroad to prepare presentations to an audience in a dynamic and engaging manner. In-turn, this brings the 'show' to geek. The production methodology is set-up in such a way as to support these forms of thematics. The idea is to make the experience fun and engaging. The way I believe this can be achieved, is through the means, methodologies and process undertaken to define the event.
 
 **SCHEDULE METHODOLOGY**
+
 The format theory is that we should be able to more effectively communicate concepts at low-cost using google hangouts or similar technology; however timezones are still important.
 
 Given most International leaders in these areas are located either in the US or the UK/EU, the theory was that an all day event may in-turn provide more options for a region that needs to deliver public outcomes with GMT+10 in mind operationally... The below is an outline put
 together, which is subject to change and development. Your input is very much welcomed. Opening / Introductory session: an introduction to Web-Science.
 
 ### Thematics: The Event Experience
+
 The thematics of this event seeks both to examine web-science through an edutainment experience, designed for community leaders; as well as doing so quickly, in a means that encourages people to go home and find those 1 hour long youtube videos explaining things in more detail...
 
 Patrons should leave thinking - *geez, didn't know web 3.0*[^2] *which means linked-data, was already powering the web - we've got to get onto this web-science stuff, find out how to use linked-data in our organisations...*
@@ -576,20 +583,20 @@ Data Rights is a complex, multi-faceted, policy discussion and emerging issue. W
 Local and International experts will be invited to participate in the panel locally and via TeleConferencing technology. The panel will start the conversation by introducing emerging issues pertaining to data rights, which will then be interactively discussed with the audience.
 
 **Sub-topics include (but are not limited to);**
--   Data Accessibility 
--   Asymmetry
--   Sovereignty / choice of law 
--   Security 
--   Reuse  & Accessibility 
--   Legal Innovation
--   Storage
--   E-Contracts
--   Encryption
--   Digital Ledgers
--   Credentials  
--   Proprietary vs. Open Standards
+- Data Accessibility
+- Asymmetry
+- Sovereignty / choice of law
+- Security
+- Reuse  & Accessibility
+- Legal Innovation
+- Storage
+- E-Contracts
+- Encryption
+- Digital Ledgers
+- Credentials  
+- Proprietary vs. Open Standards
 
-**RISK ANALYSIS - Risk Management**
+#### **RISK ANALYSIS - Risk Management**
 
 **VIRTUALLY LIMITLESS REUSE.**
 These dataspaces will in-future enable the safe and secure storage of information in much the same way banks provide secure storage of funds. These systems are already in-place, powering major social-networks, search, platform and online application providers. As the data is formatted in standardised formats, data can in-turn be used in virtually limitless ways to redress and/or address an array of issues from the lack of public statistics, through to ways of using complex data to solve problems like cancer.
