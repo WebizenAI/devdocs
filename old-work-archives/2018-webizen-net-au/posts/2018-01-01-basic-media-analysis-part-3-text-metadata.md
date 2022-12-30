@@ -1,6 +1,6 @@
 ---
 id: 212
-title: 'Basic Media Analysis &#8211; Part 3 (Text &#038; Metadata)'
+title: 'Basic Media Analysis & Part 3 (Text &#038; Metadata)'
 date: '2018-01-01T23:12:36+10:00'
 author: ubiquitous
 layout: post

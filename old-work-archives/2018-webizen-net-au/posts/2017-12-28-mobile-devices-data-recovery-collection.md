@@ -1,6 +1,6 @@
 ---
 id: 189
-title: 'Data Recovery &#038; Collection: Mobile Devices'
+title: 'Data Recovery & Collection: Mobile Devices'
 date: '2017-12-28T03:10:09+10:00'
 author: ubiquitous
 layout: post

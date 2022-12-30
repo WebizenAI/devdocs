@@ -1,6 +1,6 @@
 ---
 id: 214
-title: 'Basic Media Analysis &#8211; Part 1 (Audio)'
+title: 'Basic Media Analysis & Part 1 (Audio)'
 date: '2017-12-30T06:57:20+10:00'
 author: ubiquitous
 layout: post

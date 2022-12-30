@@ -1,6 +1,6 @@
 ---
 id: 70
-title: 'MindMapping &#8211; Setting-up a business &#8211; Identity'
+title: 'MindMapping & Setting-up a business & Identity'
 date: '2012-11-28T02:41:32+10:00'
 author: ubiquitous
 layout: post

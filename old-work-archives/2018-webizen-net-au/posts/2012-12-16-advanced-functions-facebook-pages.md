@@ -1,6 +1,6 @@
 ---
 id: 105
-title: 'Advanced Functions &#8211; Facebook Pages'
+title: 'Advanced Functions & Facebook Pages'
 date: '2012-12-16T02:44:02+10:00'
 author: ubiquitous
 layout: post

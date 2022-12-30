@@ -1,6 +1,6 @@
 ---
 id: 291
-title: 'Web of Things &#8211; an Introduction'
+title: 'Web of Things & an Introduction'
 date: '2018-09-21T19:33:15+10:00'
 author: ubiquitous
 layout: post

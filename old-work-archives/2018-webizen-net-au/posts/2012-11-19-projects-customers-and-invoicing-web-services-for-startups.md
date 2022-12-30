@@ -1,6 +1,6 @@
 ---
 id: 52
-title: 'Projects, Customers and Invoicing &#8211; Web-Services for Startups'
+title: 'Projects, Customers and Invoicing & Web-Services for Startups'
 date: '2012-11-19T07:13:47+10:00'
 author: ubiquitous
 layout: post

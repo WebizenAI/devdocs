@@ -107,7 +107,8 @@ PERSONHOOD
 
 In the fields of sociology, psychology and philosophy, the relationships between [Agency](https://en.wikipedia.org/wiki/Agency_(sociology)), [personhood](https://en.wikipedia.org/wiki/Personhood), [identity,](https://en.wikipedia.org/wiki/Identity_(philosophy)) [Metaphysics ](https://en.wikipedia.org/wiki/Metaphysics) have been an areas of exploration for a long time. This in-turn made-up part of what are known elements of a [liberal arts education](https://en.wikipedia.org/wiki/Liberal_arts_education).
 
-[![](https://upload.wikimedia.org/wikipedia/commons/4/49/Hortus_Deliciarum%2C_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG)]
+[![](https://upload.wikimedia.org/wikipedia/commons/4/49/Hortus_Deliciarum%2C_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG)
+
 [Herrad of Landsberg Public domain](https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG), via Wikimedia Commons Whilst this has been a field of study, as it does linguistically form relationships in the natural world, for sometime, the means to inform its intended rationale when appended to what is currently employed by ICT in our modern environment is different.
 
 - [Agency](https://en.wikipedia.org/wiki/Agency_(sociology)) sameAs/similarTo [FOAF Agent](http://xmlns.com/foaf/spec/#term_Agent)

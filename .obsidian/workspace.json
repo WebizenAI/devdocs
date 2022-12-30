@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0779f1e4a663d2f",
+        "id": "10f3107a403d8606",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e7acf7eb769826",
+            "id": "4967925e022e7391",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d46720ed798cc074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old-work-archives/webcivics-mediumexport/WebCivics Medium Posts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "webizen 1.0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9e7acf7eb769826",
+  "active": "4967925e022e7391",
   "lastOpenFiles": [
-    "Social Factors.md",
-    "Implementation V1.md",
-    "old-work-archives.md",
-    "Webizen App Spec.md",
-    "Work in Progress.md",
-    "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
-    "old-work-archives/2018-webizen-net-au/about/history.md",
-    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/reanimation.md",
-    "old-work-archives/2018-webizen-net-au/about/executive-summary/consumer-protections.md",
-    "old-work-archives/2018-webizen-net-au/about/executive-summary/knowledge-banking-legal-structures.md"
+    "ICT Stack/Authentication Fabric.md",
+    "ICT Stack/Core Services.md",
+    "ICT Stack/Internet.md",
+    "ICT Stack/Core Technologies/Semantic Web.md",
+    "ICT Stack/Core Technologies/Permissive Commons.md",
+    "ICT Stack/Core Services/Verifiable Claims & Credentials.md",
+    "ICT Stack/Authentication Fabric/Verifiable Credentials.md",
+    "ICT Stack/Core Services/Non-HTTP(s) Protocols.md",
+    "ICT Stack/Core Services/Decentralised Ontologies.md",
+    "Documentation Method.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'Tim Berners Lee &#8211; Turing Lecture'
+title: 'Tim Berners Lee & Turing Lecture'
 date: '2018-05-29T14:30:34+10:00'
 author: ubiquitous
 layout: post

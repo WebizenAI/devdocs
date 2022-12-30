@@ -1,6 +1,6 @@
 ---
 id: 259
-title: 'RWW &#038; some Solid history'
+title: 'RWW & some Solid history'
 date: '2018-09-21T19:09:48+10:00'
 author: ubiquitous
 layout: post

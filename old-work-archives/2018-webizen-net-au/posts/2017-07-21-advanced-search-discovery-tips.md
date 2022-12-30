@@ -1,6 +1,6 @@
 ---
 id: 151
-title: 'Advanced Search &#038; Discovery Tips'
+title: 'Advanced Search & Discovery Tips'
 date: '2017-07-21T15:23:16+10:00'
 author: ubiquitous
 layout: post

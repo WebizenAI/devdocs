@@ -1,6 +1,6 @@
 ---
 id: 327
-title: 'Logo&#8217;s, Style Guides and Artwork'
+title: 'Logo's, Style Guides and Artwork'
 date: '2012-11-28T03:46:14+10:00'
 author: ubiquitous
 layout: post

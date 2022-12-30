@@ -1,6 +1,6 @@
 ---
 id: 201
-title: 'Data Recovery: Laptop &#038; Computers'
+title: 'Data Recovery: Laptop & Computers'
 date: '2017-12-28T03:41:10+10:00'
 author: ubiquitous
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 326
-title: 'Creating a Presence &#8211; Online'
+title: 'Creating a Presence & Online'
 date: '2012-11-28T04:07:38+10:00'
 author: ubiquitous
 layout: post
