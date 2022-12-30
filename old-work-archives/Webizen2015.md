@@ -1,10 +1,6 @@
 
 
-
-
-**Australian Knowledge Banking**
-
-**Industry Establishment**
+**Australian Knowledge Banking Industry Establishment**
 
 **Presented by:** **Timothy Charles Holborn** **("holborn")**
 
@@ -12,8 +8,9 @@
 
 **Document authored by:** **[Timothy Charles Holborn](https://www.linkedin.com/in/ubiquitous/)
 
-SourceDate: [22nd November 2015](https://docs.google.com/document/d/1UZqygx0OpNbguvq-UNiryr9l7SQxJZ0auj8Dx15EJMU/edit?usp=sharing)
+Date: 22nd November 2015 
 
+[Original Document link](https://docs.google.com/document/d/1UZqygx0OpNbguvq-UNiryr9l7SQxJZ0auj8Dx15EJMU/edit?usp=sharing)
 
 #### BACKGROUND
 A unique opportunity exists to support the establishment of knowledge banking infrastructure, where legal entities store their own data. Applications in-turn address user-data storage, rather than storing user-data in the same database as the application, as is the current standard method for web-applications. Tim Berners-Lee labelled this concept 'socially aware cloud storage' in his 'design notes' webpage dated 17-8-2009. The concept is not new. It has been the subject of world-wide technology standards development since about 1998, Tim Holborn independently commencing work on this area from 2000.
