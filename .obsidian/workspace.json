@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/Webizen 2015.md",
+                "file": "old-work-archives/Webizen2015.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/Webizen 2015.md",
+                "file": "old-work-archives/Webizen2015.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/Webizen 2015.md",
+                "file": "old-work-archives/Webizen2015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/Webizen 2015.md"
+                "file": "old-work-archives/Webizen2015.md"
               }
             }
           }
@@ -160,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "a13d754864d56fdb",
   "lastOpenFiles": [
     "Attachments/image1.png",
     "old-work-archives.md",
-    "old-work-archives/Webizen 2015.md",
+    "old-work-archives/Webizen2015.md",
     "Webizen Tech Stack.md",
     "Webizen Tech Stack/Webizen 3.5.md",
     "old-work-archives/2018-webizen-net-au/posts/Contemplation of the ITU Dubai Meeting and the Future of the Internet.md",
