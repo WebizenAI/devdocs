@@ -12,7 +12,7 @@ The **Open Systems Interconnection model** (**OSI model**) is a [conceptual m
 | Media Layer | 2          | [Data link](https://en.wikipedia.org/wiki/Data_link_layer)       | [Frame](https://en.wikipedia.org/wiki/Frame_(networking))                                                                        | Transmission of data frames between two nodes connected by a physical layer                                                                                                                                                                                              |
 | Media Layer | 1          | [Physical](https://en.wikipedia.org/wiki/Physical_layer)         | Bit, Symbol                                                                                                                      | Transmission and reception of raw bit streams over a physical medium                                                                                                                                                                                                     |
 
-A broader description of these elements is provided here: [List of Protocols ISO model](../General%20References/List%20of%20Protocols%20ISO%20model.md). 
+A broader description of these elements is provided here: [List of Protocols ISO model](List%20of%20Protocols%20ISO%20model.md). 
 
 In practice; this model ends-up getting a bit mixed up, as work-arounds are defined to address various issues that exist that make it more difficult (or impossible) to achieve some sort of functionality via a more 'straight forward' approach (ie: the use of WireGuard / VPN technologies or the use of DNS over TLS or HTTPS). 
 

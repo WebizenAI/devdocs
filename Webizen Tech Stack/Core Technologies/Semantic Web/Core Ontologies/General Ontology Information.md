@@ -8,7 +8,7 @@ The Objective is to work to ensure the ontologies refer to working URIs.  Some n
 Part of what is sought to be achieved, is to decentralise the storage of URIs on protocols that are less suceptable to dead-links via [Decentralised Ontologies](Decentralised%20Ontologies.md) efforts, which is in-turn part of the [Permissive Commons](Permissive%20Commons.md) objectives more broadly.
 
 CORE Ontologies include;
-- [FOAF](ICT%20Stack/Core%20Technologies/Semantic%20Web/Core%20Ontologies/FOAF.md)
+- [FOAF](Webizen%20Tech%20Stack/Core%20Technologies/Semantic%20Web/Core%20Ontologies/FOAF.md)
 - [RDFS](RDFS.md)
 - [OWL](OWL.md)
 - [SOIC](SOIC.md)
