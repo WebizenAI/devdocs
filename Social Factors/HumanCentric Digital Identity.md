@@ -23,7 +23,7 @@ The 2018 webizen.net.au files;
 - [[socioeconomic-relations-p1]]
 - [[personal-augmentation-of-ai]]
 - [[preserving-the-freedom-to-think]]
-- [[2018-09-25-social-encryption-an-introduction]]
+- [[Social Encryption An Introduction]]
 
 (note there are more in that library)
 
