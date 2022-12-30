@@ -1,6 +1,8 @@
 
 
-## **Australian Knowledge Banking**
+
+
+**Australian Knowledge Banking**
 
 **Industry Establishment**
 
@@ -41,7 +43,7 @@ These systems support both open-software formats and closed-software formats to 
 When Open-standards based Software Formats are used (ie: RDF), the data become available to any application that is designed to read it, subject to the data owner's permission.
 
 It is Holborn's plan to form and establish a capability in Australia that incorporates the means to support international collaboration by way of a method of alliancing that is capable of managing some very complex issues surrounding the role taken by local territories around
-data, as the law would otherwise apply in the physical domain by way of traditional concepts of property (intellectual or otherwise). This strategy requires international support for engaging participation on an international level, whilst building a viable business locally that is capable of servicing our sovereign needs and opportunities through early-commercialisation of internationally developed technologies; and as an important counterpart to how this may be achieved, define means in which the business systems themselves are innovated as to rewards those contributing value; whilst also, ensuring local management of systems that store and/or govern, the personal and private data of local legal entities.
+data, as the law would otherwise apply in the physical domain by way of traditional concepts of property (intellectual or otherwise). This strategy requires international support for engaging participation on an international level, whilst building a viable business locally that is capable of servicing our sovereign needs and opportunities through early-commercialisation of internationally developed technologies; and as an important counterpart to how this may be achieved, define means in which the business systems themselves are innovated as to rewards those contributing value; whilst also, ensuring local management of systems that store and / or govern, the personal and private data of local legal entities.
 
 The overarching mandate involves establishing, building, testing and refining the means in which people safely and securely store their data where the terms of use for that data-storage service better reflect the situational needs of the legal entity (ie: local choice of law, privacy, et.al) and that the data be stored in a manner that enables standards & permissions based re-use, via linked-data technologies. Save local-law enforcement and related laws, a user should not be compelled to share their data with any 3rd party other than where subject to do so by law; and that it is hoped in such circumstances, any use be auditable via means of digital accountability. Furthermore, where disputes arise that may be aided with respect to available data, it is hoped our systems of law may be improved substantially by ensuring data may become more accessibility to the legal entity, at low cost, within and pursuant to their local system of justice, for the purpose of aiding citizens with access to justice.
 
