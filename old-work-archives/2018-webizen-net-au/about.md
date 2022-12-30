@@ -9,6 +9,8 @@ inline_featured_image:
     - '0'
 ---
 
+(NOTE: FILES ARE BEING UPDATED)
+
 Webizen.net.au is an compilation of works that have been built upon a basis of principles that seek to apply the use of technology, for rule of law in a manner that is ‘human centric’. This means that law is a system of democracy should be designed to support the interests of the people who live in that society.
 
 Law should also resource those who work on behalf of the public, to support the needs of their roles to do the job in a ‘fit and proper’ manner, lawfully.
