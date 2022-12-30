@@ -11,11 +11,88 @@
             "id": "f6259177b6ce2eb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/2019/The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f291af395d74c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/2019/HyperMedia Exhibition & Events Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c750e56def022f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/2019/Tech for Permissive Commons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e22a4d6cda8f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/2019/Health Informatics History, Challenges & Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c047b6001d6a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/2019/An Open Letter - What is your Digital Identity Mandate for Humanity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9e7acf7eb769826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/WebCivics Medium Posts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210b18e4b234ed5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webcivics-mediumexport/during-covid/A Major Manifestation Problem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "webcivics-mediumexport/WebCivics Medium Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "webcivics-mediumexport/WebCivics Medium Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "webcivics-mediumexport/WebCivics Medium Posts.md"
+              }
             }
           }
         ]
@@ -139,17 +220,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "f9e7acf7eb769826",
   "lastOpenFiles": [
-    "old-work-archives/early 2000s/Sailing Digital.md",
-    "old-work-archives/early 2000s/2000-2 Basedrive.md",
-    "old-work-archives/early 2000s/2000 iBank.md",
-    "old-work-archives/2018 - Web Civics BizPlan.md",
-    "old-work-archives/2018-webizen-net-au/resource-library.md",
-    "old-work-archives/2018-webizen-net-au/wp-content/uploads/2019/02/all-the-worlds-money-infographic.png",
-    "old-work-archives/2018-webizen-net-au/wp-content/uploads/wp-links-page/SolidMIT1537510019.jpg",
-    "Webizen 2.0/Webizen Pro/Webizen Pro Summary.md",
-    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/digital-receipts.md",
-    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/hypermedia-solutions-adapting-hbbtv-v2/user-stories-interactive-viewing-experience.md"
+    "webcivics-mediumexport/2019/An Open Letter - What is your Digital Identity Mandate for Humanity.md",
+    "webcivics-mediumexport/2019/Causal Relationships between Social informatics design and Quantum Mechanical Phenomenon..md",
+    "webcivics-mediumexport/during-covid/Do We Need a Space Time Navigator.md",
+    "webcivics-mediumexport/during-covid/Is an International Cyber Migration Even Possible.md",
+    "webcivics-mediumexport/2019/Health Informatics History, Challenges & Opportunities.md",
+    "webcivics-mediumexport/2019/Building a safe environment for Kids to thrive with their ‘Digital Twin’.md",
+    "webcivics-mediumexport/during-covid/Choices about the future of Knowledge Governance & alternatives Solutions to what appears to be how VaccinePassports are now being made.md",
+    "webcivics-mediumexport/during-covid/A Major Manifestation Problem.md",
+    "webcivics-mediumexport/during-covid/A Future For Australians.md",
+    "webcivics-mediumexport/during-covid/A Future to Support Informed Decisions S.T.E.A.M & Stars.md"
   ]
 }
