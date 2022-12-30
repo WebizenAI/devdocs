@@ -1,9 +1,7 @@
-**
 
-HyperMedia Library Modelling
+## HyperMedia Library Modelling
 
-
-Concept
+#### Concept
 
 So; need some sort of document modelling system that is supported in a few ways via (RDF based) data-services and an innovatively designed UI/UX.  
 
@@ -51,4 +49,3 @@ This means the systems need to present the evidence for persons to review and co
 
 The ability and form of determination may change overtime, based on the information available to those involved in making a determination.
 
-**

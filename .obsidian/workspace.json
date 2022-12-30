@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work in Progress/Work in Progress.md",
+                "file": "HyperMedia Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work in Progress/Work in Progress.md",
+                "file": "HyperMedia Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work in Progress/Work in Progress.md",
+                "file": "HyperMedia Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work in Progress/Work in Progress.md"
+                "file": "HyperMedia Library.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "f6259177b6ce2eb0",
   "lastOpenFiles": [
+    "README.md",
+    "Documentation Method.md",
+    "HyperMedia Library.md",
+    "Core Services/Safety Protocols/HumanCentric Digital Identity.md",
+    "Work in Progress/Work in Progress.md",
     "Webizen 2.0/Webizen Pro/Webizen Pro Summary.md",
     "Webizen 2.0/Webizen Pro/WebizenProSpec2022-12-29.png",
     "WebizenProSpec2022-12-29.png",
     "Commercial/Commercial Models/Phase 1 Fee For Service Offerings.md",
-    "old-work-archives/2018-webizen-net-au/about.md",
-    "Core Services/Safety Protocols/HumanCentric Digital Identity.md",
-    "old-work-archives/2018-webizen-net-au/about/the-modernisation-of-socioeconomics.md",
-    "old-work-archives/2018-webizen-net-au/about/the-design-of-new-medium.md",
-    "old-work-archives/2018-webizen-net-au/about/the-vision/a-technical-vision.md",
-    "old-work-archives/2018-webizen-net-au/about/knowledge-banking-a-technical-architecture-summary/personal-augmentation-of-ai.md"
+    "old-work-archives/2018-webizen-net-au/about.md"
   ]
 }
