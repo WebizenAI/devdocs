@@ -11,12 +11,8 @@
             "id": "f6259177b6ce2eb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old-work-archives/early 2000s/2000-2 Basedrive.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/early 2000s/2000-2 Basedrive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/early 2000s/2000-2 Basedrive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "old-work-archives/early 2000s/2000-2 Basedrive.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6259177b6ce2eb0",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
     "old-work-archives/early 2000s/Sailing Digital.md",
     "old-work-archives/early 2000s/2000-2 Basedrive.md",
