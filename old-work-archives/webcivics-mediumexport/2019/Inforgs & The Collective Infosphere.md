@@ -89,29 +89,29 @@ Consequentially, there is vastly improved means to evaluate human actors.
 
 updated diagrams below (13th Oct 2019)
 
-![](https://cdn-images-1.medium.com/max/800/1*Mndcd2_AwdpcsqcOTv4CQw.png)
+![](https://miro.medium.com/max/1400/1*Mndcd2_AwdpcsqcOTv4CQw.webp)
 
-![](https://cdn-images-1.medium.com/max/800/1*KmK542pvXZq02SxaRarnNw.png)
+![](https://miro.medium.com/max/1400/1*KmK542pvXZq02SxaRarnNw.webp)
 
-![](https://cdn-images-1.medium.com/max/800/1*lgJfS9OZ-6LHAip2MkUO8Q.png)
+![](https://miro.medium.com/max/1400/1*lgJfS9OZ-6LHAip2MkUO8Q.webp)
 
-![](https://cdn-images-1.medium.com/max/800/1*iDV7e5JuUltlcavjyn4yCg.png)
+![](https://miro.medium.com/max/1400/1*iDV7e5JuUltlcavjyn4yCg.webp)
 
-![](https://cdn-images-1.medium.com/max/800/1*wBie1gPdwkYD4IZ_QZy3tQ.png)
+![](https://miro.medium.com/max/1400/1*wBie1gPdwkYD4IZ_QZy3tQ.webp)
 
 2020 (22nd Feb)
 
-![](https://cdn-images-1.medium.com/max/800/1*yR3LJBkX1hkymsDlBDqEhQ.png)
+![](https://miro.medium.com/max/1400/1*yR3LJBkX1hkymsDlBDqEhQ.webp)
 
 2020 update re: COVID / SocioEconomic Data (incomplete, but illustrative)
 
-![](https://cdn-images-1.medium.com/max/800/1*pJ9jGGIKcy4mMhp2YNfBMA.jpeg)
+![](https://miro.medium.com/max/1400/1*pJ9jGGIKcy4mMhp2YNfBMA.webp)
 
 #### The False Dichotomy — initial Draft concept 20th sep 2020 (below)
 
 The concept below is an attempt to illustrate binarism as is applied to various forms of systems projects; particularly as defined via digital infrastructure.
 
-![](https://cdn-images-1.medium.com/max/800/1*5KzkYHRy0B_OKP3aagsqhg.png)
+![](https://miro.medium.com/max/1400/1*5KzkYHRy0B_OKP3aagsqhg.webp)
 
 20th September 2020
 
@@ -124,29 +124,29 @@ _A conceptual framework for complex systems design_medium.com](https://medium.co
 
 In furthering these considerations the below concept has been produced, which refers to a knowledge graph implementation modal structure (draft)
 
-![](https://cdn-images-1.medium.com/max/800/1*ANLhq8VK4RlVEnMOsB-Y6w.png)
+![](https://miro.medium.com/max/1400/1*ANLhq8VK4RlVEnMOsB-Y6w.webp)
 
 6th November 2020
 
 When people call or recieve a call from a particular entity that is considered ‘trust-worthy’ for particular purpose(s); its not necessarily the case that the interaction is with the entity or an agent on behalf of that entity as may be assumed. In the world of Email this is often called spam; but the implication is in-fact far broader and moreover, particularly problematic in association to institutions of trust (ie: banks, government, healthcare providers, utilities, etc.). To illustrate this point i’ve produce the following draft diagram.
 
-![](https://cdn-images-1.medium.com/max/800/1*4X63V9IMCgYOfPp6grnpwg.png)
+![](https://miro.medium.com/max/1400/1*4X63V9IMCgYOfPp6grnpwg.webp)
 
 6th November 2020
 
-![](https://cdn-images-1.medium.com/max/800/1*OD62QRiDXQd5mBdR_MiFpQ.png)
+![](https://miro.medium.com/max/1400/1*OD62QRiDXQd5mBdR_MiFpQ.webp)
 
 15th October 2021
 
 There’s an array of applications, one note about it is per below — recently found in my email catalogue…
 
-![](https://cdn-images-1.medium.com/max/800/1*5ZkJanqN3-smykyO-EtciA.png)
+![](https://miro.medium.com/max/1400/1*5ZkJanqN3-smykyO-EtciA.webp)
 
 Auguest 2017
 
 The diagram below has been produced 3rd June 2022. It appears to me that there are various design implications, that i continue to make attempts to describe as being really very problematic. I am currently processing a requirements analysis that will hopefully end-up with an improved methodology to attend to issues of false-statements that may engender systemic harms. This diagram is a creative work that forms part of that process…
 
-![](https://cdn-images-1.medium.com/max/800/1*NGagGzFuqyDOwFKOsjrqhQ.png)
+![](https://miro.medium.com/max/1400/1*NGagGzFuqyDOwFKOsjrqhQ.webp)
 
 3rd June 2022 — The systemic impact of false-statements in institutional information management systems.
 
