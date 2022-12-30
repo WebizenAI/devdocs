@@ -1,5 +1,4 @@
 Prov: 2000 - 2002
-Current link: http://webcivics.org/iBank.html
 
 Activities
 1. Research

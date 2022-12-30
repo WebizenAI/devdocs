@@ -1,8 +1,5 @@
 Prov: Early 2000
-Current link: http://webcivics.org/iBank.html
 Consequence: led to the establishment of 'basedrive'
-
-Text:
 
 ## iBANK
 
@@ -19,7 +16,6 @@ The ibank information network is designed to help facilitate the creation of a s
 This product, ibank, is aimed at changing the present concepts of computerised information storage and information networks. to create a worldwide information storage platform that will encourage true competition, by the coordination of all personal research efforts to attain common worldwide goals.
 
 This network must be efficiently secure. all information stored on this network must be easily attainable to all appropriate users via a simplistically logical visually user orientated, software interface.
-
   
 It will also secure entitled financial income to the business involved, by assuring customer security and billing for any such information purchases or transactions via the ibank network. The primary aim is to provide a highly efficient and affective information accessing and storage facility.  This in turn creates an affective information storage network, designed specifically for commercial “online” integration, for better customer targeting and efficient market integration whilst securing absolute privacy.
 
