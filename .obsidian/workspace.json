@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webizen Tech Stack.md",
+                "file": "Webizen Tech Stack/Webizen 3.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack.md",
+                "file": "Webizen Tech Stack/Webizen 3.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack.md",
+                "file": "Webizen Tech Stack/Webizen 3.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen Tech Stack.md"
+                "file": "Webizen Tech Stack/Webizen 3.5.md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a13d754864d56fdb",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
+    "Webizen Tech Stack.md",
     "old-work-archives/2018-webizen-net-au/posts/Contemplation of the ITU Dubai Meeting and the Future of the Internet.md",
     "old-work-archives/2018-webizen-net-au/posts/Introduction to Linked Data.md",
     "old-work-archives/2018-webizen-net-au/posts/About W3C.md",
@@ -170,7 +171,6 @@
     "old-work-archives/2018-webizen-net-au/posts/Inferencing (introduction).md",
     "old-work-archives/2018-webizen-net-au/posts/Openlink Virtuoso.md",
     "old-work-archives/2018-webizen-net-au/posts/Decentralized Web Conference 2016.md",
-    "old-work-archives/2018-webizen-net-au/posts/Does Anonymity exist.md",
-    "old-work-archives/2018-webizen-net-au/posts/Data Recovery - Laptop & Computers.md"
+    "old-work-archives/2018-webizen-net-au/posts/Does Anonymity exist.md"
   ]
 }
