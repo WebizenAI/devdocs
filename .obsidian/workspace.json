@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commercial/Safety Protocols/Values Credentials.md",
+                "file": "old-work-archives/2018-webizen-net-au/resource-library.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commercial/Safety Protocols/Values Credentials.md",
+                "file": "old-work-archives/2018-webizen-net-au/resource-library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commercial/Safety Protocols/Values Credentials.md",
+                "file": "old-work-archives/2018-webizen-net-au/resource-library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commercial/Safety Protocols/Values Credentials.md"
+                "file": "old-work-archives/2018-webizen-net-au/resource-library.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "f6259177b6ce2eb0",
   "lastOpenFiles": [
+    "old-work-archives/2018-webizen-net-au/wp-content/uploads/2019/02/all-the-worlds-money-infographic.png",
+    "old-work-archives/2018-webizen-net-au/wp-content/uploads/wp-links-page/SolidMIT1537510019.jpg",
+    "Webizen 2.0/Webizen Pro/Webizen Pro Summary.md",
+    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/digital-receipts.md",
+    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/hypermedia-solutions-adapting-hbbtv-v2/user-stories-interactive-viewing-experience.md",
+    "old-work-archives/2018-webizen-net-au/about/applied-theory-applications-for-a-human-centric-web/hypermedia-solutions-adapting-hbbtv-v2/hypermedia-packages.md",
+    "old-work-archives/2018-webizen-net-au/_link_library_links/2018-09-23-wp-linked-data.md",
+    "Commercial/Safety Protocols/Values Credentials.md",
     "Commercial/Safety Protocols/Safety Protocols.md",
-    "Commercial/HumanCentric Digital Identity.md",
-    "README.md",
-    "Documentation Method.md",
-    "Commercial/Webizen Socio-Economics/Social Factors/Relationships (Social).md",
-    "Commercial/Webizen Socio-Economics/Social Factors/The Webizen Charter.md",
-    "Commercial/Webizen Socio-Economics/Social Factors/Social Attack Vectors.md",
-    "Commercial/Webizen Socio-Economics/Social Factors/No Golden Handcuffs.md",
-    "Commercial/Webizen Socio-Economics/Social Factors/Freedom of Thought.md",
-    "Commercial/Webizen Socio-Economics/Social Factors/Ending Digital Slavery.md"
+    "Commercial/HumanCentric Digital Identity.md"
   ]
 }
