@@ -2,7 +2,7 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "Webizen Development Related Documentation.",
-  shortName: "Wiki",
+  shortName: "WebizenDevDocs",
   description:
     "This repo provides information about the webizen development objectives, considerations and related experimentation!",
   twitterName: "webcivics",

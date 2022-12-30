@@ -1,6 +1,6 @@
-***NOTE:**  Between 2010 ~ 2021, i was primarily working on a 'knowledge banking' ecosystem.  Sadly, enterprise and government have proven disinterested in supporting the moral requirements for these sorts of platform concepts; at least, in so far as is required by me, to feel good about it.*
+***NOTE:**  Between 2010 ~ 2021, i was primarily working on a 'knowledge banking' ecosystem.  Sadly, enterprise and government have proven disinterested in supporting the moral requirements for these sorts of platform concepts; at least, in so far as is required by me, to feel good about it.* more information about that is in the [[WebCivics Medium Posts]]
 
-**## THE GOALS OF THIS PROJECT
+## THE GOALS OF THIS PROJECT
 
 The goal is to bring together the technology ecosystem tools, international communities with the tangible and internationally shared sentiment; to deliver ‘web civics’ and the organisational tooling required to bring to market a means to impact the social-design paradigms required to socioeconomically support knowledge banking industries, that today, do not exist.  Web Civics is starting by building a mobile app that will work both as a local app and as web-server on a phone; alongside the online systems needed to make wordpress have vastly improved functional capacities that enable it to support the means of its users to share and bidirectionally update information that is curated across a multitude of websites in owner/operator - user specified ways. 
 
