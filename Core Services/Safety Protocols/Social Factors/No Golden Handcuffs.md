@@ -1,1 +1,0 @@
-The Concept of [Golden Handcuffs](https://en.wikipedia.org/wiki/Golden_handcuffs), is about a means to seek rents from users by creating a situation where they're unable to exist or have meaningful support of their own human rights or have negative impacts if they decide to stop depending upon the 'things' you specifically provide them. 

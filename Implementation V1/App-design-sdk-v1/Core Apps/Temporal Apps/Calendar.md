@@ -1,1 +1,0 @@
-The Calendar app will help people manage and view what they do in relation to time.

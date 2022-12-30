@@ -1,1 +1,0 @@
-http://rdfs.org/sioc/spec/
