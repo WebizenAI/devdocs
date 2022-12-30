@@ -1,5 +1,4 @@
 
-SourceDate: [22nd November 2015](https://docs.google.com/document/d/1UZqygx0OpNbguvq-UNiryr9l7SQxJZ0auj8Dx15EJMU/edit?usp=sharing)
 
 ## **Australian Knowledge Banking**
 
@@ -10,6 +9,9 @@ SourceDate: [22nd November 2015](https://docs.google.com/document/d/1UZqygx0OpNb
 **Trading As:** **WEBIZEN**, **WEB CIVICS**, **MEDIA PROPHET**, **TRUST FACTORY**
 
 **Document authored by:** **[Timothy Charles Holborn](https://www.linkedin.com/in/ubiquitous/)
+
+SourceDate: [22nd November 2015](https://docs.google.com/document/d/1UZqygx0OpNbguvq-UNiryr9l7SQxJZ0auj8Dx15EJMU/edit?usp=sharing)
+
 
 #### BACKGROUND
 A unique opportunity exists to support the establishment of knowledge banking infrastructure, where legal entities store their own data. Applications in-turn address user-data storage, rather than storing user-data in the same database as the application, as is the current standard method for web-applications. Tim Berners-Lee labelled this concept 'socially aware cloud storage' in his 'design notes' webpage dated 17-8-2009. The concept is not new. It has been the subject of world-wide technology standards development since about 1998, Tim Holborn independently commencing work on this area from 2000.
@@ -806,131 +808,67 @@ Eli Pariser: Beware online \"filter bubbles"
 Whilst preparing the first draft of this document, i found this video[^65] remarkable. Whereas we often consider issues that may split the web, and how we want 'one web', this presentation states in a remarkably apt manner, how we also do not want a 'web of one', as an array of very significant problems are illustrated.
 
 [^1]: https://www.sandvine.com/downloads/general/global-internet-phenomena/2014/2h-2014-global-internet-phenomena-report.pdf 
-
 [^2]: http://jeffsayre.com/2010/09/13/web-3-0-powering-startups-to-become-smartups/
-
 [^3]: https://twitter.com/WebCivics/status/492707794760392704
-
 [^4]: http://whois.domaintools.com/w3.org
-
 [^5]: http://whois.domaintools.com/w3c.org
-
 [^6]: http://en.wikipedia.org/wiki/Right_to_Internet_access
-
 [^7]: http://lists.w3.org/Archives/Public/public-webpayments/2011Jul/0000.html
-
 [^8]: http://lists.w3.org/Archives/Public/public-credentials/2014Aug/
-
 [^9]: http://lists.w3.org/Archives/Public/public-webpayments/2014Jul/
-
 [^10]: http://www.w3.org/DesignIssues/
-
 [^11]: https://twitter.com/WebCivics/status/501280417228394497
-
 [^12]: http://webscience.org/
-
 [^13]: https://web.archive.org/web/20061118064339/http://www.webscience.org/
-
 [^14]: https://www.w3.org/community/about/agreements/cla/
-
 [^15]: http://www.w3.org/2005/10/Process-20051014/groups.html#GroupsWG
-
 [^16]: https://www.w3.org/wiki/Webizen
-
 [^17]: https://www.w3.org/2000/09/dbwg/details?group=73816&public=1
-
 [^18]: http://www.w3.org/DesignIssues/LinkedData.html
-
 [^19]: http://lists.w3.org/Archives/Public/public-webpayments/2015May/0055.html
-
 [^20]: http://en.wikipedia.org/wiki/Know_your_customer
-
 [^21]: http://www.w3.org/Consortium/mission.html
-
 [^22]: http://en.wikipedia.org/wiki/Big_Mac_Index
-
 [^23]: http://www.economist.com/blogs/feastandfamine/2012/04/banking-developing-world
-
 [^24]: http://www.pewglobal.org/2015/03/19/1-communications-technology-in-emerging-and-developing-nations/
-
 [^25]: http://www.theguardian.com/global-development-professionals-network/2014/dec/18/developing-countries-smartphone-revolution-internet-access
-
 [^26]: http://en.wikipedia.org/wiki/Social_security
-
 [^27]: http://en.wikipedia.org/wiki/Fair_value
-
 [^28]: http://en.wikipedia.org/wiki/Copyright_Clause
-
 [^29]: http://creativecommons.org/about
-
 [^30]: https://www.google.com.au/search?q=W3c%20globalization
-
 [^31]: http://www.bl.uk/magna-carta/articles/magna-carta-an-introduction
-
 [^32]: http://www.un.org/en/documents/udhr/
-
 [^33]: http://www.un.org/en/documents/udhr/
-
 [^34]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx
-
 [^35]: http://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm#preface
-
 [^36]: http://www.oecd.org/sti/ieconomy/privacy.htm
-
 [^37]: http://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf
-
 [^38]: http://crosscloud.org/
-
 [^39]: https://chrome.google.com/webstore/category/collection/drive_apps?hl=en
-
 [^40]: http://oerpub.org/
-
 [^41]: http://editor.oerpub.org/
-
 [^42]: http://mrcoles.com/facebook-graph-api-explorer/
-
 [^43]: http://www.yasiv.com/facebook
-
 [^44]: http://socilab.com/
-
 [^45]: https://my.redlink.io/#/apps/DEMO/edit/playground
-
 [^46]: http://en.wikipedia.org/wiki/Schema.org
-
 [^47]: http://en.wikipedia.org/wiki/Google_Hummingbird
-
 [^48]: http://www.wired.co.uk/news/archive/2015-05/08/facebook-echo-chamber-study
-
 [^49]: http://www.gizmodo.co.uk/2015/05/could-facebook-change-the-outcome-of-the-general-election/
-
 [^50]: https://gigaom.com/2014/10/31/facebooks-secret-newsfeed-experiments-affected-voter-turnout-in-the-2012-election/
-
 [^51]: http://www.theguardian.com/technology/2014/oct/02/facebook-sorry-secret-psychological-experiment-users
-
 [^52]: http://en.wikipedia.org/wiki/Terms_of_service
-
 [^53]: http://en.wikipedia.org/wiki/Choice_of_law
-
 [^54]: https://www.facebook.com/legal/terms
-
 [^55]: http://www.google.com/intl/en/policies/terms/
-
 [^56]: https://www.dropbox.com/terms
-
 [^57]: https://www.apple.com/legal/internet-services/terms/site.html
-
 [^58]: https://twitter.com/tos?lang=en
-
 [^59]: http://en.wikipedia.org/wiki/Copyright_Clause
-
 [^60]: http://creativecommons.org/
-
 [^61]: http://creativecommons.org/choose/
-
 [^62]: https://dvcs.w3.org/hg/webpayments/raw-file/default/latest/use-cases/index.html
-
 [^63]: http://www.internetsociety.org/who-we-are/mission/values-and-principles
-
 [^64]: http://www.state.gov/secretary/20092013clinton/rm/2010/01/135519.htm
-
 [^65]: http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
