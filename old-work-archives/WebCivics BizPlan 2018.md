@@ -1,4 +1,5 @@
-***NOTE:**  Between 2010 ~ 2021, i was primarily working on a 'knowledge banking' ecosystem.  Sadly, enterprise and government have proven disinterested in supporting the moral requirements for these sorts of platform concepts; at least, in so far as is required by me, to feel good about it.* more information about that is in the [[WebCivics Medium Posts]]
+
+NOTE: [[WebCivics Medium Posts]]
 
 ## THE GOALS OF THIS PROJECT
 
@@ -10,75 +11,7 @@ Web Civics has been designed over many years to develop as an organisational str
 
 It has a design philosophy that is centred upon a field of ‘web science’ and the practical socio economic utility of online civics projects as to collaboratively forge solutions.  Web Civics works to establish a ‘knowledge banking industry’ that makes the data about people useful for the people; as any future knowledge equity ecosystem, depends upon the people and its means to serve us.
 
-[EXECUTIVE SUMMARY 3](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.ef2wrgfdkxj8)
-
-[BACKGROUND 3](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.59c3lkccsu1e)
-
-[INCORPORATED DEVELOPMENT AND FRAMEWORK STRATEGY OUTLINE 4](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.xdgrtlibh155)
-
-[Commercial Structures: Go To Market Approach 4](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.jwc5sf4jl7ea)
-
-[SUMMARY: CORPORATE STRATEGY - ADDRESS THE BASIC ISSUES 7](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.ra8btiegos9a)
-
-[Business Systems Strategy:  What Web Civics will be doing. 7](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.xafh5y37yff5)
-
-[ECONOMICS:  Payment methodologies 8](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.u67y9ewjr4eu)
-
-[Importance of the Mobile App 8](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.k6ouzy8tinm3)
-
-[History of Web Civics 9](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.cnut0iolsf8i)
-
-[Next Steps 9](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.z1jdkceyxcgo)
-
-[SOCIAL CONSIDERATIONS 10](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.ijbma38ycbcn)
-
-[Broader socio-economic impacts 10](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.vagw0v2olfvz)
-
-[Business / Technical - Goals 10](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.y2vainv0gsnq)
-
-[The Smart-Phone Apps 10](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.dhkecu24fgyp)
-
-[Engaging seniors 11](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.oqvutkgg43cr)
-
-[National Security - local informatics design - incorporated thinking 11](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.7jwpo1wgfzzu)
-
-[FUNDING, FORECASTS AND OPERATIONAL REQUIREMENTS 11](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.rpfyb473d072)
-
-[Leadership 11](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.46k0342dizf4)
-
-[ESTABLISHING THE OPERATIONAL FRAMEWORK 12](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.k7wreo7dxukm)
-
-[System of Government 12](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.4w3s7aykclh7)
-
-[Education (EXAMPLE: SYSTEM OF DEMOCRACY) 13](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.z5cbe3qad8om)
-
-[Future application of knowledge banking infrastructure 13](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.2vwoz9gacsbc)
-
-[Technical Overview 14](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.bag6t6p7zkd1)
-
-[Mobile 14](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.5zgwpc7141rx)
-
-[FUNCTIONAL REQUIREMENTS 14](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.ko9wr1z4c72u)
-
-[AUTH 14](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.t60l9fv0poj0)
-
-[Software Development Principles 14](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.2c0ji9m7v4ic)
-
-[DATA MANAGEMENT 15](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.1bqb7d4g0boe)
-
-[Online - Wordpress 15](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.uktji589woc8)
-
-[AUTHENTICATION 16](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.njwm5phtiev1)
-
-[SITES AS AUTHORITIES: The use of ‘open-badges’ / credentials 16](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.5wlhwdljut89)
-
-[WP-RDF FIELD MAPPER 16](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.71d14m6bquaw)
-
-[SOCIOECONOMICS - KNOWLEDGE EQUITY SYSTEMS 16](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.wwei96qj73ed)
-
-[Diversity and Knowledge Economics theory 17](https://docs.google.com/document/d/1dSkTlzS7EjMWYc9fI8yVPPJAoXI5bKf57pLpwbluCh8/edit#heading=h.5wcubqkaeb56)
-
-# EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 
 ## BACKGROUND
 
@@ -88,7 +21,8 @@ The heart of this work has always been focused upon the means through which the 
 
 Our information systems have not been designed to provide useful informatics environments to natural persons who are the primary stakeholders for whom information concerning them is of most importance.  
 
-A knowledge banking industry provides its account holders ‘knowledge services’, which stems from the technical means through which data is stored in a format designed to ensure it can be employed as useful information, through technology standards.  These environments when applied to humans are called ‘inforgs’ and is instrumentally required for good governance of legal personalities and broader socio economic issues.![](https://lh3.googleusercontent.com/u2kzBT8g44l2hcm-Dw4xETKoaHGHjyBluMyNwvkRO8ov9LWn6YTFWzj7so_v4GqL82n3_1epeSxfsSdhPl7wAZbdIEKFdgkdiAVV-4hjdBbt5rxeiItXY-ltg0JXIUJWFB_ms09f2HFc7JBvEytsDb688e60fFdMEREn4Kej4G2L5X4OxWbcDOxRVAMW)
+A knowledge banking industry provides its account holders ‘knowledge services’, which stems from the technical means through which data is stored in a format designed to ensure it can be employed as useful information, through technology standards.  These environments when applied to humans are called ‘inforgs’ and is instrumentally required for good governance of legal personalities and broader socio economic issues.
+![](https://lh3.googleusercontent.com/u2kzBT8g44l2hcm-Dw4xETKoaHGHjyBluMyNwvkRO8ov9LWn6YTFWzj7so_v4GqL82n3_1epeSxfsSdhPl7wAZbdIEKFdgkdiAVV-4hjdBbt5rxeiItXY-ltg0JXIUJWFB_ms09f2HFc7JBvEytsDb688e60fFdMEREn4Kej4G2L5X4OxWbcDOxRVAMW)
 
 Through the use of these ‘inforg environments’ online computational services are designed to promote human interoperability with online information as to ensure the knowledge frameworks.  This is operated through dynamic AI agents that are instrumentally designed by the owner of the inforg and are relied upon in decision making practices.  The practice method of programming these design decisions, the computationally stored personal choices made by the human or data subject, creates a ‘knowledge banking account environment’.
 
