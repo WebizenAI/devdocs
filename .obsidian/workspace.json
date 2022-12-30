@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webizen Tech Stack.md",
+                "file": "old-work-archives/Webizen2015.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack.md",
-                "collapseAll": false,
+                "file": "old-work-archives/Webizen2015.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack.md",
+                "file": "old-work-archives/Webizen2015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen Tech Stack.md"
+                "file": "old-work-archives/Webizen2015.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "a13d754864d56fdb",
   "lastOpenFiles": [
-    "Webizen Tech Stack/Webizen 3.5.md",
+    "old-work-archives/Webizen2015.md",
     "Webizen Tech Stack.md",
+    "Webizen Tech Stack/Webizen 3.5.md",
     "old-work-archives/2018-webizen-net-au/posts/Contemplation of the ITU Dubai Meeting and the Future of the Internet.md",
     "old-work-archives/2018-webizen-net-au/posts/Introduction to Linked Data.md",
     "old-work-archives/2018-webizen-net-au/posts/About W3C.md",
     "old-work-archives/2018-webizen-net-au/posts/2013-01-01-wix.md",
     "old-work-archives/2018-webizen-net-au/posts/Web-Persistence.md",
     "old-work-archives/2018-webizen-net-au/posts/Inferencing (introduction).md",
-    "old-work-archives/2018-webizen-net-au/posts/Openlink Virtuoso.md",
-    "old-work-archives/2018-webizen-net-au/posts/Decentralized Web Conference 2016.md"
+    "old-work-archives/2018-webizen-net-au/posts/Openlink Virtuoso.md"
   ]
 }
