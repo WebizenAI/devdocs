@@ -16,28 +16,24 @@ The Webizen Platform is intended to be a force for good, as is an overriding obj
     
 3.  A Major constituency of the purposeful efforts has been to support human rights related ‘technological infrastructure’ apparatus.  A design focus, has been to consider the needs of the poor, the vulnerable and those in need of accessible & appropriate support for lawful considerations & available legal recourse / remedy (ie: natural justice); which is now demonstrably shown to have been an unusual focus, given what has been supported; and what continues to be in an area of distressing problems, that have not been resolved. 
     
-4.  Whilst the modelling has direct applications for incorporate entity infrastructure (ie: corporate, government, education; in all the many areas); individuals in their private capacities needs to be provided ‘digital agency’ in-order to support anything else well; these considerations are discussed via the lens of ‘values’ and in particular ‘human rights’,
-    
+4. Whilst the modelling has direct applications for incorporate entity infrastructure (ie: corporate, government, education; in all the many areas); individuals in their private capacities needs to be provided ‘digital agency’ in-order to support anything else well; these considerations are discussed via the lens of ‘values’ and in particular ‘human rights’,
 
-1.  Service to support ‘human rights’ are presently expensive (at least $120 AUD / PA, per entity group (ie: individual or family);  including but not limited to,
- 
-
-1.  The Rental Costs for a Domain Name
+5. Service to support ‘human rights’ are presently expensive (at least $120 AUD / PA, per entity group (ie: individual or family);  including but not limited to,
+	a.  The Rental Costs for a Domain Name
+    b. The Service Costs for an online (“cloud”) server (hosting / vps, etc.) that provides support for ‘fixed IPs’ (HTTPS support)
     
-2.  The Service Costs for an online (“cloud”) server (hosting / vps, etc.) that provides support for ‘fixed IPs’
-    
-3.  The ability to support ‘home “read/write” applications that employ HTTP services (which is often not supported by residential internet connections); which in-turn means, that some sort of VPN like functionality is required.  
+6. The ability to support ‘home “read/write” applications that employ HTTP services (which is often not supported by residential internet connections); which in-turn means, that some sort of VPN like functionality is required.  
       
     NOTE: online services are subject to ‘choice of law’ terms, which are often not in the same jurisdiction as the intended beneficiary of that apparatus (indeed, they’re often not even in the same country).  
 
-3.  Technically; ‘Semantic Web’ uses HTTP URis. Whilst other non-http based protocols can be employed, there is still a requirement to ensure support for HTTP(s) & DNS (ie; domain name, email, etc) services.  There is also a lack of support for IPv6 in many areas, alongside other legacy issues linked to ICANN (the domain name business); Now therefore, there are complex issues that are emerging as a consequence of ‘web3’ (DLTs) solutions that are not the same as the Web (world-wide-web / www); or other protocols that operate on internet.  
+7.  Technically; ‘Semantic Web’ uses HTTP URis. Whilst other non-http based protocols can be employed, there is still a requirement to ensure support for HTTP(s) & DNS (ie; domain name, email, etc) services.  There is also a lack of support for IPv6 in many areas, alongside other legacy issues linked to ICANN (the domain name business); Now therefore, there are complex issues that are emerging as a consequence of ‘web3’ (DLTs) solutions that are not the same as the Web (world-wide-web / www); or other protocols that operate on internet.  
       
     At a social level; the problem becomes the misuse of the concept of ‘identity’ in how it is applied to the use of tooling and the impact that has upon societies.  
       
     At a commercial level; the use of the term ‘identity’ is linked with commercial benefits should any one ‘thing’ (company, blockchain, etc.) control human entities, that is often very difficult to ‘stop using’ - a simple example, would be the dependencies upon public free email addresses provided by large organisations such as Microsoft (hotmail), Google (gmail) and Apple (iCloud) - although; even simply with respect to that one ‘identifier’, the semantic ‘stickiness’ also has implications with respect to accounts provided by internet providers, universities and employers.  Whilst there are MANY examples, the simple one of an ‘email address’, does in-turn have an array of dependency implications across many areas.  
       
     ‘Semantic Web’ refers to an ecosystem of parts principally developed via the W3C; which create the foundational requirements for artificial intelligence services through various tools that define how information is both structured and then able to be employed by systems that have been produced to use ‘semantic web’ tooling.  In-effect, its like Internet Protocol; for electronic (structured) information and information processing related services, which then in-turn powers ‘AI’. The designs required; need to bring the human agent, equitably (and responsibly) into the equations, which is able to be brought about using an ecosystem of tools; that in-turn have dependencies upon the use of HTTP ‘server related’ services. 
-    
+
 
 ## Deliberations: Some recent architectural work and linked considerations.
 
@@ -116,20 +112,19 @@ As noted in related documentation, the term ‘webizen’ was used by the ‘ori
       
     Without forming some sort of decentralised foundation for how people are able to work with one another; the outcome of being able to decentralise and support the purpose of these works, has never before actually been delivered.  In-part, this is a commercial issue that’s hard to address once investment has gone into whatever the ‘proof of concept’ body of work is; and thereby, socialised to other persons whose focus is most often about how to make the most out of it all.  
       
-    
 -   A Loosely coupled approach; could also provide support for other groups to produce similar solutions using different protocols, or indeed also, the ability for future clients; to support an array of different protocols - a bit like plugins or extensions i guess…  This would in-turn require a specification defining what is required to support specific functionality in relation to use cases.
     
 -   Note also; there are various ‘packages’ such as ‘nextcloud’ and its office-app functionality, alongside various other ‘web-apps’ that can be run relatively easily, on a high-powered laptop or desktop like device (basically - on consumer equipment); but the hosting costs / set-up processes, have historically been prohibitive.   
       
     Whilst further integration opportunities are very interesting, there’s also a meaningful opportunity to provide near-immediate support for users to get these sorts of platforms working at home, at nominal cost, for private groups; which is envisaged to significantly uplift innovation & productivity.  
 
+
 # GOALS
 
-5.  To investigate & identify if there’s any interest in this approach; and if there’s any significant flaws associated with going down this path; should we pass this precondition; then,
+1.  To investigate & identify if there’s any interest in this approach; and if there’s any significant flaws associated with going down this path; should we pass this precondition; then,
     
-6.  Funding is desirable and the organisation should be set-up to support development & Go To Market (“GTM”) works in addition to the works required to develop an international ‘Community’.
+2.  Funding is desirable and the organisation should be set-up to support development & Go To Market (“GTM”) works in addition to the works required to develop an international ‘Community’.
     
-7.  A Software Development project to integrate the networking stack with the ‘RWW / Solid’ (more RWW than solid, imo) tooling; to produce both installable clients for consumer devices; as well as a ‘host platform’, that is designed to support the functionality only able to be supported via data centre hosting.  Additional software development projects would include the ‘apps’ (social, modifications to existing RWW(/early solid) apps & the work project).
-    
+3.  A Software Development project to integrate the networking stack with the ‘RWW / Solid’ (more RWW than solid, imo) tooling; to produce both installable clients for consumer devices; as well as a ‘host platform’, that is designed to support the functionality only able to be supported via data centre hosting.  Additional software development projects would include the ‘apps’ (social, modifications to existing RWW(/early solid) apps & the work project).
 
-**
+

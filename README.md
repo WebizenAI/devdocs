@@ -1,24 +1,24 @@
 ![[WebizenLogo.png]]
 # Webizen Docs Introduction
 
-This is the Webizen Documentation site is being developed to provide an array of old work documents, a somewhat comprehensive outline of future work objectives and in-turn thereafter also; support for an outline of what is sought to be achieved via an initial implementation of a #Webizen solution.
+This is the Webizen Documentation site is being developed to provide an array of old work documents, a somewhat comprehensive outline of future work objectives and in-turn thereafter also; support for an outline of what is sought to be achieved via an initial implementation of a #Webizen solution.  The [[Webizen Vision]] is about a new type of computing platform, which in-turn supports a form of connected interpersonal computing.
 
 ![[WebizenPeaceBot.png]]
 
 The documentation library is under active development and will continue to be updated.  I am going to make [[Best Efforts]] to update the [[Work in Progress]] document, to reflect what i'm currently working on; and when these works become sufficently comprehensive and subsequently better edited, then this document will reflect those changes (ie: removal of this line).
 
-If you are interested in being involved then send me a connection request on [linkedin](https://www.linkedin.com/in/ubiquitous/) and send me a message to let me know.  There is also a [Web Civics Discord](https://discord.gg/HX7W4gY45N) Group and various other bits and pieces lying about generally.  
+If you are interested in being involved then send me a connection request on [linkedin](https://www.linkedin.com/in/ubiquitous/) and send me a message to let me know.  There is also  [Web Civics Discord](https://discord.gg/HX7W4gY45N)  and [Webizen Discord](https://discord.gg/nUxCH6CCyZ) Groups and various other bits and pieces lying about generally.  
 
 ### Webizen V3.0 Project Documentation
 
 ![[nocloud.jpg]]
-The [Webizen 3.0 apps](Webizen%203.0%20apps.md) [Design Goals Overview](Design%20Goals%20Overview.md) documents alongside the [Webizen 3.0](Webizen%203.0.md), provides information about the objectives, which seek to use [GoLang Libraries](GoLang%20Libraries.md) as a means to quickly produce a solution that provides basic functionality as required to make progress.
+The [[Webizen 3.0 apps]] [[Design Goals]] documents alongside the [[Webizen 3.0]], provides information about the objectives, which seek to use [[GoLang Libraries]] as a means to quickly produce a solution that provides basic functionality as required to make progress.
 
 The [[Social Factors]] document provides some general information about the background, whilst the documents under the 'commercial' folder provide more general information.
 
 **There are two packages required;**
-a. An Implementation that can be installed and operated on a VPS:  [[Server Functionality Summary (VPS)]]
-b. An Implementation that can be easily installed and operated on Home Computers: [Webizen Local App Functionality](Webizen%20Local%20App%20Functionality.md) 
+a. An Implementation that can be installed and operated on a VPS:  [[Host Service Requirements]]
+b. An Implementation that can be easily installed and operated on Home Computers: [[Webizen Local App Functionality]]
 
 The project intends to improve upon the works already previously demonstrated as [GOLD](https://github.com/linkeddata/gold). 
 
