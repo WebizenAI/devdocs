@@ -1,17 +1,14 @@
-**
+
 
 Existing Open Value or Contribution Accounting initiatives
-
   
 
 AUTHORS
 
 -   Timothy Holborn (support & additions)
-    
+ 
 -   Amanda Janson (significant producer)
-    
 
-  
 
 Amanda Jansen has been active in the field of p2p networks such as P2P Foundation and OuiShare for many years and has been contributing to the digital evolution and the future of talent and work.  
 

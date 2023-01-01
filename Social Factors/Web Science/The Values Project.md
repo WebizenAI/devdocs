@@ -17,28 +17,24 @@ There is presently no known solution to express ‘values’. There is also no g
 
 1.  To produce a solution that provides a means for a branded images to be used to denote a corresponding values statement; in a manner that,
     
+	a.  supports both inspection of the terms via language (ie: english); and also,
+    
+	b.  Machine Readable Semantics (RDF).
+    
+2.  To furnish the ability for electronic systems to be able to accept these instruments as part of the electronic contracting process; whereby,
+    
+	a.  The  ‘values’ credentials in relation to their online contracting (“identity”) systems.
+    
+	b.  That these terms are provided the same legal capacity as the use of other ‘identity’ related instruments used in relation to electronic contracts; and to,
+    
+	c.  Enable signed documents that are able to be retained in a manner that is ‘tamper evident’ and consistent with the exact copy executed by the parties involved.  
 
-1.  supports both inspection of the terms via language (ie: english); and also,
+3.  To enable end-users to find, collect & use commonly known ‘values statements’; as a way to empower users to usefully engage with others upon a basis of mutually defined & articulated values (rights & rules) that are important to them online.
     
-2.  Machine Readable Semantics (RDF).
+4.  The ability to manage the relationships they’ve made online with other legal entities. 
     
+5.  The ability to distribute these assets in a permissively controlled manner via DLT URIs in addition to HTTP(s) uris. 
 
-3.  To furnish the ability for electronic systems to be able to accept these instruments as part of the electronic contracting process; whereby,
-    
-
-1.  The  ‘values’ credentials in relation to their online contracting (“identity”) systems.
-    
-2.  That these terms are provided the same legal capacity as the use of other ‘identity’ related instruments used in relation to electronic contracts; and to,
-    
-3.  Enable signed documents that are able to be retained in a manner that is ‘tamper evident’ and consistent with the exact copy executed by the parties involved.
-    
-
-5.  To enable end-users to find, collect & use commonly known ‘values statements’; as a way to empower users to usefully engage with others upon a basis of mutually defined & articulated values (rights & rules) that are important to them online.
-    
-6.  The ability to manage the relationships they’ve made online with other legal entities. 
-    
-7.  The ability to distribute these assets in a permissively controlled manner via DLT URIs in addition to HTTP(s) uris. 
-    
 
 ## Social Goals
 
@@ -46,15 +42,13 @@ There is presently no known solution to express ‘values’. There is also no g
     
 7.  To provide a capacity to engage in online projects with others via contract law principles on a basis of ‘shared values’; or in-effect, 
     
-
-1.  Legal tools to better manage relationships with others via electronic contracts. 
+	a.  Legal tools to better manage relationships with others via electronic contracts. 
     
-2.  To Support rights & address issues that seek to dismantle our foundational rights.
+	b.  To Support rights & address issues that seek to dismantle our foundational rights.
     
-3.  To improve the basis upon which we are empowered to work together in peace.
+	c.  To improve the basis upon which we are empowered to work together in peace.
     
-
-9.  To support the ability for people to do good work for humanity - in areas, where there may be ‘dual use’ (or similar) implications, that are not sought to be endorsed or furnished meaningful assistance in any way common to intended purposes.
+	d.  To support the ability for people to do good work for humanity - in areas, where there may be ‘dual use’ (or similar) implications, that are not sought to be endorsed or furnished meaningful assistance in any way common to intended purposes.
     
 
 # Specifications - issues
@@ -79,33 +73,28 @@ The specification goals seek to outline what it is that the design is attempting
 
 There’s a few components to it.
 
-1.  The way in which the ‘ontologies’ are handled generally. 
+1.  The way in which the ‘[[Ontologies]]’ are handled generally.
+	a. [[Understanding Ontologies]] provides general 'non-technical' information.  
+      
+2.  Ideally, the moral owners of the ‘[[Values Credentials]]’ would be stewards of those instruments, versions of them, etc.  
     
+3.  Presently HTTP Uris are used for ontologies - DLT/DHT ontologies are useful; as such, the objective is to implement [[Permissive Commons]]. SeeAlso; [[Permissive Commons Tech]]
+    
+4.  [[Verifiable Claims & Credentials]] (including the above noted 'values credentials') are also able to be provided by providers / group entities.
+    
+3. There are presently ‘wallets’ that are defined in a particular way, which is in-turn part of a broader ecosystem that is developing.  
+    
+	a.  I don’t like the term ‘wallet’.  
+    
+	b. I am also not confident that the specifications of these ‘wallets’ will be ‘fit for purpose’, as such changes might need to be made. 
+    
+	c. There is a desire to store an array of digital artifacts via a ‘personal cloud’ (protected by law) solution; that will end-up having alot of ‘important (s/w files) documents’ in it.  This isn’t simply a ‘wallet’ & its not quite to the extent to which (in future) the hope is to end-up producing a capacity that might be termed an inforg.
 
-1.  I have linkeddata.au and linkeddata.com.au 
+4.  The solution will require packages that are built for online platforms like wordpress.
     
-2.  Ideally, the moral owners of the ‘values instruments’ would be stewards of those instruments, versions of them, etc.  
+5.  A major part of the intended purpose of these works, is to end-up with a solution that can be used for collaboratively undertaking online projects with others.  This ‘projects’ element, will in-turn require additional functionality.
     
-3.  Presently HTTP Uris are used for ontologies - DLT/DHT ontologies are useful. 
-    
-4.  The ‘values’ credentials are also able to be provided by providers / group entities.
-    
-
-3.  There are presently ‘wallets’ that are defined in a particular way, which is in-turn part of a broader ecosystem that is developing.  
-    
-
-1.  I don’t like the term ‘wallet’.  
-    
-2.  I am also not confident that the specifications of these ‘wallets’ will be ‘fit for purpose’, as such changes might need to be made. 
-    
-3.  There is a desire to store an array of digital artifacts via a ‘personal cloud’ (protected by law) solution; that will end-up having alot of ‘important (s/w files) documents’ in it.  This isn’t simply a ‘wallet’ & its not quite to the extent to which (in future) the hope is to end-up producing a capacity that might be termed an inforg.
-    
-
-5.  The solution will require packages that are built for online platforms like wordpress.
-    
-6.  A major part of the intended purpose of these works, is to end-up with a solution that can be used for collaboratively undertaking online projects with others.  This ‘projects’ element, will in-turn require additional functionality.
-    
-7.  There is a requirement also to support ‘verifiable claims’, which may be different to what are now known as ‘verifiable credentials’.  These requirements would include the ability to define characteristics of persons required to engage in projects.
+6.  There is a requirement also to support ‘verifiable claims’, which may be different to what are now known as ‘verifiable credentials’.  These requirements would include the ability to define characteristics of persons required to engage in projects.
     
 8.  The ‘values’ credentials are intended to support ‘logic’ processes that will progressively improve support for compliance tracking & relationships between credentials.
     
@@ -125,7 +114,6 @@ There’s a few components to it.
 -   [https://imsglobal.github.io/openbadges-specification/ob_v3p0.html](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
     
 -   [https://www.badgewallet.eu/en/](https://www.badgewallet.eu/en/) 
-    
 
 Whereby the problem with ‘open badges’ is that they’re very much designed for education / academia; rather than an ability for people to have a similar sort of thing, relating to values.
 
@@ -159,7 +147,7 @@ NOTE:  In related work, there are various projects that will be seeking to empl
 2.  A Cyber capabilities project (domestic)
     
 3.  A ‘community’ app & related ecosystem (for FNQ). 
-    
+
 
 Whilst the ‘initial requirements’ for each of these projects do have differences; there are also core requirements that are sought to be employed for all of them; and, as a consequence of ‘human centric designs’, it is expected that at least some people who seek to use this ‘identity solution’ will be involved in all of these projects, alongside many more.  
 

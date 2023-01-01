@@ -1,6 +1,6 @@
 At the moment; the commercial structures are not well established for managing the provision of products and services to customers.  Commercial opportunities relating to historical works have been undertaken either via referral to related parties; whilst some smaller jobs have been undertaken directly; whilst noting, the objectives have often been focused on advancing the Research, development, proof of concept (technical, commercial, social) assessments in various ways, for various 'modules' or components relating to this broader ecosystem of works.  
 
-At some stage, the [[Community of Practice]] [[Commercial Structure]] will be able to be developed in a way that is 'fit for purpose' and supportive of the scalability requirements for Web Civics and the [[Webizen Alliance]] frameworks / concepts.  However, in the short-term, there's a variety of people / opportunities to help people who have difficulties achiving particular tasks without help. 
+At some stage, the [[Community of Practice]] [[Historical Information]] will be able to be developed in a way that is 'fit for purpose' and supportive of the scalability requirements for Web Civics and the [[Webizen Alliance]] frameworks / concepts.  However, in the short-term, there's a variety of people / opportunities to help people who have difficulties achiving particular tasks without help. 
 
 As such, there's an opportunity to provide assistance to help these people and in-turn advance the cause. 
 

@@ -1,0 +1,46 @@
+Information about the Business model related considerations; more specifically, about corporate governance, economics, agreement structures, requirements, etc. 
+
+![[nocloud.jpg]]
+
+As noted in the readme file: The [timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8) provides some historical content, primarily about Steve Jobs and Tim Berners-Lee.  IMO: its always good, to review history... 
+
+The Webizen Project, is fundamentally about 'interpersonal computing' and the ability to provide technology to people that they own as an alternative to accounts on *free* platforms.
+
+This in-turn relies upon considerations about the broader components, entitled 'social-factors', as to gain a better understanding about the broader vision and various framework related considerations that are important to consider, beyond simply creating the software tooling in and of itself. Therein, [[Best Efforts]] solutions that are supportive via [[Values Credentials]] is considered to be an absolute must; which in-turn invokes a need for [[Safety Protocols]].
+
+The Commercial structures required to support [[Web Science]] works via WebCivics (see 'old-work-archives'); as well as developing the [[Webizen Alliance]] frameworks, to support the development of an ecosystem to support the creation, manufacture, sale, support and value-added-services associated with the development of Webizen Technology and Implementations; whilst supporting the development of means to support, develop and maintain capacities required for [[Currencies]], [[The Values Project]], [[Safety Protocols]] and in-turn, overtime the growth of the [[Peace Infrastructure Project]] - Whilst certainly 'commercial', and indeed also able to bring about substantial cash-flows and economic ecosystems growth; its not simply about exploitative or purely consumptive and/or exploitative behaviours or any such form of related commercial structure.  
+
+Fundamentally; the economic models seek to support [[HumanCentric Digital Identity]], whilst acting to improve [[Relationships (Social)]] as well as [[Ending Digital Slavery]] and ensuring support for [[Freedom of Thought]], through the development of [[Artificial Minds]] as tools.
+
+People who purchase a Webizen System, will be the owner of it.  It is not a 'service', although there are some requirements to either provide services or that the end-user is able to set one up themselves (although, that may not be what is in their best interest, in the end)... 
+
+The Economic Models built into the software seek to support multiple currencies, which in-turn seek to provide bi-directional economic flows; that take into consideration energy use and a raft of other factors - basically, the first target, is to support the needs of people who work on computers to be provided a better solution to perform that work with others; and in-turn also, through the use of the [[Webizen 3.0]] developing  [[Webizen 3.5]] which in-turn incorporates [[Webizen Pro]] which is intended to be supported by the [[Webizen Alliance]] to support juristictional support alongside 'Value Added Resellers' in the form of software development houses that would build specific solutions for customers built upon the Webizen (pro) Platform.   In-order to support an international ecosystem of participants who are in-turn able to work collaboratively / cooperatively to produce Webizen Specifications in a Decentralised and fairly open way (whilst not supporting 'digital slavery' nor 'rents in perpetuity', etc.); involving many stakeholders, there needs to be a structure, it needs to be able to be made comprehensible to people from different backgrounds, different skills, and they in-turn need to have an understanding of what it is Webizen is about; which is only reasonably made able to occur, by building an earlier and very much simplified solution; that will in-turn be used by those who get involved, to help deliver the Webizen Vision; and thereby also, becomes well positioned to competitively progress [[Peace Infrastructure Project]] opportunities that exist, but are difficult to do well, without a platform and related capability.
+
+In future; the Webizen platform aims to produce a device that consumers can deploy at home, on their home-networks and in-turn also - connect into their phones and IoT environments.  Yet, the commercial problem about this objective, is that it is expensive to produce consumer hardware, the margins are relatively low; with 'apps' (software) its not very attractive to consumers, and those who are 'geek enough' are unlikely to want to pay for anything, other than going down to their local computer store to build themselves a Webizen Compatible PC...  (note: [innovation curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations)). 
+
+However; the belief is that there are many high-net-worth individuals, and all sorts of other commercial opportunities to build infrastructure that supports the ability to deploy personal, private and propriatery cloud environments for inter-personal and inter-community operation of advanced computing with advanced 'Artificial Intelligence' capabilities, that are community developed and fundamentally open - in-effect, the ability to democratise AI. 
+
+To illustrate how difficult this is to achieve, the tech Crunch article [There’s now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/) illustrates that an alternative to OpenAI (powered by Microsoft Azure); 
+
+*"PaLM is 540 billion parameters in size, “parameters” referring to the parts of the language model learned from the training data. A 2020 study pegged the expenses for developing a text-generating model with only 1.5 billion parameters at as much as $1.6 million. And to train the open source model Bloom, which has 176 billion parameters, it took three months using 384 Nvidia A100 GPUs; a single A100 costs thousands of dollars."*
+
+*"And to train the open source model [Bloom](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/), which has 176 billion parameters, it took three months using 384 Nvidia A100 GPUs; a single A100 costs thousands of dollars.
+
+Running a trained model of PaLM + RLHF’s size isn’t trivial, either. [Bloom](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/) requires a dedicated PC with around eight A100 GPUs"*
+
+noting also;
+
+ *[Training a 540-Billion Parameter Language Model with Pathways](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)*
+
+PaLM demonstrates the first large-scale use of the Pathways system to scale training to 6144 chips, the largest TPU-based system configuration used for training to date. The training is scaled using [data parallelism](https://en.wikipedia.org/wiki/Data_parallelism) at the Pod level across two [Cloud TPU v4 Pods](https://cloud.google.com/blog/topics/tpus/google-showcases-cloud-tpu-v4-pods-for-large-model-training), while using standard data and model parallelism within each Pod. This is a significant increase in scale compared to most previous LLMs, which were either trained on a single TPU v3 Pod (e.g., [GLaM](https://arxiv.org/abs/2112.06905), [LaMDA](https://arxiv.org/abs/2201.08239)), used pipeline parallelism to scale to 2240 A100 GPUs across GPU clusters ([Megatron-Turing NLG](https://arxiv.org/abs/2201.11990.pdf)) or used multiple TPU v3 Pods ([Gopher](https://arxiv.org/abs/2112.11446)) with a maximum scale of 4096 TPU v3 chips.*
+
+
+Therein; there's effectively three different sorts of issues, the first is about creating the models, the next is about having the computational equipment needed to train the models; and the final issue is how to run the models privately. 
+
+So, The webizen ecosystem provides a framework to radically improve the means to support the creation of the models.  Then, through a network of webizen powered systems, communities can collaboratively support training the models (a bit like the way blockchains work, in collaboratively 'mining' blocks); then, lastly, the networks can be used to collaboratively process various sorts of models... 
+
+There's a bunch of use-cases for these sorts of opportunities; noting, the ability to have an interopable ecosystem - is very important, as is the ability to rapidly develop apps (ie: using just HTML/JS/CSS); that in-turn rely upon an underlying [[Webizen AI OS Platform]] that provides capabilities for all sorts of customers, from those with a collection of million dollar cars; to those who are operating major IoT networks or advanced engineering, biomedical, academia (ie: universities and k12); and so many other fields, the scope of opportunity, is enormous.  
+
+Yet, the most important part of what needs to be done well, is to address the social fabric related issues to make sure that its infrastructure that's able to support the [[Peace Infrastructure Project]] rather than becoming something that ends-up being a disabler.
+
+![[phoneface.jpg]]

@@ -4,7 +4,7 @@ The Webizen Project reflects an attempt to successfully accumplish 'next steps',
 
 The Webizen Project brings together works that have been done by many around the world, in a different sort of way.  The Works undertaken by Holborn have been managed in connection to the trading names 'sailing digital', 'media prophet', 'web civics', 'trust factory' and 'webizen'. 
 
-The objective is to establish a 'minimum viable ecosystem' to support incorporating a somewhat complex for-purpose structure, that is able to support human rights in ways not possible earlier. This objectives to achieve this 'mission' is outlined by the [Webizen V3.0](Webizen%20V3.0.md) document.
+The objective is to establish a 'minimum viable ecosystem' to support incorporating a somewhat complex for-purpose structure, that is able to support human rights in ways not possible earlier. This objectives to achieve this 'mission' is outlined by the [Webizen 3.0](Webizen%203.0.md) document.
 
 There are MANY who've been instrumentally supportive in various ways over time (and there's been various people who've been extrodinarily destructive; and some, quite dangerous), which is most certainly on my mind.  
 

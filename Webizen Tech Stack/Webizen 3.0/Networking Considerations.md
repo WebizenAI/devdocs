@@ -1,6 +1,6 @@
 
 ### Networking Designs - discussion paper.
-In the lead-up to figuring out a solution, leading to this new direction for [[Webizen V3.0]], i was struggling to figure out how to get the networking solution done. 
+In the lead-up to figuring out a solution, leading to this new direction for [[Webizen 3.0]], i was struggling to figure out how to get the networking solution done. 
 
 This paper was written as a consquence of trying to figure out that problem..
 
