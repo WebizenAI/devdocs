@@ -1,12 +1,15 @@
+# Networking Considerations
 
 ### Networking Designs
 In the lead-up to figuring out a solution, leading to this new direction for [[Webizen 3.0]], i was struggling to figure out how to get the networking solution done. 
 
 This paper was written as a consquence of trying to figure out that problem.
 
-The Short Answer is, that the plan is to use [Tailscale](https://github.com/tailscale/tailscale) and [Headscale](https://github.com/juanfont/headscale) then looking to update [Caddy](https://github.com/caddyserver/caddy) which is [already set-up to support Tailscale](https://tailscale.com/blog/caddy/).  
+The Short Answer is, that the plan for Low-Level Networking is to use [Tailscale](https://github.com/tailscale/tailscale) and [Headscale](https://github.com/juanfont/headscale) then looking to update [Caddy](https://github.com/caddyserver/caddy) which is [already set-up to support Tailscale](https://tailscale.com/blog/caddy/).  
 
-# OVERVIEW
+Whereas, the information networking methodology is actually far more complex...
+
+## OVERVIEW
 
 The Webizen Platform is intended to be a force for good, as is an overriding objective of significance.  The platform itself; is intended to support an information management system that works in a way that is different to other known ‘operating systems’, application environments and consequently thereafter - information management solutions.  These works are complex, and consider various ‘spheres’ from the technical (infosphere) to the socio-sphere, economic, legal, biosphere, etc. The platform has a focus on producing ecosystem solutions to usefully employ AI.
 
