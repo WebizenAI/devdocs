@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md"
+                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2b46fc4f8c3bb70e",
   "lastOpenFiles": [
-    "Webizen Tech Stack/Webizen 3.0.md",
     "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md",
+    "Webizen Tech Stack/Webizen 3.0.md",
     "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Webizen Local Apps.md",
     "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Server Requirements (VPS).md",
     "Webizen Tech Stack/Webizen 3.5/Mobile Apps.md",

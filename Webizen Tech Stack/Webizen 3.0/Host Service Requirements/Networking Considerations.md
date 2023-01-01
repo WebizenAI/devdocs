@@ -42,7 +42,11 @@ The Webizen Platform is intended to be a force for good, as is an overriding obj
 
 ## Deliberations: Some recent architectural work and linked considerations.
 
-In a 2017 presentation / talk on “The End of Cloud Computing” General Partner of Andreessen Horowitz Peter Levine explains how cloud technology is changing for an edge cloud model.  Put simply, Lavine presents the case illustrating how the mass of (IoT) devices ‘at the edge’ requires ‘edge processing’; or in other words, that the computational requirements for devices within ‘personal area networks’ cannot be supported by (international) ‘cloud computing’ capabilities alone.  Reviewing this presentation again recently, reminded me of the physics (in-effect) involved in effectively delivering modern capabilities - even if the moral considerations are not enough.  This ‘battle’ between ‘mainframe’ like systems, and personal computing - is a very old trend.  
+In a 2017 presentation / talk on [“The End of Cloud Computing”](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/) General Partner of Andreessen Horowitz Peter Levine explains how cloud technology is changing for an edge cloud model.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QTAtFaIiyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Put simply, Lavine presents the case illustrating how the mass of (IoT) devices ‘at the edge’ requires ‘edge processing’; or in other words, that the computational requirements for devices within ‘personal area networks’ cannot be supported by (international) ‘cloud computing’ capabilities alone.  Reviewing this presentation again recently, reminded me of the physics (in-effect) involved in effectively delivering modern capabilities - even if the moral considerations are not enough.  This ‘battle’ between ‘mainframe’ like systems, and personal computing - is a very old trend.  
 
 I have made a somewhat brief ‘Timeline Exhibit’ of various clips relating in particular to Steve Jobs & Tim Berners-Lee which can be found via the link below.
 
@@ -92,7 +96,7 @@ IF, this path is investigated and/or further developed; then considerations are 
 
 1.  User goes to webizen.au (for example) and sets-up an account.
     
-2.  Once the account is setup (with or without their own domain, etc.) then they can download ‘client software’ which is basically a ‘vpn’ like thing that has a RWW ‘social-web / webizen server’ baked into it; which then operates in a federated manner with other devices in their ‘private network’.
+2.  Once the account is setup (with or without their own domain, etc.) then they can download ‘client software’ which is basically a ‘vpn’ like thing that has a RWW ‘social-web /  webizen server’ baked into it; which then operates in a federated manner with other devices in their ‘private network’.
     
 3.  User then creates or downloads apps that depend upon these services existing; whereby the app is simply ‘client side’ pulling the data from the network; and using local machine resources to perform various tasks. (there are various libraries for Go app development that support interfaces for media processing, cuda, tensor, etc.). 
     
