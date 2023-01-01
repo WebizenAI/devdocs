@@ -11,8 +11,12 @@
             "id": "2b46fc4f8c3bb70e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking.md"
+              }
             }
           }
         ],
@@ -141,15 +149,15 @@
   },
   "active": "2b46fc4f8c3bb70e",
   "lastOpenFiles": [
+    "Webizen Tech Stack/Webizen 3.0.md",
+    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking.md",
+    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Webizen Local Apps.md",
+    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Server Requirements (VPS).md",
+    "Webizen Tech Stack/Webizen 3.5/Mobile Apps.md",
     "README.md",
     "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
     "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
     "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Text Analysis.md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Image Analysis.md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Audio & Video Analysis.md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/AI Capabilities Objectives.md",
-    "Webizen Tech Stack/Webizen 3.0/HyperMediaContainers/Webizen 3.0 apps.md",
-    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations/Webizen Local App Functionality.md",
-    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations/Server Functionality Summary (VPS).md"
+    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Image Analysis.md"
   ]
 }

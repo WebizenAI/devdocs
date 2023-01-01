@@ -1,8 +1,10 @@
 
-### Networking Designs - discussion paper.
+### Networking Designs
 In the lead-up to figuring out a solution, leading to this new direction for [[Webizen 3.0]], i was struggling to figure out how to get the networking solution done. 
 
-This paper was written as a consquence of trying to figure out that problem..
+This paper was written as a consquence of trying to figure out that problem.
+
+The Short Answer is, that the plan is to use [Tailscale](https://github.com/tailscale/tailscale) and [Headscale](https://github.com/juanfont/headscale) then looking to update [Caddy](https://github.com/caddyserver/caddy) which is [already set-up to support Tailscale](https://tailscale.com/blog/caddy/).  
 
 # OVERVIEW
 

@@ -1,4 +1,4 @@
-The Host or [[Server Functionality Summary (VPS)]] requirements will need to develop overtime.  
+The Host or [[Server Requirements (VPS)]] requirements will need to develop overtime.  
 
 Some of the key requirements will include;
 

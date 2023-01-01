@@ -18,7 +18,7 @@ The [[Social Factors]] document provides some general information about the back
 
 **There are two packages required;**
 a. An Implementation that can be installed and operated on a VPS:  [[Host Service Requirements]]
-b. An Implementation that can be easily installed and operated on Home Computers: [[Webizen Local App Functionality]]
+b. An Implementation that can be easily installed and operated on Home Computers: [[Webizen Local Apps]]
 
 The project intends to improve upon the works already previously demonstrated as [GOLD](https://github.com/linkeddata/gold). 
 
