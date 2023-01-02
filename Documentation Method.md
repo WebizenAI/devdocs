@@ -62,3 +62,9 @@ The other issue that i've had is that HTML in files can break gatsby; so, in the
 I'm therefore thinking about how to apply [[Phase 1 Fee For Service Offerings]] type concepts to get help for people, although i'm not entirely sure how to do that yet. 
 
 In anycase; that's how this development documentation has been produced for the [devdocs.webizen.org](https://devdocs.webizen.org) site.
+
+
+### NOTES
+
+1. The DocumentHeading can be overridden by creating a top level Heading
+2. A Directory can be provided by providing a document with the same name in the underlying directory. 

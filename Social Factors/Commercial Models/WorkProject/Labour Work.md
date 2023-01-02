@@ -1,0 +1,1 @@
+Labour is categorised differently to 'knowledge work'.

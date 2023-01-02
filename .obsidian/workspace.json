@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "caf216503d13d90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/WorkProject/Work Valuation Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6e036e11661d454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Borg - Star Trek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07809cd4ca1b5454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd6bb95a76c83c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/WorkProject/Contribution Classifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Webizen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
+                "file": "Social Factors/Commercial Models/WorkProject/Contribution Classifications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
+                "file": "Social Factors/Commercial Models/WorkProject/Contribution Classifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md"
+                "file": "Social Factors/Commercial Models/WorkProject/Contribution Classifications.md"
               }
             }
           }
@@ -147,17 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b46fc4f8c3bb70e",
+  "active": "dd6bb95a76c83c8b",
   "lastOpenFiles": [
-    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking Considerations.md",
-    "Webizen Tech Stack/Webizen 3.0.md",
-    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Webizen Local Apps.md",
-    "Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Networking/Server Requirements (VPS).md",
-    "Webizen Tech Stack/Webizen 3.5/Mobile Apps.md",
-    "README.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
-    "Webizen Tech Stack/Webizen 3.5/Web Of Things (IoT).md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Text Analysis.md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/Image Analysis.md"
+    "Social Factors/Commercial Models/WorkProject/Licensing Frameworks.md",
+    "Webizen Tech Stack/Core Technologies/GoLang Libraries.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Borg - Star Trek.md",
+    "Social Factors/Commercial Models/WorkProject/Project Financing.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Max - Flight of the Navigator.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Sarah - Eureka.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Bishop - Aliens.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/Rosie - The Jetsons.md",
+    "Social Factors/Web Science/Artificial Minds/TheArtificialMindsIndex/IBM Watson.md"
   ]
 }

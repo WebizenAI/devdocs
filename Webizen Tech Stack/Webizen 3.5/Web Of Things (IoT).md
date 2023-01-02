@@ -49,3 +49,17 @@ There are also many potential applications for the Web of Things (WoT) in work e
     
 
 Overall, the use of WoT technology in work environments can enable a wide range of applications and services that can improve the efficiency and effectiveness of business processes and operations.
+
+
+ [[WebID]]-TLS (Transport Layer Security) is a protocol that enables secure communication and authentication over the internet. It is based on the TLS protocol, which is widely used to secure communications on the web, and the WebID standard, which defines a way to identify and authenticate users using a URI (Uniform Resource Identifier).
+
+In the context of the Internet of Things (IoT) and the Web of Things (WoT), WebID-TLS can be used to support IoT management by enabling secure communication and authentication between WoT devices and systems. This can be useful in a variety of scenarios, such as:
+
+-   Enabling WoT devices to securely communicate with each other and with other systems, such as cloud-based IoT platforms.
+    
+-   Providing a secure way for users to access and control WoT devices and systems remotely, using a web browser or other client.
+    
+-   Enabling WoT devices and systems to authenticate each other and verify the identity of users and other entities that interact with them.
+    
+
+Overall, WebID-TLS can play a key role in supporting secure and reliable communication and authentication in WoT environments, which can help to ensure the integrity and security of IoT systems and devices alongside other related [[Authentication Fabric]] components, to provide an ecosystems solution that provides a capability that's quite different to the way #Things work today.
