@@ -2,7 +2,7 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "Webizen Development Related Documentation.",
-  shortName: "WebizenDevDocs",
+  shortName: "Webizen Docs",
   description:
     "This repo provides information about the webizen development objectives, considerations and related experimentation!",
   twitterName: "webcivics",
@@ -48,7 +48,10 @@ module.exports = {
           short_name: siteMetadata.shortName,
           start_url: pathPrefix,
           background_color: `#f7f0eb`,
+          editUrlText: "Suggest Edit on Github", // edit url text
           display: `standalone`,
+          shouldSupportTags: true,
+          tagText: "Tags",
           icon: path.resolve(__dirname, "./static/logo.png"),
         },
       },
