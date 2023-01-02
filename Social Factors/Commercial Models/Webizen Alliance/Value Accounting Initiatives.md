@@ -1,20 +1,18 @@
 
 
-Existing Open Value or Contribution Accounting initiatives
-  
+NOTE: This work, to collect and document a list of existing value Accounting initiatives; was undertaken in 2019 primarily by Amanda Jansen, as is noted below.  This did in-turn seek to support the growth of the [[WorkProject]] which has been a project that has been sought to be developed for much longer than a decade overall; indeed, arguably since the very beginning, although - like all related things, its developed alot since...  
+
+*Existing Open Value or Contribution Accounting initiatives*
 
 AUTHORS
-
 -   Timothy Holborn (support & additions)
- 
--   Amanda Janson (significant producer)
+-   Amanda Jansen (significant producer)
 
+*Amanda Jansen has been active in the field of p2p networks such as P2P Foundation and OuiShare for many years and has been contributing to the digital evolution and the future of talent and work.*  
 
-Amanda Jansen has been active in the field of p2p networks such as P2P Foundation and OuiShare for many years and has been contributing to the digital evolution and the future of talent and work.  
+*Timothy Holborn is inventor / founder of the [Knowledge Banking system](https://www.webizen.net.au/about/references/social-informatics-design-concept-and-principles/?fbclid=IwAR1UjmjE5tetjO5tSsLZJAHYTpGAY3GWcPiOXB-yhJDK5TBP8fW5ZpuGbTM) and has actively contributed towards the making of the web standards in the community of Tim Berners Lee contributing to Solid, W3C and numerous startups / projects in the field.*
 
-Timothy Holborn is inventor / founder of the [Knowledge Banking system](https://www.webizen.net.au/about/references/social-informatics-design-concept-and-principles/?fbclid=IwAR1UjmjE5tetjO5tSsLZJAHYTpGAY3GWcPiOXB-yhJDK5TBP8fW5ZpuGbTM) and has actively contributed towards the making of the web standards in the community of Tim Berners Lee contributing to Solid, W3C and numerous startups / projects in the field. 
-
-Both work on the roll out of a global Knowledge Banking industry which will harness the privacy and ownership of knowledge (not data), harness the interests of knowledge workers and usher in the age of the knowledge based economy, coming from a resource based economy.
+*Both work on the roll out of a global Knowledge Banking industry which will harness the privacy and ownership of knowledge (not data), harness the interests of knowledge workers and usher in the age of the knowledge based economy, coming from a resource based economy.*e of the knowledge based economy, coming from a resource based economy.*
 
 
 # Content

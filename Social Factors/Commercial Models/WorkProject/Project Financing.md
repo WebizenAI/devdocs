@@ -11,7 +11,7 @@ Resources may include; The Supply of,
 
 This is in-turn intended to support a framework that is in-effect, compatible with the Fundamental Charter of Christian Ethical Finance. 
 
-![[2015_Fundamental Charter of Christian Ethical Finance - 2015.pdf]] 
+[Fundamental Charter of Christian Ethical Finance](2015_Fundamental Charter of Christian Ethical Finance - 2015.pdf)
 
 Which is in-turn expected to be compatible with many of the [[Values Credentials]] frameworks.
 

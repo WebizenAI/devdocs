@@ -59,7 +59,7 @@ Whilst the method explained above is intended to be useful; it may also be bette
 
 The other issue that i've had is that HTML in files can break gatsby; so, in the github actions section (online in github) you'd need to look at what might have gone wrong if the build fails & then fix it. 
 
-I'm therefore thinking about how to apply [[Phase 1 Fee For Service Offerings]] type concepts to get help for people, although i'm not entirely sure how to do that yet. 
+I'm therefore thinking about how to apply [[Early Stage Income Strategies]] type concepts to get help for people, although i'm not entirely sure how to do that yet. 
 
 In anycase; that's how this development documentation has been produced for the [devdocs.webizen.org](https://devdocs.webizen.org) site.
 
