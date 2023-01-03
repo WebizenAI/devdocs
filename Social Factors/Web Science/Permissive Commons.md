@@ -2,6 +2,11 @@ Permissive Commons is in-fact similar to the [Decentralised Ontologies](Decentra
 
 The Permissive Commons concept is like an advancement of 'open-data', whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.
 
+Permissive Commons related documents;
+- [[Permissive Commons Tech]]
+- [[Open Data v3.0 Permissive Commons]]
+- [[Tech for Permissive Commons]]
+
 There are a few different 'usecases' relating to the use of 'permissive commons'. 
 
 **The Public Commons**

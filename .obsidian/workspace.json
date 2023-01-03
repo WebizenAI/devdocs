@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md",
+                "file": "Social Factors/Commercial Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efea64deab7ac825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human",
+                "query": "Permissive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md",
+                "file": "Social Factors/Commercial Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md",
+                "file": "Social Factors/Commercial Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md"
+                "file": "Social Factors/Commercial Models.md"
               }
             }
           }
@@ -162,15 +174,15 @@
   },
   "active": "0d951154fcc230db",
   "lastOpenFiles": [
-    "Social Factors/Commercial Models/WorkProject/Project Financing.md",
-    "Social Factors/Commercial Models/WorkProject/Licensing Frameworks.md",
-    "Social Factors/Commercial Models/Historical Information.md",
-    "Social Factors/Commercial Models/Trust Factory.md",
-    "Social Factors/Commercial Models/Historical Information/Web Civics.md",
-    "Social Factors/Commercial Models/WorkProject/Labour Work.md",
-    "Social Factors/Commercial Models/WorkProject/Resources.md",
-    "Social Factors/Commercial Models/WorkProject/Intellectual Property.md",
-    "Social Factors/Commercial Models/Currencies/Non-Financial Currencies.md",
-    "Social Factors/Commercial Models/Currencies/Micropayments.md"
+    "Social Factors/Commercial Models/ESG/SocioSphere Calcs.md",
+    "old-work-archives.md",
+    "Webizen Tech Stack/Authentication Fabric.md",
+    "Social Factors/Web Science/Permissive Commons.md",
+    "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
+    "old-work-archives/WebCivics Medium Posts/2019/Tooling for Democracies.md",
+    "Social Factors/Commercial Models/ESG/Biosphere Calcs.md",
+    "Social Factors/Commercial Models/ESG/Energy Calcs.md",
+    "Webizen Tech Stack/Authentication Fabric/Verifiable Credentials.md",
+    "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md"
   ]
 }
