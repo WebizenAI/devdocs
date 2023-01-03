@@ -66,5 +66,6 @@ In anycase; that's how this development documentation has been produced for the 
 
 ### NOTES
 
-1. The DocumentHeading can be overridden by creating a top level Heading
-2. A Directory can be provided by providing a document with the same name in the underlying directory. 
+1. Whilst not exhaustive - [issues](https://github.com/WebizenAI/devdocs/issues) are being logged via github. 
+2. The DocumentHeading can be overridden by creating a top level Heading
+3. A Directory can be provided by providing a document with the same name in the underlying directory. 

@@ -1,12 +1,84 @@
-There are various forms of 'Social Attack' Vectors / Actions / Activities, that have existed for sometime but haven't been - better addressed - in-part due to the sophistocated nature of what needs to occur to bring about a more comprehensive 'ecosystems solution' to address bad behaviour / bad actors.
 
-There are various 'classes' of bad actors which are not the same as one-another.  Often they're interactive and often it is unclear which 'category' or 'agent' is best associated with which category.  
+**Topics include; but are not limited to,** 
+Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs, Financial Crimes, Corproate Crimes, Attacks Online, Fraud, Social Engineering, etc.
+
+*IMHO: At the end of the day, harms caused to [[Biosphere Ontologies]] entities, is fundamentally caused by other [[Biosphere Ontologies]] entities, regardless of the [[SocioSphere Ontologies]] related implications.*  
+
+*There are various forms of Social Attack Vectors, Actions and Activities; that have existed for a very long time, and others that have become a problem in recent decades due to the implications of the use of technology, as does in-turn relate to designs.* 
+
+So far, i have been able to produce some materials that cover the following sub-topics,
+
+- [[Attacks Online]]
+- [[Criminal Activity]]
+- [[Public Sector Wrong Doings]]
+
+There is an enormous amount of work to be done in relation to this area, and it will take some time.  I also find it to be emotionally exhausting (as noted below); in the meantime, here are some of my thoughts on considerations related to this area of work that is importantly done, to an appropriate level, as to thereafter ensure solutions are illustratively equipped to demonstrate how the ecosystems are intended to work to put a stop to it and/or provide vastly improved means for accessibility to lawful remedy for disaffected persons.  
+
+
+
+#### Introduction: Purpose
+
+
+![[codeofchivalry.jpg]]
+
+
+[[The Values Project]] seeks to employ various methods, including [[Web Science]] and other [[Social Factors]] related considerations to structure methodologies to enable means for people to be better equipped to both benefit from the support of [[Safety Protocols]] and related considerations; a difficult, yet important documentation requirment is to make note of various types of 'social attack vectors', whether they're intended to be addressed via [[Trust Factory]] related methodologies or more broadly otherwise (ie; web civics, etc.) its still important that they're able to be considered somehow. 
+
+> *Personally, i stuggle doing these sorts of tasks and find it very difficult to have a level of comfort about the idea that i've illustrated the problems well enough, or that it is a safe thing to undertake to do; there is both great sadness and an enormous amount of life invested into seeking to be positively responsive towards addressing problems relating to the human rights of others; and in most cases, it can't really be fully discussed publically. Yet what can be done, is that the underlying principals can be illustrated as a means to support design considerations that denote a level of responsibility that has been so clearly absent from the work done by others.  It is all well and good to solely care about 'yourself' selfishly, and not address the means to address problems - but this is neither appropriate nor responsible, nor consistant with the actual fundamental relationship between leadership and the responsibilities that are inextricably linked to the appropriate use of that term as to strive towards living in a manner that is consistant with, what may be considered a fundamental belief in the existance of universal moral values; as is something that has been referred to for consideration by [Professor Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)... *
+> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ2vr2YnSGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+>*As i have noted elsewhere, on the 3rd of April 2018 in response to corraspondance with Professor Chomsky, as i worked to pursue the development of the ontology related works required to support [[Freedom of Thought]] and related requirements.  The percieved problem was that whilst many of the [W3C CG](W3.org/community/) related folk (including those more broadly whom are involved in such things as [[Web Science]]); there was a percieved problem about the lack of social comprehensions in relation to ontological designs; as can in-turn have the effect of perverting the ability for societies to support 'common sense' and persons to have a meaningul relationship with reality. *
+
+> *Professor Chomsky noted simply;*
+
+"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one’s actions is oneself."
+
+> *Yet, as has been demonstrated more significantly in recent years; there are complex underlying factors, that i have sought to address which has the effect of feeding into the [[HumanCentric Digital Identity]] designs, alongside the broader ecosystems required to support it; as, the fundamental problem becomes, that where people become disassociated as a consequence of the intended behaviours of others, then the problem becomes linked with the importance of the concept to ensure we're working on [[Ending Digital Slavery]].*
+
+> *[[Understanding Ontologies]] is of critical importance to gain a better comprehension about the implications and in-turn how they have a foundational basis in built upon science; that can and is in-turn exploited by bad actors (often highly sophistocated ones); as is one of the many forms of Social Attack Vectors that are becoming a greater problem due to AI infrastructure, that is not operating appropriate [[Safety Protocols]] - or at least, that's my opinion.  Whilst others may be satisfied and/or happy with the way their ICT systems work for them; the designs brought about via the [[Webizen Tech Stack]] and related applied methods to address [[Social Factors]] via [[Web Science]] and otherwise; in-turn leads to complex factors that fundamentally relate to human consciousness.   An example of the implications has sought to be illustrated by  [Henry Strapp](https://en.wikipedia.org/wiki/Henry_Stapp) in the simpliest way i've ever seen done, per below. *
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYPjXz1MVv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> *These sorts of considerations in-turn feed into the ecosystems design paradigms that are embedded into the body of works and the method of assembly relating to the ecosystems tooling, etc.*
+
+> *When considering the intended purpose of constituencies such as [[The Webizen Charter]], the [[Community of Practice]] and other [[Webizen Alliance]] [[Commercial Models]] that as stated - seek to support the growth of the far broader [[Peace Infrastructure Project]] , Old concepts, whether they be embedded in the systems of faith that people have in all parts of the world; or via old codes of conduct as noted earlier; and indeed also, old terms such as The term Worshipful;*
+  
+  *(a) Honorable, virtuous, of noble character, estimable; highly respectable, decent; of a knight: excelling in knightly virtues, courageous, courteous, of great prowess; maken ~, to honor (sb.); 
+ (b) deserving of honor or respect, praiseworthy; also, ?deserving of special treatment, singular [quot. a1500(c1477)]; 
+ (c) of an act, a ceremony: demonstrative of due honor or respect; 
+ (d) renowned, eminent, famed; 
+ (e) bringing honor or distinction; 
+ (f) as noun: one who is honorable, a respectable person. 
+  Source: [Middle English Compendium](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED53455) 
+
+> *Which does in-turn relate to the term [The Honourable](https://en.wikipedia.org/wiki/The_Honourable) as is more commonly used today.  The underlying point being that unless there are lawful means to address wrongs that are committed upon people with the express intent of causing that person injury; or indeed also, behaviours that unwittingly or mistakenly caused a person injury; unless there are lawful means to seek remedy, then there is no available means to support Peace.*  
+
+> *As such, i find myself now having to go through the difficult process of describing the nature of some of the horrible things people seemingly seek to gainfully do; involving harms to others. Many of these sorts of issues have existed for a very long time, whilst others have only become a problem or a worse problem due to newer issues.  
+
+It is thought that the reason why many of these issues haven't been better addressed is in-part due to the sophistocated nature of what needs to occur to bring about a more comprehensive 'ecosystems solution' to address bad behaviour / bad actors.  There are various 'classes' of bad actors which are not the same as one-another.  Often they're interactive and often it is unclear which 'category' or 'agent' is best associated with which category.  
 
 Due to various forms of vulnerability and the lack of functionality provided to support [[Values Credentials]] - that is, the ability to support a means where people self-declare what their values frameworks are; and both, what should be expected of them and in-turn also, the relationship.
 
-So, this document seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safe) [[Relationships (Social)]],  etc.
+So, this document and the related group of additional documents on related topics; seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safe) [[Relationships (Social)]], etc.
 
-Topics: Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs. 
+#### Description of different types of attacks
+
+Whilst work to more appropriately illustrate the somewhat exhaustive nature of how various types of attack vectors are all too often gainfully employed by bad people and those who've been misled by bad people; none of it is simple, and people who have developed to become professionals in the field employ extremely well-developed and complex methodologies to achieve their objectives - which are generally for personally gainful purposes, at the material expense of others, that may well have consequences relating to serious injury, impairment, disability and/or death of their targets.  These sorts of attacks are not simple, and can often evolve in a manner that leads to many different actors getting involved in a broader 'agenda' that serves the interest (at least initially) of the would-be beneficiary.  
+
+The consequences are often defined by law to constitute an emboidment of actions and/or behaviours that may be thereby considered an alledged crime; and whilst the proper venue to sort these sorts of things out is a court of law, the apparatus to ensure that avenue for lawful remedy be available, is often actively discouraged by an array of parties; not simply those well known to be involved in crime and/or organised crime.  
+
+
+
+
+
+### ChatGPT Contributions
+
+Given one of the prominently employed social attack vectors is to seek to debase the merit of a persons words and/or ability to be heard or be socially supported to be listened to; the use of ChatGPT has been used fairly extensively; including contributions for this topic also
+
+
+Below is some content that has been generated by ChatGPT.   
 
 There are a number of social attack vectors or behaviors that can negatively impact knowledge workers who are working online. Some examples include:
 
@@ -142,6 +214,8 @@ A semantic web ontology is a formal representation of a set of concepts and rela
 
 By defining these concepts and their relationships within an ontology, it is possible to create a structured and logical representation of the principles for managing social attack vectors, and to use this representation to support decision-making and other processes related to this domain.
 
+
+### Ontology related works
 
 ``` 
 @prefix : <http://webizen.org/ns/social/sav.ttl> .

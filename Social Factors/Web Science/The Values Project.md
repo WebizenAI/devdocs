@@ -1,4 +1,35 @@
 
+This was one of the first documents produced, and likely needs to be comprehensively updated - given the importance of this project.  
+
+An artifact from an old project that has continued to provide me something to refer to when feeling lost about the problems that seem to be inexorable, is this short video, which was produced with the help of [Thomas Keneally](https://en.wikipedia.org/wiki/Thomas_Keneally) who wrote the words; and i had the opportunity to ensure was playing on the Public Screens in Perth for CHOGM that year, an event that does in-turn relate to [The Commonwealth Charter](https://thecommonwealth.org/charter).  
+
+Whilst my experiences lead me to consider the fictional nature of how the sentiments connect to the realities and lived experiences of my / our Australian people (understanding that there are problems in all regions of the world, not simply Australia); I have found it useful to refer to the sentiments expressed as an example of the sorts of things that we should be striving to make true; which is the fundamental purpose of The Values Project.
+
+Through the applied use of technology in a particular sort of way, the statements made; both, by the media clips provided below and the underlying instuments, laws and values that they in-turn refer to - can be made far more real for people, who want [[Safety Protocols]].
+
+<iframe src="https://player.vimeo.com/video/30416090?h=f11a48b1df" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/30416090">The Australian Way</a> from <a href="https://vimeo.com/auscivics">AusCivics</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+UK: Provides a 2 minute explaination of Human Rights.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRGhrYmUjU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+USA: one of the best American examples i've found is this 5:45 video presenting the terms of the UDHR.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aiFIu_z4dM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+Fundamentally - one of the primary objecties in the short-term is to define [[Values Credentials]] as is required to ensure the [[Webizen Tech Stack]] supports the critical requirements illustrated by various topics relating to [[Social Factors]] and in-particular, providing means to support the growth of [[Commercial Models]] particularly therein via the [[WorkProject]].
+
+NOTE ALSO:
+- [[Open Badges]]
+- [[Verifiable Credentials]]
+- [[Verifiable Claims & Credentials]]
+- [[Permissive Commons Tech]]
+
+
 # Background
 
 I was involved in the creation of works within W3C communities that became advanced towards an outcome commonly known as ‘SSI’.  There are many areas of great concern, it is reasonable to note - I'm not very happy…   Regardless of these concerns & any merit that may exist for alternative approaches; the reality is, that these components are now globally implemented, with increasing market-pressures to deploy / employ them, world-wide. 
@@ -163,9 +194,9 @@ There is a change in modality that is able to be achieved - as is otherwise requ
 
 Some of these requirements do in-turn require a means to have a safe space to store records of importance.   This is presently not very well provided for by existing solutions that now thereby define the nature of the ‘identities’ of the persons who’ve been involved & the values of their groups.  Whilst it is hoped that these sorts of exhibits will be positively influenced through the production of technology - that led to the way things are done today - to be made, to function as intended - it is also expected, that some people will always prefer alternatives for various reasons; in this way, its not unlike the circumstance of ‘freedom of religion’, whereby the concept of choice - is intended to be empowering, and not a device to force others to comply, in circumstances where the implications are knowingly unlawful & without lawful remedy by design. 
 
-## The use of SVG Containers
+## The use of PNG or SVG Containers
 
-The concept is to use SVG images in relation to the container format.   The SVG may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
+The concept is to use PNG, SVG or other suitably defined image formats as a form of container format for [[Verifiable Claims & Credentials]] is a fairly old concept, that was instrumental to the [[Open Badges]] designs.  The 'image' format (particularly SVG) may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
 
 In the future there may be a better definition for a file-container method that becomes standardized as something other than an SVG; nonetheless, its thought - SVGs will do for now. 
 
@@ -173,4 +204,3 @@ In the future there may be a better definition for a file-container method that 
 
 Whilst it is desirable to start with the ‘values credentials’ that have static meanings or are represented in a manner that defines the version (noting - new version of laws emerge all the time, perhaps a qualification URI should check for any new versions as to support validity); as does, the circumstances in which the credential was used.  As such, there are a variety of time-stamps that are important to employ, as to ensure historical records remain accurate.
 
-**

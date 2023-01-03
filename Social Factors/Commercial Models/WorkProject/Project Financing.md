@@ -6,12 +6,12 @@ Resources may include; The Supply of,
 1. Useful [[Knowledge Work]] and/or [[Labour Work]]
 2. Financial resources (ie: cash)
 3. [[Equipment and Supplies]] 
-4. Intellectual Property
-5. Facilities
+4. [[Intellectual Property]]
+5. [[Resources]]
 
 This is in-turn intended to support a framework that is in-effect, compatible with the Fundamental Charter of Christian Ethical Finance. 
 
-[Fundamental Charter of Christian Ethical Finance](2015_Fundamental Charter of Christian Ethical Finance - 2015.pdf)
+[Fundamental Charter of Christian Ethical Finance](https://github.com/WebizenAI/devdocs/raw/main/Attachments/2015_Fundamental%20Charter%20of%20Christian%20Ethical%20Finance%20-%202015.pdf)
 
 Which is in-turn expected to be compatible with many of the [[Values Credentials]] frameworks.
 
