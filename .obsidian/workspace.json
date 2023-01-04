@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/Webizen Group 2015.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Permissive",
+                "query": "webizen pro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/Webizen Group 2015.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/Webizen Group 2015.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/Webizen Group 2015.md"
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md"
               }
             }
           }
@@ -172,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d951154fcc230db",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
+    "old-work-archives/Webizen Group 2015.md",
     "old-work-archives/WebCivics BizPlan 2018.md",
     "Social Factors/Commercial Models.md",
     "Social Factors/Commercial Models/ESG/SocioSphere Calcs.md",
@@ -182,7 +183,6 @@
     "Social Factors/Web Science/Permissive Commons.md",
     "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
     "old-work-archives/WebCivics Medium Posts/2019/Tooling for Democracies.md",
-    "Social Factors/Commercial Models/ESG/Biosphere Calcs.md",
-    "Social Factors/Commercial Models/ESG/Energy Calcs.md"
+    "Social Factors/Commercial Models/ESG/Biosphere Calcs.md"
   ]
 }
