@@ -6,3 +6,4 @@ In-Order for the Webizen Mobile environment to be made able to work properly, it
 
 See links for More information about the specifics for [Android](Android.md) and [iOS](iOS.md).
 
+During the [[Webizen 3.5]] stage of development, a [[The Webizen (mobile) Agent]] is sought to be developed noting that it is likely only going to be made able to work with the [[Webizen AI OS Platform]].

@@ -1,12 +1,22 @@
 
 
-HyperMedia Library Modelling
+## HyperMedia Library Modelling
 
-Concept
+The HyperMedia Library project; seeks to produce a semantic parser that supports various entity and ‘metadata’ graph capabilities to be packaged with a hypermedia library asset.  
+  
+This functionality is in many ways complimentary to the media library related processes, as required for various purposes; including the social use case, alongside live communications and many others.  The ‘hypermedia library’ starts to render support for future ‘permissive commons’ use cases; whereby some of the challenges will include, figuring out how to best deal with various forms of copyrighted materials, etc.  Overtime, the belief is; that authors will make use of webizen systems to radically improve how it is they publish content online.
+
+1.  Process media & metadata
+    
+2.  Support the ability to create ‘social’ ‘annotations’ (RDF) and/or derivative works that are linked with existing ‘hyper-media’ library assets. 
+    
+3.  The ability to provide a ‘side-by-side’ interface, enabling persons to review an existing material object, whilst referring back to it - in a new document; linking both visually in the production lifecycle; and in-turn, providing means to review references, in the consumption lifecycle.   
+
+### Concept
 
 So; need some sort of document modelling system that is supported in a few ways via (RDF based) data-services and an innovatively designed UI/UX.  
 
-Issue Statement.
+#### Issue Statement.
 
 1.  I have a library of PDFs (public) but they often don’t fit ‘neatly’ into one category alone. This could be resolved via semantic tagging, that could be achieved via systems of various levels of sophistication.
 

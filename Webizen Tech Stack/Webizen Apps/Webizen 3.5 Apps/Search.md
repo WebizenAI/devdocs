@@ -1,0 +1,1 @@
+The search capability is an AI Search capability, that’s supported by the Webizen Agent.
