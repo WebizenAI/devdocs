@@ -44,3 +44,24 @@ There's a bunch of use-cases for these sorts of opportunities; noting, the abili
 Yet, the most important part of what needs to be done well, is to address the social fabric related issues to make sure that its infrastructure that's able to support the [[Peace Infrastructure Project]] rather than becoming something that ends-up being a disabler.
 
 ![[phoneface.jpg]]
+
+### Business Model Considerations
+
+When i’m thinking about Business Model considerations, to support people who support the development of this project (ie; useful work); it is particularly important to improve circumstances.
+
+The value chain image, represented a basic illustration of forming an ‘effort calculation’, whilst an earlier document (moreover focused on the ‘knowledge banking’ concept) illustrates this further
+
+  
+![](https://lh3.googleusercontent.com/d3pJKLPjmCdn92iztPLzapvZGOoG6EE-FioNDr5UILJyfaNhu-EB6pAokS6HVECzvEqRMGzr9BAO5PUJrh1_0odfYUyJXfvYhPqdHVfXtJlmf4rYQWnKsrjnFh_IYXN7GCSfIqLNY_y-GvKci4emql4a0PIyBqcOJFn_OQuycDU-oGc-h30v-6Pucz8x)
+
+Often projects when they start have no funding - as is the case with my work, now.  Yet, when a project develops to a position where funding might become available; then, too often, it's not the people who were doing the work to start something - from concept to useful outcome that get economic recognition - rather, they’re often treated poorly; whilst others, are sought to engage; who only do so, as a consequence of funding being available to pay them for their work.  
+
+These behaviours, impact - not only, the circumstances of innovators; but also, the ideology that becomes built-into the products that are made as a consequence of the embodiment of decisions made by those involved in creating ‘new things’...  
+
+Part of the solution requirements for webizen, will include a means to support equitable treatment for work activities; which is not so much focused on ‘royalties in perpetuity’ rather, defining systems to support human dignity and the right to have rights in relation to work & contract law.  As such, part of the project to produce webizen, will be about producing the tools that will later be better empowered by webizen.   These considerations do not confer the same sorts of rights considerations, to robots - although; there are costs associated with operating systems, and if they’re put to good use for good purpose by others; perhaps this should also incur a fee, yet, in a manner that is different to the use of a human beings time undertaking work activities; whereby the intended implications of doing useful work, if / when valued by others - is to ensure, it supports the human dignity of workers.
+
+This process; does in-turn also lead to a means to support accountability, should wrongdoings occur.
+
+So, i do not see a clear answer / solution, to addressing this problem easily; rather, it appears to me - that there's a body of work & testing / R&D, to perform - where initial solutions, will evolve to produce better solutions; and an appropriately flexible environment to achieve growth of solutions in this very difficult area, is as required as attentiveness & commitment; to the process of undertaking works, that intend to address this problem.  In-effect - it's a bit like producing the infrastructure tooling needed, to build infrastructure.
+
+Presently; there is no infrastructure in place; which is both, due to this project being ‘new’ (or a new way of seeking to address an old problem, by pivoting the approach to seek to address it, in a different way); and, that there’s no money (i haven't been paid for the vast majority of my work done over more than a decade; even though, some of the ‘things’ i helped create, have rolled out globally).

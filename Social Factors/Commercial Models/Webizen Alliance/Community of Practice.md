@@ -1,4 +1,4 @@
-What is a 'Community of Practice'?
+### What is a 'Community of Practice'?
 
 A Community of Practice is defined in [WikiPedia](https://en.wikipedia.org/wiki/Community_of_practice) in the following way;
 
@@ -9,5 +9,11 @@ A CoP can evolve naturally because of the members' common interest in a particul
 CoPs can exist in physical settings, for example, a lunchroom at work, a field setting, a factory floor, or elsewhere in the environment, but members of CoPs do not have to be co-located. They form a "virtual community of practice" (VCoP) ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFDub%C3%A9BourhisJacob2005)) when they collaborate online, such as within discussion boards, newsgroups, or the various chats on social media, such as #musochat centered on contemporary classical music performance ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFSheridan2015)). A "mobile community of practice" (MCoP) ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFKietzmannPlanggerEatonHeilgenberg2013)) is when members communicate with one another via mobile phones and participate in community work on the go.
 
 Communities of practice are not new phenomena: this type of learning has existed for as long as people have been learning and sharing their experiences through storytelling. The idea is rooted in [American pragmatism](https://en.wikipedia.org/wiki/American_pragmatism "American pragmatism"), especially [C. S. Peirce](https://en.wikipedia.org/wiki/C._S._Peirce "C. S. Peirce")'s concept of the "[community of inquiry](https://en.wikipedia.org/wiki/Community_of_inquiry "Community of inquiry")" ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFShields2003)), but also [John Dewey](https://en.wikipedia.org/wiki/John_Dewey "John Dewey")'s principle of learning through occupation ([](https://en.wikipedia.org/wiki/Community_of_practice#CITEREFWallace2007)).
+
+The Concept of a ‘community of practice’ is considered to be more involved that simply having a ‘community standards’ statement or similar; that has historically been shown to be susceptible to be written or re-written, by project owners to most benefit those authors whilst mitigating risks due to wrongs that may have occurred; and/or, issues that the group leaders have no interest in addressing.
+
+One of the areas of particular interest to me - is to support human rights; including, but not limited to, ensuring equitable treatment of people who contribute useful work, when it is found to be valuable; and to ensure ‘probity’ / support for human dignity; by seeking to protect against acts of ‘intellectual dishonesty’, such as re-writing someone's former work then displacing provenance; as is often motivated by simplified economic concepts employed by lay-people and/or bad actors. 
+
+The requirements to address these sorts of ‘community of practice’ considerations; do evolve, but must start somewhere - as is part of the consequence of my writing / doing this work; alongside my means to employ concepts / information - I'm aware of; that supports improved communications. 
 
 #socialfabric #ValuesFrameworks

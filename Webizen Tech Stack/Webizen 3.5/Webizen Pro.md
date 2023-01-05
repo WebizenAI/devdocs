@@ -141,9 +141,4 @@ AI Agents are intended to support a multitude of applications, which are able to
 
 5.  Client Apps, SDKs & APIs
 
-The Webizen Pro platform, is intended to run in a federated manner with other devices networked to support webizen functions; the effect is, that the resources of a client device are able to be employed in addition to the resources of a webizen-pro ‘server’, to perform tasks and provide functionality that is otherwise not able to be achieved without ‘cloud’.  
-  
-In-order to support security, resource sharing (performance improvements) and functionality generally; applications & SDKs are required for major Platforms, including Linux, OSX, Windows, iOS, Android; alongside wearables, such as smart-watch platforms.  
-  
-An IoT runtime environment is also on the ‘to-do’ list as are ‘agents’ that can be run on web-platforms to provide integration between traditional web-platform hosts & webizen; alongside the means to integrate & ‘Install’ APIs with major platforms, for interoperability.
 

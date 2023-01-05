@@ -13,103 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work in Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39fcb955cebad1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/Peace Infrastructure Project/Webizen - For Humans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca155de2408caeba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/Commercial Models/Webizen Alliance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a35263577b5a167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "658e370f9f4c5ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen Apps/Webizen 3.5 Apps/Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3bbb7b9f74efa98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen AI OS Platform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ceb0e59f5a06574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps/Core Apps/HyperMedia Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7599f5a666e864d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps/Core Apps/The Work Platform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06414797ab890a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/Commercial Models/Webizen Alliance.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work in Progress.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work in Progress.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work in Progress.md"
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md"
               }
             }
           }
@@ -246,14 +150,14 @@
   "active": "703861fc981696c5",
   "lastOpenFiles": [
     "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
-    "Social Factors/Commercial Models/Webizen Alliance.md",
-    "Social Factors/Peace Infrastructure Project/Webizen - For Humans.md",
-    "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
-    "Webizen Tech Stack/Webizen Apps.md",
-    "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
-    "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps/Core Apps/Agent Directory.md",
-    "Webizen Tech Stack/Webizen Apps/Webizen 3.5 Apps/Mobile Apps.md",
-    "Webizen Tech Stack/Webizen Apps/Webizen 3.5 Apps/Mobile Apps/The Webizen (mobile) Agent.md",
-    "Webizen Tech Stack/Webizen Apps/Webizen 3.5 Apps/Search.md"
+    "Social Factors/Web Science/New AI Ethics.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen AI OS Platform.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen Pro/WebizenProSoftware.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen Pro/WebizenProHardware.md",
+    "Social Factors/Web Science/Safety Protocols.md",
+    "Social Factors/Commercial Models.md",
+    "Social Factors/Commercial Models/Webizen Alliance/Community of Practice.md",
+    "Social Factors/Web Science/Centricity.md"
   ]
 }

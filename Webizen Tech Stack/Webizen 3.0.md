@@ -2,11 +2,15 @@ The Webizen 3.0 project will seek to support the [[Webizen App Spec]].
 
 The project is versioned beyond 'version 1' as a consequence of there having historically been a webizen app (search app) for related work and i've skipped version 2.0 as this is not a centralised poral solution.
 
-Motivation
+#### Motivation
 To produce a Decentralised platform that works behind firewalls, to build and run HTML5 based apps (simple HTML/JS/CSS) locally, that in-turn employ the complex systems architecture to provide a 'social web' capability / experience, that is unlike others (hopefully in a good way).  
 
 The project to advance this foundational objective, currently termed [[Webizen 3.5]] will in-turn seek to uplift that capability with advanced AI APIs (and underlying systems) as well as a range of hardware solutions.  The objective with the v3.0 spec, is to be backwards compatible by the time 3.5 gets produced (perhaps in different implementation languages, etc.).
 
+### Webizen Local Install
+The basic overview is provided in the [[Client Software Requirements]] document, and the user-experience sought to be achieved is described in the [[Webizen 3.0 Setup User Experience]] document. 
+
+Basically; the Webizen Package installs a Webizen WebServer on any standard Personal Computer or Laptop and enables the use (and development) of [[Webizen Apps]] that are designed to operate locally.  
 
 ### Server Objective
 
