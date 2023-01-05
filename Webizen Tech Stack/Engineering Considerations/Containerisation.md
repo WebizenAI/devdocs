@@ -9,6 +9,6 @@ I have created a [GitHub Issues](https://github.com/WebizenAI/devdocs/issues/9) 
 
 Another part of the considerations also relate to how the solution impacts the availability of resources on a computer that is not solely dedicated to operating the [[Webizen Tech Stack]].  This is expected to be a continual requirement for an array of devices; although noting, part of the [[Webizen 3.5]] works (ie: [[Webizen Pro]] and [[Webizen AI OS Platform]] ) do result in the development of solutions that are specifically designed to be operated as a webizen device; yet, the use of those devices is performed via networking in anycase.
 
-The [[Host Service Requirements]] also have related considerations; yet, it is thought that the architecture of these systems, is different to the achitecture of the software for 'clients'.
+The [[Host Software Requirements]] also have related considerations; yet, it is thought that the architecture of these systems, is different to the achitecture of the software for 'clients'.
 
 More work on this topic is needed in-order to later provide an overview of the solution.

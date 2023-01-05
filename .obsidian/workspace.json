@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d3645010841a1198",
+        "id": "6236dd9541cc9302",
         "type": "tabs",
         "children": [
           {
-            "id": "2b46fc4f8c3bb70e",
+            "id": "703861fc981696c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/Peace Infrastructure Project/About the Peace Infrastructure Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d951154fcc230db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efea64deab7ac825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webizen pro",
+                "query": "web civics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,13 +119,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "703861fc981696c5",
   "lastOpenFiles": [
-    "old-work-archives/Webizen Group 2015.md",
-    "old-work-archives/WebCivics BizPlan 2018.md",
-    "Social Factors/Commercial Models.md",
-    "Social Factors/Commercial Models/ESG/SocioSphere Calcs.md",
-    "old-work-archives.md",
-    "Webizen Tech Stack/Authentication Fabric.md",
-    "Social Factors/Web Science/Permissive Commons.md",
-    "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
-    "old-work-archives/WebCivics Medium Posts/2019/Tooling for Democracies.md",
-    "Social Factors/Commercial Models/ESG/Biosphere Calcs.md"
+    "Social Factors/Commercial Models/Economic Systems.md",
+    "README.md",
+    "Webizen Tech Stack/Webizen 3.0/HyperMediaContainers/Knowledge Documents.md",
+    "Social Factors/Web Science/Safety Protocols/Protecting Children.md",
+    "Social Factors/Webizen 3.0 Setup User Experience.md",
+    "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps.md",
+    "Webizen Tech Stack/Webizen Apps/Webizen App Spec.md",
+    "Social Factors.md",
+    "Documentation Method.md",
+    "old-work-archives.md"
   ]
 }

@@ -7,5 +7,5 @@ Some of the key requirements will include;
 - [[Media Processing]]
 - [[Website Host]]
 
-It is also desirable to have a Graph Database Capability that supports both [[Sparql]] and [[Webizen Tech Stack/Webizen 3.0/Host Service Requirements/Database requirements/Database methods/GraphQL]] 
+It is also desirable to have a Graph Database Capability that supports both [[Sparql]] and [[Webizen Tech Stack/Engineering Considerations/Database Requirements/Database methods/GraphQL]] 
 

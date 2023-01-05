@@ -1,8 +1,11 @@
-**
 
 RE: Defining Webizen [http://www.webizen.org/](http://www.webizen.org/)
 
-[Presentation Link HERE](https://docs.google.com/presentation/d/1Soo3Rmk0jzEVgj4dl8F9P7RaHEC-cy8auk8N0QSC9fs/edit?usp=sharing)![](https://lh3.googleusercontent.com/CW51XI7LTUbxco6KNuWNfbjjkpHCarCE7B8qTqDa7mJ7sfC5EFutVrQEZVxIa3ZqyKNHKhcHiV3EqOTG7K60xv1xFxeRXLIl4Ko3Guj2AYuYPAuELKjecOmyS656Kfj_e3iPFuem-Zyzj3mkC8WFPoRUJOK2IlbL25bWmI5LuvZREsK5Y9VuCN3Bt2HZ)
+[Presentation Link HERE](https://docs.google.com/presentation/d/1Soo3Rmk0jzEVgj4dl8F9P7RaHEC-cy8auk8N0QSC9fs/edit?usp=sharing)
+
+
+![](https://lh3.googleusercontent.com/CW51XI7LTUbxco6KNuWNfbjjkpHCarCE7B8qTqDa7mJ7sfC5EFutVrQEZVxIa3ZqyKNHKhcHiV3EqOTG7K60xv1xFxeRXLIl4Ko3Guj2AYuYPAuELKjecOmyS656Kfj_e3iPFuem-Zyzj3mkC8WFPoRUJOK2IlbL25bWmI5LuvZREsK5Y9VuCN3Bt2HZ)
+
 
 ![](https://lh5.googleusercontent.com/bydAN7N36PCl1cWBphkdlKxJD07sreAnuqxPVXBUwUvoP7VeJZUZ0Uusqs7PDdivztr5v0LHwYjnkVb3OK18A3zUroK7ua_WuB15zMdjhkPdYrIUeUUQ9iuobafDd5GC4E9TMlYcHvw5uuvVKK3gmxV1lg_oF6dn9aD1LA-UMgNoxkYhFYkOLqFnm07j)
 

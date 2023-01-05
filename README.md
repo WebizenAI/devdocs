@@ -19,6 +19,8 @@ The [[Social Factors]] document provides some general information about the back
 
 ### The Technical Goals
 
+[[Webizen 3.0 Setup User Experience]]
+
 The Technical goal and purpose of this documentation site, is to support the means to provide information thought usefully made available for persons who may become involved in providing support and assistance to deliver the [[Webizen 3.0]] technology platform requirements, as to result in the ability for persons from different professional areas of society (ie: not simply software programming experts) to easily install and set-up systems that may be safely operated on their personal computers; which are in-turn connected to a domain name (ie: it can be their own domain name); and to in-turn, enable the ability to create and employ socially - decentralised applications.  Whilst there are a number of relatively basic apps (although the designs features may be quite different to the way apps of a similar category have historically worked); the primary focus is the [[WorkProject]], and whatever is required to ensure the environment is functionally employable for that purpose.
 
 The belief (and former experience) is; that once the underlying 'operating system' environment is set-up, the applications can be written using HTML, Javascript and CSS; what this means, is that they're fairly simple and/or relatively easy to create or iterate, quickly. 
@@ -28,7 +30,7 @@ At a high-level, the basic requirements to get to a point where this is achievab
 **Technology Work Summary;**
 
 **There are two packages required;**
-a. An Implementation that can be installed and operated on a VPS:  [[Host Service Requirements]]. 
+a. An Implementation that can be installed and operated on a VPS:  [[Host Software Requirements]]. 
 
 Whilst there are alot of modern internet protocols that allow end-users to send content over the internet from personal computing devices; the ability to integrate what is effectively web-server functionality into a personal computer, has been made quite difficult due to various technical reasons.  In-order to address these issues, there needs to be a way to connect to a 'internet host' that is then able to support private and/or permissive networking; as well as providing an ability to connect via the broader public internet.  
 
@@ -47,15 +49,35 @@ There are two additional future stages that this concept seeks to progress towar
 ### Webizen Project Documentation
 
 **QUICK LINKS:**
-1. [[Webizen 3.0]]  
-3. [[Core Services]] 
-4. [[Core Technologies]]
-5. Database Requirements
-6. [[Host Service Requirements]] 
-7. [[Non-HTTP(s) Protocols]] 
-8. [[Webizen 3.5]] 
-9. [[Social Factors]]
+
+The end-goal is to produce an ecosystem that supports the [[Peace Infrastructure Project]]. Quicklinks to constituencies of the broad-ranging factors that are more about [[Social Factors]] rather than software 'geek'; include,
+
+1. [[Commercial Models]]
+2. [[Web Science]]
+3. [[Webizen Alliance]]
+4. [[ESG]]
+5. [[Economic Systems]] and [[Currencies]]
+6. [[Historical Information]]
+7. [[Social Attack Vectors]]
+8. [[The Values Project]]
+9. [[Safety Protocols]]
+10. [[Understanding Ontologies]]
+
+A list of  [[Artificial Minds]] is being developed to help people think about what sorts of robots they want to create - not all listed, are intended to illustrate any type of future that relates to [[Webizen]] - Yet Others illustrated - to provide some sense of inspiration to consider what might be possible....  
+
+**TECHNICAL QUICK LINKS**
+1.  [[Webizen 3.0]]  
+3.  [[Core Services]] 
+4.  [[Core Technologies]]
+5.  [[Database Requirements]] 
+6.  [[Host Software Requirements]] 
+7.  [[Non-HTTP(s) Protocols]] 
+8.  [[Webizen 3.5]] 
 10. [[Webizen 4.0]]
+
+Note Also:  whilst there are some document resources herein about [[Permissive Commons]] given the scope, importance and broader use-cases are so vast; i've set-up a seperate documentation site for it under [webcivics/pct](https://pct-devdocs.webcivics.org/) (Permissive Commons Technology).
+
+Permissive commons is essential for the Webizen Ecosystems, but it is also intended to be made useful for others who may want to use some of that work for whatever reason; as such, it is an illustration of what sorts of projects are broadly considered to be about [[Web Civics]].
 
 #### Historical Notes
 
@@ -77,11 +99,11 @@ Some content is produced through the use of information obtained from Wikipedia.
 
 ### Licensing Notes
 
-The **Copyright Clause** (also known as the **Intellectual Property Clause**, **Copyright and Patent Clause**, or the **Progress Clause**[[1]](https://en.wikipedia.org/wiki/Copyright_Clause#cite_note-1)) describes an [enumerated power](https://en.wikipedia.org/wiki/Enumerated_powers "Enumerated powers") listed in the [United States Constitution](https://en.wikipedia.org/wiki/United_States_Constitution "United States Constitution") ([Article I, Section 8, Clause 8](https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution#Section_8:_Powers_of_Congress "Article One of the United States Constitution")).
+The **Copyright Clause** (also known as the **Intellectual Property Clause**, **Copyright and Patent Clause**, or the **Progress Clause**[1](https://en.wikipedia.org/wiki/Copyright_Clause#cite_note-1)) describes an [enumerated power](https://en.wikipedia.org/wiki/Enumerated_powers "Enumerated powers") listed in the [United States Constitution](https://en.wikipedia.org/wiki/United_States_Constitution "United States Constitution") ([Article I, Section 8, Clause 8](https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution#Section_8:_Powers_of_Congress "Article One of the United States Constitution")).
 
-The clause, which is the basis of [intellectual property](https://en.wikipedia.org/wiki/Intellectual_property "Intellectual property") laws in the United States and specifically [copyright](https://en.wikipedia.org/wiki/Copyright_law_of_the_United_States "Copyright law of the United States") and [patent](https://en.wikipedia.org/wiki/Patent_law_of_the_United_States "Patent law of the United States") laws, states that:[[2]](https://en.wikipedia.org/wiki/Copyright_Clause#cite_note-crs-2)
+The clause, which is the basis of [intellectual property](https://en.wikipedia.org/wiki/Intellectual_property "Intellectual property") laws in the United States and specifically [copyright](https://en.wikipedia.org/wiki/Copyright_law_of_the_United_States "Copyright law of the United States") and [patent](https://en.wikipedia.org/wiki/Patent_law_of_the_United_States "Patent law of the United States") laws, states that:[2](https://en.wikipedia.org/wiki/Copyright_Clause#cite_note-crs-2)
 
-> [the [United States Congress](https://en.wikipedia.org/wiki/United_States_Congress "United States Congress") shall have power] To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.
+> The [United States Congress](https://en.wikipedia.org/wiki/United_States_Congress "United States Congress") shall have power To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.
 
 Source: [WikiPedia](https://en.wikipedia.org/wiki/Copyright_Clause)
 
