@@ -1,5 +1,7 @@
 
-The Webizen Pro products are intended to be sold via [[Webizen Alliance]] members who are Value Added Resellers, providing useful services - often thought likely to involve software development, that is built upon the [[Webizen AI OS Platform]] to deliver solutions that couldn't be done in a similar way otherwise.  
+The Webizen Pro products are intended to be sold via [[Webizen Alliance]] members who are Value Added Resellers, providing useful services - often thought likely to involve software development, that is built upon the [[Webizen AI OS Platform]] to deliver solutions that couldn't be done in a similar way otherwise.  some [[WebizenPro Usecases]]  are now illustrated; although not comprehensively; noting, 
+
+> *This documentation environment is about providing support for the production of the [[Webizen 3.0]] ecosystems; which are in-turn via the [[WorkProject]] intended to support the means for many to get involved.)*
 
 ## Markets
 

@@ -13,13 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7517f7ed7fd24d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3911e496059e4df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd96d0cde557fd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro - Edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17bdc17d50410004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1cc9b7dd5ee74de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92e0cce0b24dfaca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4c6b8e2dbdfdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "575efe64242da8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Edge UseCases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -48,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "values credentials",
+                "query": "iot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
+                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
+                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md"
+                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md"
               }
             }
           }
@@ -147,17 +244,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "703861fc981696c5",
+  "active": "9a4c6b8e2dbdfdaa",
   "lastOpenFiles": [
-    "Webizen Tech Stack/Webizen 3.5/Webizen Pro.md",
-    "Social Factors/Web Science/New AI Ethics.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen AI OS Platform.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Vision.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Pro/WebizenProSoftware.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Pro/WebizenProHardware.md",
-    "Social Factors/Web Science/Safety Protocols.md",
-    "Social Factors/Commercial Models.md",
-    "Social Factors/Commercial Models/Webizen Alliance/Community of Practice.md",
-    "Social Factors/Web Science/Centricity.md"
+    "Social Factors/Commercial Models/WebizenPro Usecases.md",
+    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Edge UseCases.md",
+    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Use-Cases.md",
+    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/AI Capabilities Objectives.md",
+    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Ecosystem Usecases.md",
+    "Social Factors/Commercial Models/Hardware Strategy.md",
+    "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen Pro series.md",
+    "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro - Edge.md",
+    "old-work-archives/2005 Lots of ideas - some big & some small.md"
   ]
 }
