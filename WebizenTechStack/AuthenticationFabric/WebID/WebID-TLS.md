@@ -1,5 +1,0 @@
-WebID-TLS (Web Identity over Transport Layer Security) is a protocol that enables secure authentication and authorization using WebID technology over the Transport Layer Security (TLS) protocol. It is an extension of the WebID protocol that adds support for TLS-based authentication.
-
-WebID-TLS is designed to allow users to authenticate themselves to a website or service using their WebID and digital certificate, which are authenticated over a secure TLS connection. The website or service can then verify the user's identity and grant them access based on their WebID and the information associated with it.
-
-WebID-TLS is often used in combination with other technologies, such as the Simple Authentication and Security Layer (SASL), to provide a secure and decentralized authentication mechanism for web applications and services. It is also commonly used in combination with the Resource Description Framework (RDF) and the Web Ontology Language (OWL) to represent and manage user identity and associated data in a semantic way.

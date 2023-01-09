@@ -1,1 +1,1 @@
- [Sparql Family](Sparql%20Family.md) is the intended native method for the platform.
+ [Sparql](WebizenTechStack/CoreTechnologies/SemanticWeb/Sparql.md) is the intended native method for the platform.

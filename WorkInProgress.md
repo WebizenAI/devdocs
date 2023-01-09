@@ -6,10 +6,14 @@ This is where i'll put information about the work in progress.
 This documentation environment has been built using [Obsidian](https://obsidian.md/), [GitHub](https://github.com/), [Gatsby](https://www.gatsbyjs.com/) and the [Obsidian Template for Gatsby](Obsibian Template for Gatsby).  The [[DocumentationMethod]] document explains how its done.
 
 The process of producing the documentation; includes,
-1. Writing Content about the architecture of the Webizen Project
-2. Creating an Architectural Strategy for implementing stages of the webizen project; whilst supporting the means for developers to understand the broader goals / objectives, etc.
+1. Writing Content about the architecture of the Webizen Project.
+   
+2. Creating an Architectural Strategy for implementing stages of the webizen project; whilst supporting the means for developers to understand the broader goals / objectives, etc.|
+   
 3. Downloading and converting old related works into the documentation environment.
+   
 4. Structuring the Content (ie: folders, etc) and improving the copy (editing).
+   
 5. Working to update the content to address considerations about the many topics, etc.
 
 I am learning how to improve the functionality of this environment and will make updates accordingly. The publishing system (gatsby) uses react and doesn't appear to like embeds (ie: youtube, or [timelinejs](https://timeline.knightlab.com/) ); and there's an array of other functionality i'd like to see working ASAP.
@@ -21,18 +25,26 @@ As i'm working through it; i am also constantly working on different ideas to im
 #### ISSUES
 
 1. Content isn't anywhere near complete yet.  I've got alot in the archive.  Some also needs to be better described (noting prior use of 'social encryption' methods / testing those methods). 
+   
 2. There's some questions in my mind about how to address issues that have some personal and/or privacy related considerations linked to them.. In some ways, its a critical part of the journey; yet in other ways, it could be a distraction and/or unwanted / undesirable.
    
 3. Whenever a page is moved or a directory mde, is breaks all the links. This is likely to be an on-going problem when using this environment to draft and publish works. 
-5. I'm learning how to use this specific tech ecosystem.  
-6. When importing (in particular); if there's some sort of problem with the MD file (an article, etc.) it fails to compile.  Every time there's a push to the GitHub Location - it recompiles.   When there is an issue, the log doesn't provide enough information to figure out what's wrong, other than being able to identify the file that's causing problems.
-7. Whilst the ChatGPT Content provides a helpful start to writing content about a topic, it does need to be updated and reviewed; as such, the new pages where this has been used needs to be reviewed (when i get there)...
-8. I need to remove the spaces from the URLs which requires me to add YAML to the pages and change the names of the directories / files.  
-9. There are some cases where i've got two documents with the same name, and this needs to be corrected in-order to make the links work -- APOLOGIES!! 
-10. Migrating the way the content is organised so that there's no spaces in the URLs, which means the directories and pages are being migrated to CamelCase.  This may well break the links that have been created earlier.  
-11. Working on what it means to 'own your own webizen'; which both, creates a series of requirements in defining how the technology is implemented; in-order to, support an ecosystem solution that has a lawful basis upon which it may be asserted that a person owns their own 'webizen'; and in-turn, addresses related issues linked with guardianship related semantics.  
-12. In-order for the specifications for the Webizen Agent to be defined, there also needs to be a clear specification for the Permissive Commons Technology (PCT) ecosystem.  A seperate site is being developed in-order to address these requirements noting the distinctions; whilst also noting, that the designs may end-up requiring the webizen ecosystem in-order to make it work in a manner that is considered to be 'fit for purpose' Here is the link to the [PCT-Docs](https://pct-devdocs.webcivics.org/)
-13. 
+   
+4. I'm learning how to use this specific tech ecosystem.  
+   
+5. When importing (in particular); if there's some sort of problem with the MD file (an article, etc.) it fails to compile.  Every time there's a push to the GitHub Location - it recompiles.   When there is an issue, the log doesn't provide enough information to figure out what's wrong, other than being able to identify the file that's causing problems.
+   
+6. Whilst the ChatGPT Content provides a helpful start to writing content about a topic, it does need to be updated and reviewed; as such, the new pages where this has been used needs to be reviewed (when i get there)...
+   
+7. I need to remove the spaces from the URLs which requires me to add YAML to the pages and change the names of the directories / files.  
+   
+8. There are some cases where i've got two documents with the same name, and this needs to be corrected in-order to make the links work -- APOLOGIES!! 
+   
+9. Migrating the way the content is organised so that there's no spaces in the URLs, which means the directories and pages are being migrated to CamelCase.  This may well break the links that have been created earlier.  
+   
+10. Working on what it means to 'own your own webizen'; which both, creates a series of requirements in defining how the technology is implemented; in-order to, support an ecosystem solution that has a lawful basis upon which it may be asserted that a person owns their own 'webizen'; and in-turn, addresses related issues linked with guardianship related semantics.  
+    
+11. In-order for the specifications for the Webizen Agent to be defined, there also needs to be a clear specification for the Permissive Commons Technology (PCT) ecosystem.  A seperate site is being developed in-order to address these requirements noting the distinctions; whilst also noting, that the designs may end-up requiring the webizen ecosystem in-order to make it work in a manner that is considered to be 'fit for purpose' Here is the link to the [PCT-Docs](https://pct-devdocs.webcivics.org/)
 
 ### Ontology Modelling
 The ontology modelling process is trying to address various requirements for [[DecentralisedOntologies]], [[TemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].

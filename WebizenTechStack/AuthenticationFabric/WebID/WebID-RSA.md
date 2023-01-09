@@ -1,5 +1,0 @@
-WebID-RSA (Web Identity with RSA) is a variant of the WebID protocol that uses the RSA (Rivest, Shamir, and Adleman) algorithm for public key cryptography. It is an extension of the WebID protocol that adds support for RSA-based authentication.
-
-WebID-RSA is designed to allow users to authenticate themselves to a website or service using their WebID and digital certificate, which are authenticated using the RSA algorithm. The website or service can then verify the user's identity and grant them access based on their WebID and the information associated with it.
-
-WebID-RSA is often used in combination with other technologies, such as the Simple Authentication and Security Layer (SASL), to provide a secure and decentralized authentication mechanism for web applications and services. It is also commonly used in combination with the Resource Description Framework (RDF) and the Web Ontology Language (OWL) to represent and manage user identity and associated data in a semantic way.

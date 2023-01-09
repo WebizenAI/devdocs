@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6236dd9541cc9302",
+        "id": "7792b29acf54d602",
         "type": "tabs",
         "children": [
           {
-            "id": "703861fc981696c5",
+            "id": "9be0b777395fae08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webizen3.5/WebizenAiOS-Platform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7517f7ed7fd24d6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/WebizenAppSpec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647ad11574e94967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53b6b618bb00200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.5Apps/MediaProduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c32d106e15d879c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3911e496059e4df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/CommercialModels/HardwareStrategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f5137abbe46116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/WebizenForHumans.md",
+                "file": "WorkInProgress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iot",
+                "query": "WebID-OIDC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
+                "file": "WorkInProgress.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
+                "file": "WorkInProgress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md"
+                "file": "WorkInProgress.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c32d106e15d879c1",
+  "active": "9be0b777395fae08",
   "lastOpenFiles": [
-    "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
-    "SocialFactors/WebScience/SafetyProtocols/Relationships(Social).md",
-    "SocialFactors/WebScience/SafetyProtocols/Values Credentials.md",
-    "SocialFactors/SocialAttackVectors/Fake News.md",
-    "SocialFactors/SocialAttackVectors/TemporalAttacks.md",
-    "SocialFactors/SocialAttackVectors.md",
-    "Fake News[[TemporalAttacks.md",
-    "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
-    "SocialFactors/SocialAttackVectors/Dehumanisation.md",
-    "SocialFactors/WebScience/LearningModals.md"
+    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md",
+    "WebizenTechStack/WebizenApps/Historical RWW Apps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/WebizenAppSpec.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/W3C Specifications/WebID Specifications.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH.md",
+    "WebizenTechStack/Webizen3.5/WebizenAiOS-Platform.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/Sparql.md",
+    "SocialFactors/WebizenForHumans.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
+    "WebizenTechStack/AuthenticationFabric/WebID/WebID-TLS.md"
   ]
 }

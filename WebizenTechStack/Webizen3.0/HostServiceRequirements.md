@@ -9,5 +9,5 @@ Some of the key requirements will include;
 - [[MediaProcessing]]
 - [[WebsiteHost]]
 
-It is also desirable to have a Graph Database Capability that supports both [[Sparql]] and [[GraphQL]] 
+It is also desirable to have a Graph Database Capability that supports both [[WebizenTechStack/EngineeringConsiderations/Database requirements/Database methods/Sparql]] and [[GraphQL]] 
 

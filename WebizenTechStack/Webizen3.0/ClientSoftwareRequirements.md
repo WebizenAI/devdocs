@@ -50,7 +50,7 @@ The Designs of tooling for Webizen 3.0 is hoped to continue to be useful for fut
 
 In future; [[WebizenApps]] are intended to be distributed in  [[HyperMediaContainers]] yet the specifications for this are not yet fully defined; and may not be required for the first version of the Webizen RunTime. 
 
-A list of  [[Historical RWW Apps]] is provided so that you can check-out some examples of how things once worked; and then, get a better understanding of what i'm referring to here...
+There are an array of Historical RWW Apps that are hoped to be easily updated, depending on the end-structure of the Webizen3.0 app specification, which will be better known soon.
 
 ## Design - Networking & Components
 
