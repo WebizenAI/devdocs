@@ -9,7 +9,7 @@ The purpose of the design of its specifications will be to support the needs of 
 
 The Hardware will still support the [[Webizen AI OS Platform]] but will not have the hardware required to perform advanced [[AI Capabilities]] and will have a lower limit on the number of simultanious users (in relation to secure cores) and will consume alot less power.
 
-There are various commercial use-cases; particuarly in relation to retail businesses, who are likely to benefit greatly via webizen systems (Subject to works done by [[Webizen Alliance]] members; including, in particular [[Webizen Pro VAR Solutions]] ); but that, the usecases have alot more to do with the use of the [[Core Technologies]] rather than having a requirement to make use of more advanced systems, that in-turn require the hardware requirements outlined [[Webizen Pro]]. 
+There are various commercial use-cases; particuarly in relation to retail businesses, who are likely to benefit greatly via webizen systems (Subject to works done by [[WebizenAlliance]] members; including, in particular [[WebizenProVARSolutions]] ); but that, the usecases have alot more to do with the use of the [[Core Technologies]] rather than having a requirement to make use of more advanced systems, that in-turn require the hardware requirements outlined [[Webizen Pro]]. 
 
 Specification Guide;
 
@@ -26,7 +26,7 @@ A specifications guide will be provided soon.
 
 The market for this series of devices will be targeted at small business / small office / home office; in addition to the use of them in a complimentary fashion for larger businesses or implementations that have a multitude of sites or specific locations.
 
-More information about the commercial considerations are detailed in the pages about [[WebizenPro Usecases]], including the [[Webizen Pro Edge UseCases]] and [[Webizen Pro Ecosystem Usecases]].
+More information about the commercial considerations are detailed in the pages about [[WebizenProUsecases]], including the [[WebizenProEdgeUseCases]] and [[WebizenProEcosystemUsecases]].
 
 
 

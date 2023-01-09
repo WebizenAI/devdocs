@@ -35,7 +35,7 @@ The Purpose of this is to support the means through which #AI can process the in
 	
 6. A way to assert statements in relation to the costs incurred (time, resources, etc) to produce and or work on an artifact; and in-turn also, link those statements with those of others related to any contributed artifacts associated with a 'body of work'.  
 
-Quick notes on how this might be applied using the current [[Documentation Method]]
+Quick notes on how this might be applied using the current [[DocumentationMethod]]
 
 #### Obsidian
 a. It would be useful to create an obsidian plugin that could look-up terms and provide a means to link a RDF URI or a http-uri with a secondary RDF Uri (RDF Statements) to the concept being described.  

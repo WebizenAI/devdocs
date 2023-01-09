@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Commercial Models/Hardware Strategy.md",
+                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
+                "file": "Social Factors/CommercialModels/WebizenProVARSolutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f6dbd9f18db8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps/Core Apps/Cookie Monster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab80e0b594c7b2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/SocioEconomicTechReqs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30205c105133a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/SocioEconomicTechReqs/Account Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a546db5d96b5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/SocioEconomicTechReqs/SupportForHumanAgency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58f5137abbe46116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/CommercialModels/TrustFactory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "042d320fe7753d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Factors/WebScience/SafetyProtocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +181,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Edge UseCases.md",
+                "file": "Social Factors/CommercialModels/WebizenProUsecases/WebizenProEdgeUseCases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -182,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
+                "file": "Social Factors/CommercialModels/TrustFactory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md",
+                "file": "Social Factors/CommercialModels/TrustFactory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Factors/Commercial Models/Webizen Pro VAR Solutions.md"
+                "file": "Social Factors/CommercialModels/TrustFactory.md"
               }
             }
           }
@@ -244,17 +316,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a4c6b8e2dbdfdaa",
+  "active": "58f5137abbe46116",
   "lastOpenFiles": [
-    "Social Factors/Commercial Models/WebizenPro Usecases.md",
-    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Edge UseCases.md",
-    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Use-Cases.md",
-    "Webizen Tech Stack/Webizen 3.5/AI Capabilities/AI Capabilities Objectives.md",
-    "Social Factors/Commercial Models/WebizenPro Usecases/Webizen Pro Ecosystem Usecases.md",
-    "Social Factors/Commercial Models/Hardware Strategy.md",
-    "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Pro series.md",
-    "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro - Edge.md",
-    "old-work-archives/2005 Lots of ideas - some big & some small.md"
+    "Social Factors/CommercialModels/HardwareStrategy.md",
+    "Social Factors/CommercialModels/FitForPurpose.md",
+    "Social Factors/CommercialModels.md",
+    "WorkInProgress.md",
+    "Social Factors/SocialAttackVectors.md",
+    "Social Factors/SocialAttackVectors/PublicSectorWrongDoings.md",
+    "Social Factors/SocialAttackVectors/AttacksOnline.md",
+    "Social Factors/SocialAttackVectors/CriminalActivity/FinancialCrimes.md",
+    "Social Factors/SocialAttackVectors/CriminalActivity/CyberCrime.md",
+    "Social Factors/SocialAttackVectors/CriminalActivity/CorporateCrime.md"
   ]
 }

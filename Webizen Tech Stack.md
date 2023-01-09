@@ -14,7 +14,7 @@ Yet, the hope is that [[Webizen 3.0]] will start to provide average people an op
 
 Webizen 3.0 is far less easily confused with #Web3 which, fwiw, isn't really about the web.
 
-This folder contains information about the technology stack being produced as [[Webizen 3.0]].  Much as was said to be the case about #RWW & #CrossCloud, #Webizen is likely to have a different sort of approach.  For more information see: [[Work in Progress]]
+This folder contains information about the technology stack being produced as [[Webizen 3.0]].  Much as was said to be the case about #RWW & #CrossCloud, #Webizen is likely to have a different sort of approach.  For more information see: [[WorkInProgress]]
 
 TECH STACK - DIRECTORY INDEX
 1. [[Authentication Fabric]]

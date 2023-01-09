@@ -3,7 +3,7 @@ The AI capabilities of the works that are intended to start via the [[Webizen 3.
 
 Presently, AI capabilities are really only available via major international online platforms.  The  ability to produce and train models, requires an enormous amount of hardware resources; and the ability to operate advanced models - isn't something that can be done without a hardware platform that's designed to support the requirements.  The [[Webizen Pro]] architecture is being designed to support permissive federated learning and related advanced AI capabilities - both, so that remarkable capabilities can be performed on one Webizen Pro Hardware Platform alone; and, via an ecosystem that provides a means for a village of these units to work cooperatively to perform machine learning tasks that were previously simply too hard to achieve independently; and otherwise, only available via major online clouds or only able to be made available if works were done on those major clouds online.   
 
-An incomplete list of the sorts of AI capability and applications that are sought to be made possible by [[Webizen Alliance]] [[Webizen Pro VAR Solutions]] ecosystems for end-users; includes but is not limited to,
+An incomplete list of the sorts of AI capability and applications that are sought to be made possible by [[WebizenAlliance]] [[WebizenProVARSolutions]] ecosystems for end-users; includes but is not limited to,
 
 - Adding sounds to silent movies
 - Advanced Cryptography

@@ -18,7 +18,7 @@ There's an array of other examples in the github repo noted above; noting, i'll 
 
 ## App Dev Objectives
 
-A description of the [[Design Goals]] for the [[Webizen 3.0 apps]] and related [[Webizen App Spec]] is therefore part of the [[Work in Progress]].  It is thought important to get the [[Permissive Commons Tech]] documentation underway, given the use of it as a dependency. 
+A description of the [[Design Goals]] for the [[Webizen 3.0 apps]] and related [[Webizen App Spec]] is therefore part of the [[WorkInProgress]].  It is thought important to get the [[Permissive Commons Tech]] documentation underway, given the use of it as a dependency. 
 
 The objectives for [[Webizen 3.0]] is to deliver the environment required for the [[WorkProject]].  This will in-turn end-up with having provided a series of requirements that are needed to produce all sorts of other types of decentralised apps that are able to be run locally. 
 
@@ -28,5 +28,5 @@ Put simply; the [[Webizen 3.5]] [[Webizen AI OS Platform]] and [[Webizen Pro]] p
 
 The objectives of this stage of development, seek to in-turn form means that will act to resolve and addres many of the issues discussed in the [[Social Factors]] notes; and support the means to get to [[Webizen 4.0]] where consumers, may at relatively low-cost - be provided a home-device that is able to help them operate their own Webizen systems and related AI Agents (webizen) on their personal devices, effectively providing their own private [[Webizen AI OS Platform]] 'cloud' environment; that is owned by them, rather than being something that is provided to them by anyone else.
 
-The [[Webizen Vision]] document and related links give an overview of the broader technological objectives; yet, the [[Peace Infrastructure Project]] is central the heart of the objectives from a [[Social Factors]] point of view.
+The [[Webizen Vision]] document and related links give an overview of the broader technological objectives; yet, the [[PeaceInfrastructureProject]] is central the heart of the objectives from a [[Social Factors]] point of view.
 

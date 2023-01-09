@@ -18,4 +18,4 @@ Other related considerations include; standards works such as,
 - other
 
 At the moment, work on defining a HyperMedia Container for [[Knowledge Documents]] is part of the 
-[[Work in Progress]] in-order to uplift what can already be done with the tools being used to produce the documentation for the Webizen project and related objectives, requirements, etc.
+[[WorkInProgress]] in-order to uplift what can already be done with the tools being used to produce the documentation for the Webizen project and related objectives, requirements, etc.

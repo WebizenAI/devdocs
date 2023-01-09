@@ -6,6 +6,6 @@ In natural language, time can be expressed in many different ways, including thr
 
 In addition to studying the temporal aspects of natural language, temporal semantics also investigates the ways in which time is represented and manipulated in computational systems, such as database systems, knowledge bases, and artificial intelligence systems. It is concerned with developing formal models and methods for representing and reasoning about time in these systems, and with the ways in which these models and methods can be used to support a wide range of applications.
 
-The use of 'Temporal Semantics' is critical to the entire ecosystem; and one of many related objectives include employing the techniques to address [Social Attack Vectors](Social%20Attack%20Vectors.md) that employ temporal factors as part of the attack method; alongside, an array of happier purposes for providing support for temporal semantics.
+The use of 'Temporal Semantics' is critical to the entire ecosystem; and one of many related objectives include employing the techniques to address [SocialAttackVectors](SocialAttackVectors.md) that employ temporal factors as part of the attack method; alongside, an array of happier purposes for providing support for temporal semantics.
 
 #socialfabric #ValuesFrameworks #SafetyProtocols #RuleOfLaw 

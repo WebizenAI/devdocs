@@ -4,7 +4,7 @@ The more significant thing that is sought to be made achievable if the project s
 
 As i was going through and inventing the new commercial ecosystem solutions, considering the [[Social Factors]], i realised that there needed to be an economic means to support the growth of a company and that the most likely way that was going to happen was the [[Webizen 3.5]] related activities, which would then provide the support required to get to where what i want to end-up delivering, which is about supporting the needs of human beings - both, in relation to what they do but also in relation to who they are as individuals.
 
-Below are some notes about the vision that is sought to be achieved, that relates to how a person goes down to a shop and buys themselves a platform that they own; which in-turn means, they have a capacity to own all of the [[HumanCentric Digital Identity]] related materials that is collected about them and their children.  It means, that people whose lives would have otherwise been harmed as a consequence of the failure of others to build technology to protect good people from the consequence of others [[Social Attack Vectors]], have help, safety.
+Below are some notes about the vision that is sought to be achieved, that relates to how a person goes down to a shop and buys themselves a platform that they own; which in-turn means, they have a capacity to own all of the [[HumanCentric Digital Identity]] related materials that is collected about them and their children.  It means, that people whose lives would have otherwise been harmed as a consequence of the failure of others to build technology to protect good people from the consequence of others [[SocialAttackVectors]], have help, safety.
 
 ## Webizen for Human Beings
 

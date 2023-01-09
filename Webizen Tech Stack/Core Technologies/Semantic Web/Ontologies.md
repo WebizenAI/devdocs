@@ -27,7 +27,7 @@ solid ontologies: https://solidproject.org/developers/vocabularies/well-known/co
 
 The work on ontologies is interactive with the work on [[Permissive Commons Tech]]. 
 
-The most significant area of work that is being produced (somewhat slowly atm) is about [[Values Credentials]] which is basically about the ability to create [[Verifiable Credentials]] to support [[Safety Protocols]],  [[Community of Practice]], [[Commercial Models]] and [[HumanCentric Digital Identity]].  What this means in practice, is that the existing well known values frameworks that exist (ie: UN instruments, Professional Conduct outlines, etc.); need to be authored into a linked-data format so that they can be used with verifiable credentials, which can in-turn be employed in relation to agreements made between agents (ie: people and/or people and entities or groups). 
+The most significant area of work that is being produced (somewhat slowly atm) is about [[Values Credentials]] which is basically about the ability to create [[Verifiable Credentials]] to support [[SafetyProtocols]],  [[Community of Practice]], [[CommercialModels]] and [[HumanCentric Digital Identity]].  What this means in practice, is that the existing well known values frameworks that exist (ie: UN instruments, Professional Conduct outlines, etc.); need to be authored into a linked-data format so that they can be used with verifiable credentials, which can in-turn be employed in relation to agreements made between agents (ie: people and/or people and entities or groups). 
 
 Some ontologies are no-longer available at the original location that is defined in the ontology document.  Considerations (options analysis) is underway, to figure out what to do about those sorts of cases.  In other cases, the ontology frameworks are not appropriate and/or outdated.  
 
@@ -56,4 +56,4 @@ Some resources have been provided to help people better [[Understanding Ontologi
 9.  Sustainability: The ontology should be designed with sustainability in mind, taking into account the long-term maintenance and evolution of the AI system. This can help to ensure that the system is able to continue to serve the needs of users over time.
     
 
-Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[Web Science]].
+Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[WebScience]].

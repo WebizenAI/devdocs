@@ -13,6 +13,6 @@ These systems were always intended to reach into the 'edge' network; but that th
 
 These sorts of moral / probity assumptions, have proven not to be appropriate.  As such, the webizen ecosystems is redesigning how the high-level frameworks are intended to be created; which in-turn has various repercussions on the design frameworks.  Noting, in the end, the enterprise solutions are likely to be supported in anycase; its just that, it'll be done somewhat differently.  
 
-Also, as a consequence of various people who were involved, having died, or found to be inappropriate and/or social problems - some relating to the consequences of various successful executions of [[Social Attack Vectors]] and other problems along the way; whilst these experiences have led to various design related implications, there are a number of repercussive implications.
+Also, as a consequence of various people who were involved, having died, or found to be inappropriate and/or social problems - some relating to the consequences of various successful executions of [[SocialAttackVectors]] and other problems along the way; whilst these experiences have led to various design related implications, there are a number of repercussive implications.
 
 Some of those implications have no appropriate pathway to deliver lawful remedy, and some circumstances have implications where there is no way remedy, the damage is done.
