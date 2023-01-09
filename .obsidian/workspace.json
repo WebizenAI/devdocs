@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro.md",
+                "file": "WebizenTechStack/Webizen3.5/WebizenAiOS-Platform.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/WebizenAppSpec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "647ad11574e94967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53b6b618bb00200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/WebizenApps/Webizen3.5Apps/MediaProduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32d106e15d879c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/LearningModals.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,115 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd96d0cde557fd5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series/Webizen Pro - Edge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17bdc17d50410004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen 3.5/Webizen Pro series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1cc9b7dd5ee74de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Core Technologies/Permissive Commons Tech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92e0cce0b24dfaca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/CommercialModels/HardwareStrategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4c6b8e2dbdfdaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/CommercialModels/WebizenProVARSolutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f6dbd9f18db8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webizen Tech Stack/Webizen Apps/Webizen 3.0 apps/Core Apps/Cookie Monster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab80e0b594c7b2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/SocioEconomicTechReqs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30205c105133a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/SocioEconomicTechReqs/Account Creation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a546db5d96b5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/SocioEconomicTechReqs/SupportForHumanAgency.md",
+                "file": "SocialFactors/CommercialModels/HardwareStrategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,38 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Factors/CommercialModels/TrustFactory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "042d320fe7753d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/WebScience/SafetyProtocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575efe64242da8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Factors/CommercialModels/WebizenProUsecases/WebizenProEdgeUseCases.md",
+                "file": "SocialFactors/WebizenForHumans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Factors/CommercialModels/TrustFactory.md",
+                "file": "SocialFactors/WebScience/LearningModals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Factors/CommercialModels/TrustFactory.md",
+                "file": "SocialFactors/WebScience/LearningModals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,12 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Factors/CommercialModels/TrustFactory.md"
+                "file": "SocialFactors/WebScience/LearningModals.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,17 +220,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f5137abbe46116",
+  "active": "c32d106e15d879c1",
   "lastOpenFiles": [
-    "Social Factors/CommercialModels/HardwareStrategy.md",
-    "Social Factors/CommercialModels/FitForPurpose.md",
-    "Social Factors/CommercialModels.md",
-    "WorkInProgress.md",
-    "Social Factors/SocialAttackVectors.md",
-    "Social Factors/SocialAttackVectors/PublicSectorWrongDoings.md",
-    "Social Factors/SocialAttackVectors/AttacksOnline.md",
-    "Social Factors/SocialAttackVectors/CriminalActivity/FinancialCrimes.md",
-    "Social Factors/SocialAttackVectors/CriminalActivity/CyberCrime.md",
-    "Social Factors/SocialAttackVectors/CriminalActivity/CorporateCrime.md"
+    "WebizenTechStack/Webizen3.5/AICapabilities/AICapabilitiesObjectives.md",
+    "WebizenTechStack/WebizenApps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MediaProduction.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebizenServer-WebApps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MobileApps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MobileApps/TheWebizen(mobile)Agent.md"
   ]
 }

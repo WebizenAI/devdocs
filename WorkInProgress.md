@@ -16,7 +16,7 @@ I am learning how to improve the functionality of this environment and will make
 
 #### DevDocs Feature Development Ideas
 
-As i'm working through it; i am also constantly working on different ideas to improve this documentation sites features, as best as may be possible without employing alot of resources to do something that might be too hard or too expensive.  One of these areas of consideration is the ability to make improvements via the advancement of a [[Knowledge Documents]] solution, that would add various forms of functionality to this documentation solution; and in-turn, provide support for enhancing the solution down the track once there's a functioning Webizen Platform. 
+As i'm working through it; i am also constantly working on different ideas to improve this documentation sites features, as best as may be possible without employing alot of resources to do something that might be too hard or too expensive.  One of these areas of consideration is the ability to make improvements via the advancement of a [[KnowledgeDocuments]] solution, that would add various forms of functionality to this documentation solution; and in-turn, provide support for enhancing the solution down the track once there's a functioning Webizen Platform. 
 
 #### ISSUES
 
@@ -35,7 +35,7 @@ As i'm working through it; i am also constantly working on different ideas to im
 13. 
 
 ### Ontology Modelling
-The ontology modelling process is trying to address various requirements for [[Decentralised Ontologies]], [[Temporal Semantics]] and [[Permissive Commons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].
+The ontology modelling process is trying to address various requirements for [[DecentralisedOntologies]], [[TemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].
 
 Much of the ontology work is in the [Web Civics - Ontologies 2023](https://github.com/WebCivics/ontologies/tree/2023) github folder / project. Some use of [Chat AI](https://chat.openai.com/) has been employed, that has helped a great deal in some ways; whilst also problematic.  
 
