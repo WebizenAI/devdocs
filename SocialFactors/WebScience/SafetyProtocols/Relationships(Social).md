@@ -1,3 +1,5 @@
+# Relationships (Social)
+
 The 'relationship management' safety protocol system is designed in consideration of human rights related principals, in addition to various social / temporal factors. 
 
 Often, the way 'connections' work online is that the way current relationships are categorised or classified is rudimentry and overy simplified.  Then the way information is able to be managed if there is a change in that relationship status, is also over simplified - often, its friend, not-friend and/or block; and if someone is blocked, then anything that happened in past, is all gone too! 

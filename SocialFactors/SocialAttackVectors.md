@@ -16,6 +16,12 @@ So far, i have been able to produce some materials that cover the following sub-
 - [[AttacksOnline]]
 - [[CriminalActivity]]
 - [[PublicSectorWrongDoings]]
+- [[CommercialExploitation]]
+- [[Dehumanisation]]
+- [[Dishonesty]]
+- [[Fake News]]
+- [[TemporalAttacks]]
+
 
 There is an enormous amount of work to be done in relation to this area, and it will take some time.  I also find it to be emotionally exhausting (as noted below); in the meantime, here are some of my thoughts on considerations related to this area of work that is importantly done, to an appropriate level, as to thereafter ensure solutions are illustratively equipped to demonstrate how the ecosystems are intended to work to put a stop to it and/or provide vastly improved means for accessibility to lawful remedy for disaffected persons.  
 
@@ -66,7 +72,7 @@ It is thought that the reason why many of these issues haven't been better addre
 
 Due to various forms of vulnerability and the lack of functionality provided to support [[Values Credentials]] - that is, the ability to support a means where people self-declare what their values frameworks are; and both, what should be expected of them and in-turn also, the relationship.
 
-So, this document and the related group of additional documents on related topics; seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safe) [[Relationships (Social)]], etc.
+So, this document and the related group of additional documents on related topics; seeks to illustrate various types of 'attack vectors' and in-turn support the means to consider how it is this environment appropriates a mechanism to provide better 'moral security' and/or alerts and accountability measures that are intended to act in-turn to better support healthy (safe) [[Relationships(Social)]], etc.
 
 #### Description of different types of attacks
 

@@ -12,7 +12,7 @@ This in-turn relies upon considerations about the broader components, entitled '
 
 The Commercial structures required to support [[WebScience]] works via WebCivics (see 'old-work-archives'); as well as developing the [[WebizenAlliance]] frameworks, to support the development of an ecosystem to support the creation, manufacture, sale, support and value-added-services associated with the development of Webizen Technology and Implementations; whilst supporting the development of means to support, develop and maintain capacities required for [[Currencies]], [[TheValuesProject]], [[SafetyProtocols]] and in-turn, overtime the growth of the [[PeaceInfrastructureProject]] - Whilst certainly 'commercial', and indeed also able to bring about substantial cash-flows and economic ecosystems growth; its not simply about exploitative or purely consumptive and/or exploitative behaviours or any such form of related commercial structure.  
 
-Fundamentally; the economic models seek to support [[HumanCentric Digital Identity]], whilst acting to improve [[Relationships (Social)]] as well as [[EndingDigitalSlavery]] and ensuring support for [[FreedomOfThought]], through the development of [[ArtificialMinds]] as tools.
+Fundamentally; the economic models seek to support [[HumanCentric Digital Identity]], whilst acting to improve [[Relationships(Social)]] as well as [[EndingDigitalSlavery]] and ensuring support for [[FreedomOfThought]], through the development of [[ArtificialMinds]] as tools.
 
 People who purchase a Webizen System, will be the owner of it.  It is not a 'service', although there are some requirements to either provide services or that the end-user is able to set one up themselves (although, that may not be what is in their best interest, in the end)... 
 

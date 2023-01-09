@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/WebScience/LearningModals.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocialFactors/WebScience/LearningModals.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocialFactors/WebScience/LearningModals.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocialFactors/WebScience/LearningModals.md"
+                "file": "SocialFactors/WebScience/SafetyProtocols/FairWorkProtocols.md"
               }
             }
           }
@@ -222,15 +222,15 @@
   },
   "active": "c32d106e15d879c1",
   "lastOpenFiles": [
-    "WebizenTechStack/Webizen3.5/AICapabilities/AICapabilitiesObjectives.md",
-    "WebizenTechStack/WebizenApps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MediaProduction.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebizenServer-WebApps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MobileApps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/MobileApps/TheWebizen(mobile)Agent.md"
+    "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
+    "SocialFactors/WebScience/SafetyProtocols/Relationships(Social).md",
+    "SocialFactors/WebScience/SafetyProtocols/Values Credentials.md",
+    "SocialFactors/SocialAttackVectors/Fake News.md",
+    "SocialFactors/SocialAttackVectors/TemporalAttacks.md",
+    "SocialFactors/SocialAttackVectors.md",
+    "Fake News[[TemporalAttacks.md",
+    "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
+    "SocialFactors/SocialAttackVectors/Dehumanisation.md",
+    "SocialFactors/WebScience/LearningModals.md"
   ]
 }
