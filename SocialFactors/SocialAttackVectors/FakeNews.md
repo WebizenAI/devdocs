@@ -1,3 +1,5 @@
+# Fake News
+
 The concept of 'Fake News' fundamentally relates to a content artifact that seeks to make representations that are sought to be consumed as #Non-Fiction assets, when in-fact it is either a complete work of #Fiction or incorporates #fictionalReferences or #Opinions or other content that is not in-fact - #Fact or as is otherwise defined - #NonFiction. 
 
 This in-turn relates to the functions and processes related to categorisation of content using genres and other categories / category theory related techniques.  
@@ -10,7 +12,7 @@ Whilst the term commonly used by media is 'fake news' the underlying issues rela
 The underlying notion of 'fake news' may be due to various underlying circumstances; and the way in which any records are updated are in some ways as important to address, as the underlying issues that may relate to the original statements having been improperly communicated.  Fundamentally, the concept relates more broadly to [[Dishonesty]], which is a problem that is far greater than the effect of what occurs via news media content alone.
 
 
-# EliPariser Google Docs contribution by me
+## EliPariser Google Docs contribution by me
 
 At around november 2016 Eli Pariser produced a Open Google Document to seek out collaborative support for solutions to address fake-news.  around that time, i made some contibutions.  A News Article from [wired](https://www.wired.co.uk/article/fake-news-document-eli-pariser) talks about the situation and [google doc](https://docs.google.com/document/d/1OPghC4ra6QLhaHhW8QvPJRMKGEXT7KaZtG_7s5-UQrw/edit) (noting, its important to review the historical versions of the document as its often defaced)
 

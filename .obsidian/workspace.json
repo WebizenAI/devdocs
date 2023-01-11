@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkInProgress.md",
+                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkInProgress.md",
+                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkInProgress.md",
+                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkInProgress.md"
+                "file": "SocialFactors/SocialAttackVectors/FakeNews.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9be0b777395fae08",
   "lastOpenFiles": [
+    "WorkInProgress.md",
     "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md",
     "WebizenTechStack/WebizenApps/Historical RWW Apps.md",
     "WebizenTechStack/WebizenApps/Webizen3.0Apps/WebizenAppSpec.md",
@@ -156,7 +157,6 @@
     "WebizenTechStack/Webizen3.5/WebizenAiOS-Platform.md",
     "WebizenTechStack/CoreTechnologies/SemanticWeb/Sparql.md",
     "SocialFactors/WebizenForHumans.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md",
-    "WebizenTechStack/AuthenticationFabric/WebID/WebID-TLS.md"
+    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md"
   ]
 }

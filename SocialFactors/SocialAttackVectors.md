@@ -19,7 +19,7 @@ So far, i have been able to produce some materials that cover the following sub-
 - [[CommercialExploitation]]
 - [[Dehumanisation]]
 - [[Dishonesty]]
-- [[Fake News]]
+- [[FakeNews]]
 - [[TemporalAttacks]]
 
 
