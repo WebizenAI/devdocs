@@ -12,7 +12,7 @@ When Asking #ChatGPT to define the Term Webizen; it says,
 
 Whereas; when i consider the term 'Webizen', what i'm thinking about is future [[ArtificialMinds]] that are owned by human beings to be their assistant and support their needs. 
 
-The [[WebizenTechStack]] is in-effect, the creation of an ecosystem solution that provides support for [[HumanCentricAI]] as is instrumental for [[HumanCentric Digital Identity]] systems.
+The [[WebizenTechStack]] is in-effect, the creation of an ecosystem solution that provides support for [[HumanCentricAI]] as is instrumental for [[HumanCentricDigitalIdentity]] systems.
 
 ### Webizen Systems
 As this documentation environment presents; The webizen systems, are designed in a particular way to support a particular type of ecosystem outcome that considers both a variety of technology related factors and requirements, in addition to various social factors and related considerations and implications. 

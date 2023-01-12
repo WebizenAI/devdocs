@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/CommercialModels/WorkProject/ProjectFinancing.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/KnowledgeQualificationMethods.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2923b274e08b3e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/SafetyProtocols/HumanCentricDigitalIdentity.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,15 +185,15 @@
   },
   "active": "52bcfe2b56d9ead0",
   "lastOpenFiles": [
+    "SocialFactors/WebScience/SafetyProtocols/KnowledgeQualificationMethods.md",
     "SocialFactors/CommercialModels/WorkProject/ProjectFinancing.md",
+    "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md",
+    "SocialFactors/WebScience/SafetyProtocols/HumanCentricDigitalIdentity.md",
     "SocialFactors/CommercialModels/WorkProject/LicensingFrameworks.md",
     "SocialFactors/CommercialModels.md",
     "SocialFactors/SocioEconomicTechReqs/GuardianshipRelations.md",
     "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md",
     "SocialFactors/CommercialModels/HardwareStrategy.md",
-    "SocialFactors/WebizenForHumans.md",
-    "SocialFactors/SocialAttackVectors/FakeNews.md",
-    "WorkInProgress.md",
-    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md"
+    "SocialFactors/WebizenForHumans.md"
   ]
 }

@@ -8,6 +8,6 @@ ESG stands for Environmental, Social, and Governance. It is a set of criteria us
 
 ESG criteria are often used by investors as a way to evaluate the sustainability and long-term performance of an investment, and to ensure that their investments align with their values and priorities. Some investors may also use ESG criteria to assess the potential risks and opportunities associated with an investment.
 
-The Webizen modelling is innately directed towards the development of a modelling that is intended to support [[BiosphereOntologies]], [[SocioSphereOntologies]] and [[SDGs]]  alongside [[Values Credentials]], [[HumanCentric Digital Identity]] and a great deal more.  These models, whilst quite different to the way other apps, platforms, operating systems and more broadly, industry practices work today.  
+The Webizen modelling is innately directed towards the development of a modelling that is intended to support [[BiosphereOntologies]], [[SocioSphereOntologies]] and [[SDGs]]  alongside [[Values Credentials]], [[HumanCentricDigitalIdentity]] and a great deal more.  These models, whilst quite different to the way other apps, platforms, operating systems and more broadly, industry practices work today.  
 
 A great deal of the 'how' is embedded in the insights that can be gained by [[UnderstandingOntologies]].

@@ -36,4 +36,4 @@ IMHO: Generally speaking, the field of work that is structured to in-turn make u
 
 Web Science works, is in-particular - a significant part of the field of work of Web Civics.  
 
-One of the greatest areas of 'Web Science' is AI and in-turn also, the work i've been doing that is in-turn instrumental to the architecture of Webizen, as to support [[HumanCentric Digital Identity]].   Nonetheless, the underlying nature of Webizen is that it is a form of Social Machine that is sought to be intentionally designed to provide the sorts of Artificial Minds that we want, rather than providing an opportunity to be influenced by harmful robots. 
+One of the greatest areas of 'Web Science' is AI and in-turn also, the work i've been doing that is in-turn instrumental to the architecture of Webizen, as to support [[HumanCentricDigitalIdentity]].   Nonetheless, the underlying nature of Webizen is that it is a form of Social Machine that is sought to be intentionally designed to provide the sorts of Artificial Minds that we want, rather than providing an opportunity to be influenced by harmful robots. 
