@@ -87,6 +87,14 @@ The Apple [Mac Pro](https://www.apple.com/au/mac-pro/specs/) has similar specifi
 
 There are of course also; an array of other computer hardware providers who are able to produce and/or provide hardware solutions that are partially or fully compatible with the [[WebizenAiOS-Platform]].  
 
+### Webizen Pro Compatible Vendors
+
+#### Lambda Labs
+https://lambdalabs.com/
+
+I've only just found Lambda Labs, who appears to have both; a range of hardware solutions and an open-source software solution called the [Lambda Stack](https://lambdalabs.com/lambda-stack-deep-learning-software) that appear very much compatible with what is sought to be achieved via the Webizen Project.  Indeed, Lampda appears to be a vendor of solutions that may radically accelerate the ability to deliver "webizen pro" based solutions and use-cases.  
+
+
 ## Webizen Alliance - Hardware Partners
 
 ### Components

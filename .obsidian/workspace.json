@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
+                "file": "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21e52fc77fb475e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/CommercialModels/WorkProject/ProjectFinancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52bcfe2b56d9ead0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WebID-OIDC",
+                "query": "guardian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/FakeNews.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/FakeNews.md"
+                "file": "SocialFactors/WebScience/SafetyProtocols/AgentLabelling.md"
               }
             }
           }
@@ -146,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9be0b777395fae08",
+  "active": "52bcfe2b56d9ead0",
   "lastOpenFiles": [
-    "WorkInProgress.md",
-    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md",
-    "WebizenTechStack/WebizenApps/Historical RWW Apps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/WebizenAppSpec.md",
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/W3C Specifications/WebID Specifications.md",
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH.md",
-    "WebizenTechStack/Webizen3.5/WebizenAiOS-Platform.md",
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/Sparql.md",
+    "SocialFactors/CommercialModels/WorkProject/ProjectFinancing.md",
+    "SocialFactors/CommercialModels/WorkProject/LicensingFrameworks.md",
+    "SocialFactors/CommercialModels.md",
+    "SocialFactors/SocioEconomicTechReqs/GuardianshipRelations.md",
+    "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md",
+    "SocialFactors/CommercialModels/HardwareStrategy.md",
     "SocialFactors/WebizenForHumans.md",
-    "WebizenTechStack/WebizenApps/Webizen3.5Apps/HostApps/WebsiteHost.md"
+    "SocialFactors/SocialAttackVectors/FakeNews.md",
+    "WorkInProgress.md",
+    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md"
   ]
 }
