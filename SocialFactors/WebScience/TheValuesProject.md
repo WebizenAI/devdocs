@@ -26,7 +26,7 @@ Fundamentally - one of the primary objecties in the short-term is to define [[Va
 
 NOTE ALSO:
 - [[OpenBadges]]
-- [[Verifiable Credentials]]
+- [[VerifiableCredentials]]
 - [[VerifiableClaims&Credentials]]
 - [[PermissiveCommonsTech]]
 

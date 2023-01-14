@@ -1,1 +1,0 @@
- [Sparql](WebizenTechStack/CoreTechnologies/SemanticWeb/Sparql.md) is the intended native method for the platform.

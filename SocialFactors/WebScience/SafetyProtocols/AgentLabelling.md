@@ -341,7 +341,6 @@ In this example, the ontology defines several classes, such as "AI" (ai:AI), "Ac
 
 The context provided, maps the prefixes used in the ontology to the corresponding URIs, as well as provides data types and relationships between the different classes and properties. This is used to make the JSON-LD data more easily readable for both machines and humans. As before, it's important to note that this is just an example and that the ontology can be much more detailed, depending on the complexity and dynamic nature of the field of AI.
 
-
 ### CONSIDERATIONS
 
 Whilst the specific approach certainly requires a great deal more work and consideration, the merit of the underlying notion appears to be considered important even by ChatGPT.  

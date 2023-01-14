@@ -69,7 +69,7 @@ A list of  [[ArtificialMinds]] is being developed to help people think about wha
 1.  [[Webizen3.0]]  
 3.  [[CoreServices]] 
 4.  [[CoreTechnologies]]
-5.  [[Database Requirements]] 
+5.  [[DatabaseRequirements]] 
 6.  [[HostServiceRequirements]] 
 7.  [[Non-HTTP(s)Protocols]] 
 8.  [[Webizen3.5]] 

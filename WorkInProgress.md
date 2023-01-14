@@ -45,6 +45,8 @@ As i'm working through it; i am also constantly working on different ideas to im
 10. Working on what it means to 'own your own webizen'; which both, creates a series of requirements in defining how the technology is implemented; in-order to, support an ecosystem solution that has a lawful basis upon which it may be asserted that a person owns their own 'webizen'; and in-turn, addresses related issues linked with guardianship related semantics.  
     
 11. In-order for the specifications for the Webizen Agent to be defined, there also needs to be a clear specification for the Permissive Commons Technology (PCT) ecosystem.  A seperate site is being developed in-order to address these requirements noting the distinctions; whilst also noting, that the designs may end-up requiring the webizen ecosystem in-order to make it work in a manner that is considered to be 'fit for purpose' Here is the link to the [PCT-Docs](https://pct-devdocs.webcivics.org/)
+    
+12. I need to re-organise  documentation to use git [sub-modules](https://git-scm.com/docs/git-submodule) so that that the organisation of these docs and those in [PCT-Docs](https://pct-devdocs.webcivics.org/) are more managable as ecosystem components.   This method is likely to end-up requiring more than the two repos currently defined.  
 
 ### Ontology Modelling
 The ontology modelling process is trying to address various requirements for [[DecentralisedOntologies]], [[TemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].

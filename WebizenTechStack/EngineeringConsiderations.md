@@ -19,7 +19,7 @@ Therein also; an architectural solution needs to be designed to both support Mic
 
 #### Enterprise Database Systems?
 
-In looking at how to create solutions for micropayment ecosystems in particular, i've ended-up having a bit of a look at [[Apache Kafka]] which is something that requires more investigation.  In-order to support solutions that are less dependant upon cryptographic schema [[TrustFactory]] related [[WebizenAlliance]] work needs to be significantly progressed; as to form an ecosystem that may in-turn offer hope of future sustainability.  However, it shoulld also be noted - that part of the reason why the [[EnergyCalcs]] of [[Non-HTTP(s)Protocols]] is often considered acceptable; is due to the *shadow costs* of corrupt activities relating to the [[SocialFactors]] side of the equations.  
+In looking at how to create solutions for micropayment ecosystems in particular, i've ended-up having a bit of a look at [[ApacheKafka]] which is something that requires more investigation.  In-order to support solutions that are less dependant upon cryptographic schema [[TrustFactory]] related [[WebizenAlliance]] work needs to be significantly progressed; as to form an ecosystem that may in-turn offer hope of future sustainability.  However, it shoulld also be noted - that part of the reason why the [[EnergyCalcs]] of [[Non-HTTP(s)Protocols]] is often considered acceptable; is due to the *shadow costs* of corrupt activities relating to the [[SocialFactors]] side of the equations.  
 
 #### Enterprise Webizen Services.
 
