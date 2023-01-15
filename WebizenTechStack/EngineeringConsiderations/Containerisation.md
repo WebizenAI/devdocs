@@ -1,3 +1,23 @@
+
+## Considerations
+
+The consideration is that the networking topology potentially provides routing to a machine that may be used to attack that machine (ie: cyber attack, data-theft, malware installation, etc).  Whilst this is a broad-ranging issue generally; it is an important issue to address.  One of the ways this might be addressed is through the use of Containerisation methodologies.
+
+I am not an expert in this field; i've never really needed to manage containers professionally  or in relation to my websites / tech dev activities (other than - VirtualBox and similar); and whilst i've used docker, i'm certainly not an expert.
+
+### Apps & Routing Considerations
+
+A tactical approach to routing and the ability to use apps (ie: in a web-browser) is required at the client-server side; at the network operator side, there needs to be a way to containerise any instance of private and PCT data that's stored and operated from the network side to support networking.  
+
+### Objectives
+
+TBD 
+
+NOTES:
+- https://kubernetes.io/docs/concepts/overview/
+- https://docs.docker.com/get-started/overview/
+- https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker
+
 **Containerization** is [operating system-level virtualization](https://en.wikipedia.org/wiki/Operating_system-level_virtualization "Operating system-level virtualization") or application-level virtualization over multiple network resources so that software applications can run in isolated user spaces called _containers_ in any [cloud](https://en.wikipedia.org/wiki/Cloud_computing "Cloud computing") or non-cloud environment, regardless of type or vendor.[reference 1](https://en.wikipedia.org/wiki/Containerization_(computing)#cite_note-1) 
 Source: [wikipedia](https://en.wikipedia.org/wiki/Containerization_(computing))
 
