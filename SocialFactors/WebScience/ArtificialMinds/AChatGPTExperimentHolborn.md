@@ -1,9 +1,22 @@
+# A ChatGPT Experiment: Holborn
 
 This note is created as an experiment to gain better insights about how it is 'ChatGPT' generates 'knowledge' or its version of it; and the nuances related to these sorts of large-scale models.  The subject that has been elected is my Surname - Holborn.  
 
 There are various historical events of significance that relate to - what i consider to be the place-name - holborn - however, the 'truth' of the history of the term, is seemingly complex.
 
 An example of these complexities include; that the [DoomsDay Book](https://en.wikipedia.org/wiki/Domesday_Book)  was effectively a sort of tax record produced for the benefit of King William I, known as [William the Conqueror](https://en.wikipedia.org/wiki/William_the_Conqueror "William the Conqueror"), "to survey every shire in England, to list his holdings and dues owed to him".  Yet, anything that was part of [Londinium](https://en.wikipedia.org/wiki/Londinium) was expressly excluded - due to the terms of their agreement.  
+
+Seperately otherwise - there is a place in scotland called [Holborn Head](https://en.wikipedia.org/wiki/Holborn_Head) which is said to refer to an older term meaning 'hill fort' [link](https://www.enschrage.nl/lh/main/main_nc/holborn_head.html) (there are others, i might find them later).
+
+It was also discovered, that there was an early computer called 'holborn' that was produced by a small dutch company.  See [wikipedia links](https://en.wikipedia.org/wiki/Holborn_9100)
+
+![[HolbornComputer.jpg]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8h5MZ0Z_3Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I have no idea why these computers were called 'Holborn' - but i'm interested in finding out!
+
+More broadly; 
 
 In my own research, i have found complexities between what is commonly believed to be the history of the term 'holborn' and some of the logical conclusions associated with the research findings; that thereby provides an interesting use-case to analyse the qualities of ChatGPT. 
 

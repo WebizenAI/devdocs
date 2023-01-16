@@ -11,11 +11,64 @@
             "id": "6d03bf977b7f6adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/PermissiveCommons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b9aedab1ea70953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53bac3277397d8d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/CyberAttackVectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1deb3e99cef5423d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/CyberAttackVectors/TechDebt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71aa4af73ad83779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knowledge cloud",
+                "query": "permissive commons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md"
+              }
             }
           }
         ]
@@ -138,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d03bf977b7f6adf",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
-    "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOfCoreConcepts.md",
-    "SocialFactors/WebScience/ArtificialMinds/A ChatGPT Experiment.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
+    "SocialFactors/WebScience/PermissiveCommons.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/PCT-NOTES.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
     "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/FUNCTIONS.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported.md"
+    "SocialFactors/CyberAttackVectors/NobodyAI.md",
+    "SocialFactors/CyberAttackVectors.md",
+    "SocialFactors/WebScience/TheValuesProject.md",
+    "SocialFactors/CyberAttackVectors/TechDebt.md",
+    "SocialFactors/WebScience/ArtificialMinds/AChatGPTExperimentHolborn.md",
+    "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md"
   ]
 }
