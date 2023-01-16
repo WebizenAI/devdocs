@@ -590,10 +590,93 @@ As I mentioned earlier, there are no Go libraries that provide bindings for cuDN
 1. Its seemingly defined using tensorcores.  my laptop doesn't have tensor cores, only cudacores
 2.  I didn't know much about the existing solutions like wordnet.
 
-Found:
+
+### Following-up
+
+Overnight, i found the various existing NLP libraries that were highlighted earlier, alongside a relatively easy to use example - [WordsAPI](https://www.wordsapi.com/) that might be the best choice for producing a Proof of Concept to illustrate the general idea.   Yet, any overly simplified solution (as required to materialise something that demonstrates the general idea); will need an upgrade path.  Furthermore, the method of how to form a longer-term strategy is required.  
+
+It is important to note (as i've started to illustrate [[RootConcepts]] ); that this underlying service MUST be able to be operated privately and in a stand-alone manner.  To achieve this solution, the outcome may be that the first time a topic or word is sought to be processed; an API call might be made to go and get the information that's required to be added to the database.  Presently, i'm unsure of the technical implications relating to any methods that are reasonably available to achieve that;  such as - can it run on a mobile phone or laptop?  etc.
+
+As more work continues on the topic (the next day); the below 'work' was produced,
+
+#### ChatGPT
+
+**My Question:** what are the root languages for the english vocabulary?
+
+**ChatGPT Answer**:
+The English vocabulary is made up of words borrowed from many different languages over the centuries. The main root languages of the English vocabulary are:
+
+-   Germanic: The Germanic languages, including Old English, are the most important source of words in English. They make up around 50% of the words in the English language. Words from Germanic languages include common words such as "house," "father," "mother," "man," "woman," "child," and "dog."
+    
+-   Latin: Latin is the second most important source of words in English. Latin words make up around 30% of the English vocabulary. Many of these words are technical terms in fields such as science, medicine, and law. Words from Latin include "hospital," "doctor," "university," "species," "algebra," "formula," and "jurisdiction."
+    
+-   French: French is the third most important source of words in English. French words make up around 10% of the English vocabulary. Many French words were borrowed during the Norman Conquest of England in 1066 and the following centuries of Norman rule. Words from French include "money," "art," "government," "justice," "royalty," "diamond," and "restaurant."
+    
+-   Greek: Greek is the fourth most important source of words in English. Greek words make up around 5% of the English vocabulary. Many Greek words were borrowed through Latin, but some were borrowed directly into English. Words from Greek include "philosophy," "theology," "anatomy," "geometry," "telephone," "photograph," and "encyclopedia."
+    
+
+Other languages that have contributed to the English vocabulary include Arabic, Italian, Spanish, and many others.
+
+In addition to the root languages mentioned above, there are also many other languages that have contributed to the English vocabulary over time. These include:
+
+-   Arabic: Many Arabic words were borrowed into English through Latin and Greek. Words from Arabic include "algebra," "alcohol," "candy," "jar," "lemon," "magazine," "sofa," "sugar," and "zero."
+    
+-   Italian: Words from Italian include "balcony," "broccoli," "cappuccino," "fiasco," "gazebo," "grotto," "paparazzo," "piano," "sonata," and "terrace."
+    
+-   Spanish: Words from Spanish include "alligator," "barbecue," "bronco," "chocolate," "coyote," "guerrilla," "jaguar," "mosquito," "mustang," "patio," "siesta," "sombrero," "taco," and "tornado."
+    
+-   Native American languages: Words from Native American languages include "chocolate," "chipmunk," "moose," "opossum," "pecan," "racoon," "skunk," "squash," "tobacco," and "tomato."
+    
+-   Asian languages: Words from Asian languages include "bamboo," "guru," "karma," "pajama," "tycoon," "yoga," and "zen."
+    
+-   African languages: Words from African languages include "banjo," "jazz," "okra," "yam," and "Zulu."
+    
+
+It's worth noting that these are just a few examples of the many languages that have contributed to the English vocabulary over time. The English language is known for its rich history of borrowing words from other languages, and this is one of the reasons why it has such a diverse and dynamic vocabulary.
+
+My question: provide an example relating to norse and old norse 
+
+Sure, here are a few examples of words that have been borrowed from Old Norse and Norse into the English language:
+
+-   "Anguish" comes from the Old Norse word "angr" meaning "grief" or "sorrow."
+-   "Berserk" comes from the Old Norse word "berserkr" meaning "a wild warrior."
+-   "Bliss" comes from the Old Norse word "bliss" meaning "happiness."
+-   "Eke" means "also" or "additionally" comes from the Old Norse word "eigi" meaning "also" or "in addition."
+-   "Eg" meaning "I" from Old Norse "eg"
+-   "Fjord" comes from the Old Norse word "fjörðr" meaning "a narrow inlet of the sea."
+-   "Knurl" comes from the Old Norse word "knurr" meaning "a small knot or knob."
+-   "Mist" comes from the Old Norse word "mist" meaning "moisture."
+-   "Ransack" comes from the Old Norse word "rannsaka" meaning "to search through."
+-   "Scowl" comes from the Old Norse word "skul" meaning "a face with a frown."
+
+It is worth noting that the Norse and Old Norse languages are closely related, and the vast majority of words borrowed into English from Old Norse came directly or indirectly from Norse. Norse is also known as Old Icelandic, it is a Germanic language that was spoken by the Vikings and other inhabitants of the Norse regions of Scandinavia and the North Atlantic islands in the Middle Ages.
 
 
+***My question: what benefit might the use of a neuromorphic processer provide for processing a natural language model?***  (note: that was part of the question)
 
-https://github.com/ozlo/gown
+**ChatGPT:**
+A neuromorphic processor is a type of computer processor that is designed to mimic the way the human brain works. These processors use artificial neural networks, which are modeled after the structure and function of the human brain, to perform tasks such as pattern recognition and decision-making.
 
+The use of a neuromorphic processor for processing a natural language model could provide several benefits.
 
+-Neuromorphic processors are highly energy-efficient, which makes them well-suited for running large-scale natural language processing models on mobile or embedded devices.
+
+-Neuromorphic processors are also highly parallel, which means they can perform multiple computations simultaneously. This can lead to faster and more efficient processing of natural language models, as well as the ability to handle larger models.
+
+-Neuromorphic processors are also highly adaptable and can learn from new data, which means they can improve their performance over time. This can be particularly useful for natural language processing, as the meaning and usage of words and phrases can change over time, and a model that can adapt to these changes will be more accurate and useful.
+
+-Neuromorphic processors can also be more robust to noise, errors and variations in the data, which can be common in natural language data.
+
+It's worth mentioning that the field of neuromorphic computing and Neuromorphic processors are relatively new and still in development, and more research is needed to fully understand their potential benefits and limitations.
+
+***My Question: what is the earliest known time the english language was first used?***
+
+ChatGPT: 
+
+The earliest known use of the English language dates back to the 5th century AD, when Germanic tribes, such as the Angles, Saxons, and Jutes, began to migrate to the island of Great Britain and settled there. These tribes spoke a Germanic language, which over time evolved into Old English.
+
+Old English, also known as Anglo-Saxon, was the language spoken in England from the 5th century to the Norman conquest in 1066 AD. Old English is considered to be the earliest form of the English language, and it was written in the runic alphabet, which was later replaced by the Latin alphabet.
+
+Old English was a complex and inflected language, with a rich vocabulary and many grammatical features. However, it was quite different from the English spoken today and would be difficult for modern speakers to understand without study or translation.
+
+It's worth mentioning that the Angles, Saxons, and Jutes were not the only people that were in Great Britain during this time, there were also the Celts, and others, and they were speaking different languages, and the Germanic language of the invaders slowly replaced the Celtic languages and others, it took several centuries to form the language we know today as English.

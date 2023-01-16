@@ -23,6 +23,8 @@ The secondary interface target is semantic web; although, if the models are not 
 
 ### Duality
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUad0ZL-nBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 There are various considerations relating to the duality of requiring a machine to process inputs from a human being, in-order for the effect of a human being to be made tangible, or able to be 'sensed'.  In-order to support [[FreedomOfThought]] this human-machine interface needs to be made private and entirely confidential; whereby the trigger for any external rules is a sharing event with any other agent, other than those that represent the individual themselves.  
 
 In otherwords - a person becomes subject to scrutiny when there is an action of sharing something with someone else - not their 'internal' process of thinking about something, ie; a problem, which should not be unduely limited - the concern being, that human beings should be entitled to safely think about anything and the process of doing so is a requirement for enabling the human mind to consider the concepts / topics / issues.  Yet, when 'thought' turns into some sort of 'action' that relates to other people, then an issue that has some sort of implication upon other (ie: socially) becomes relavent in some way; without getting into the semantics of how that might be investigated and/or considered more later.
@@ -44,10 +46,34 @@ There are 'socialisation' structures in both the computational environment; as d
 Importantly also; there are [[GuardianshipRelations]] and [[GuardianshipSemantics]] requirements. 
 
 
-#### The Role of Vocabulary
+### The Role of Vocabulary
 
-##### Human Users
+#### Human Users
+
 The focus for Human Users presently is english, as that's the only natural spoken / written language i am competent in.  Phonetics, tonality and other factors play a role with spoken speech; punctuation and grammar plays a role with written natural language alongside spelling.
 
-
 Courts use natural langague to process disputes, form common-sense and defined outcomes.
+
+#### Computational Interference
+
+There are many negative implications that develop when even basic AI related processes (ie: spellcheck helpers) re:define a term to another term, that changes the meaning of the sentence or concept that was intended to be communicated by the human being. 
+
+These sorts of events create logs; and, complicate assessments - noting - i am not sure of a command that is `.wellknown` that allows a human being to assert a correction for an action that was made by a machine; or, any existing syntax that ensures a machines interference with a persons words is able to be logged, as part of that data-file.  
+
+### Software Agents
+
+Software agents fundamentally review english text on a computational basis - ending up with processes parsed in binary. 
+
+However; there are various well-defined command structures that are in-effect a machine vocabulary that is contextual to the software / hardware environment. 
+
+an instruction set, in-effect...
+
+#### Human Centric Software Agent Considerations
+
+Therein - one of the objective [[SafetyProtocols]] related considerations should include the implications of computer generated deterministic content or artifacts interfering with AI modelling techniques - due to AI related inputs that are not properly labelled.
+
+The example being - 'autocorrect' issues...  changing the meaning of a sentence, and thereafter being employed to determine attributes about the natural agent. 
+
+#### Natural Language Modelling 
+
+The language - english - has evolved over 

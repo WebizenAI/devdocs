@@ -1,4 +1,4 @@
-# POF of Core Concepts
+# POC of Core Concepts
 
 The core concepts that are sought to be demonstrated in the Webizen 2.5 version of works.
 
@@ -9,7 +9,9 @@ The core concepts that are sought to be demonstrated in the Webizen 2.5 version 
 5. App Development Environment
 
 
-CONSIDERATIONS
+### CONSIDERATIONS
+
+NOTE: [[RootConcepts]]
 
 Database Method
 
