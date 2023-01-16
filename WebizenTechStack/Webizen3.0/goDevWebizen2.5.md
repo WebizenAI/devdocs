@@ -46,3 +46,8 @@ Issues
 2. Defining the systems relationships 
 4. Use of Caddy Server (HTTPS interface?)
 
+NOTES:
+
+https://github.com/ichiban/awesome-go
+
+howtogo https://www.callicoder.com/golang-packages/

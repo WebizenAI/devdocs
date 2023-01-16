@@ -1,6 +1,11 @@
-# ChatGPT Dynamic Ontology
+# Dynamic Ontology
 
-The below text is sourced via the Q&A with ChatGPT to figure out how to create a dynamic ontology solution.  
+The below text is sourced via the Q&A with ChatGPT to figure out how to create a dynamic ontology solution.  What i'm then doing, is going through and making notes in interleave. 
+
+The solution is not intended to be operated by ChatGPT  - rather, this is intended to be a root resource employed locally on systems. 
+
+
+## ChatGPT Interactive Notes
 
 I am working on a project that seeks to create innovative semantic web related technology. I don't like OWL being used for human beings and as a means to describe parts of our biosphere that is not property of a company, but rather something that is of earth. To address this problem, i am trying to figure out how to create a machine-learning training program, that would be provided an english language dictionary, including information about the use of words in the context of them being used as a NOUN, PRONOUN, VERB, ADJECTIVE, ADVERB, PREPOSITION, CONJUNCTION or INTERJECTION and related descriptions of the definition provided using the english language. The program would process this information and provide a model that can be used for the purpose of defining a top-level ontology that can be used with RDF and RDFS for the creation of RDF ontologies. How can this be achieved?
 
@@ -56,14 +61,18 @@ Ontological rules are guidelines for organizing and structuring knowledge in a s
 
 There are several different ontological frameworks that have been proposed for the English language. Some examples include:
 
-1.  WordNet: This is a lexical database that organizes English words into sets of synonyms (synsets) and describes the relationships between them. WordNet provides a hierarchical structure for the English vocabulary, with nouns, verbs, adjectives, and adverbs arranged in a tree-like structure.
+1.  [WordNet](http://wordnet-rdf.princeton.edu/): This is a lexical database that organizes English words into sets of synonyms (synsets) and describes the relationships between them. WordNet provides a hierarchical structure for the English vocabulary, with nouns, verbs, adjectives, and adverbs arranged in a tree-like structure.
     
-2.  FrameNet: This is a lexical database that organizes English words into frames, which are sets of words that are related to a specific concept or event. FrameNet provides a way to organize the English vocabulary based on the roles that words play in different situations.
+2.  [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/): This is a lexical database that organizes English words into frames, which are sets of words that are related to a specific concept or event. FrameNet provides a way to organize the English vocabulary based on the roles that words play in different situations.
     
-3.  Cyc: This is a large-scale ontology that organizes knowledge about the world in a hierarchical and logical way. Cyc includes a large number of concepts and relations, and provides a framework for organizing the English vocabulary in a consistent and logical way.
-    
-4.  SUMO: This is a large-scale ontology that organizes knowledge in a hierarchical and logical way. SUMO provides a framework for organizing the English vocabulary in a consistent and logical way, and includes a large number of concepts and relations.
-    
+3.  [Cyc](https://en.wikipedia.org/wiki/Cyc): This is a large-scale ontology that organizes knowledge about the world in a hierarchical and logical way. Cyc includes a large number of concepts and relations, and provides a framework for organizing the English vocabulary in a consistent and logical way.
+
+4.  [SUMO](https://www.ontologyportal.org/): This is a large-scale ontology that organizes knowledge in a hierarchical and logical way. SUMO provides a framework for organizing the English vocabulary in a consistent and logical way, and includes a large number of concepts and relations.
+
+![[SUMOMILO.gif]]
+ImageSource: [Ontology Portal](https://www.ontologyportal.org/)
+
+
 5.  OntoWordNet: This is an ontology that is based on WordNet, but it provides a more formal and logical structure for the English vocabulary. It organizes words in a hierarchical structure and provides formal definitions and axioms for the concepts represented by the words.
     
 6.  The General English Ontology (GEO): This is an ontology that provides a general structure for organizing the English vocabulary in a consistent and logical way. The GEO provides a high-level structure for organizing concepts and relationships, and it has been used in a variety of NLP and AI applications.
@@ -78,6 +87,26 @@ In summary, ontological rules for the English language are guidelines for organi
 It's worth noting that these ontologies were created by experts in the field, and they are widely used in NLP and AI applications.
 
 In summary, ontological rules for the English language are guidelines for organizing and structuring the vocabulary and grammar of the language in a consistent and logical way, and there are different ontological frameworks that have been proposed for the English language such as WordNet, FrameNet, Cyc, SUMO, etc.
+
+
+NOTES:
+OntoWordNet LINKS
+https://lists.w3.org/Archives/Public/public-swbp-wg/2005Feb/0066.html
+https://www.w3.org/2001/sw/BestPractices/WNET/
+http://wordnet-rdf.princeton.edu/
+Other links
+https://babelnet.org/
+
+https://github.com/ontologyportal/sumo
+
+http://wordnet-rdf.princeton.edu/about 
+http://wordnet-rdf.princeton.edu/
+
+https://old.datahub.io/dataset/opencyc is unavailable;  a version of it has been found: https://github.com/asanchez75/opencyc/blob/master/opencyc-latest.owl.gz 
+
+noteAlso: https://www.wordsapi.com/
+
+
 
 ***My Question: 
 note; my objective is to specifically seek to maintain the proper use of terms defined using english words. This is distinct to the creation of software that might seek to support NLP related processes for sentences and broader documents. Now Therefore; When defining a high-level schema to describe the logical use of an english term or a group of english terms that are used in camelCase to define an ontological class, subclass, property, relation or datatype; what terms should be used to define the logical use of english terms for the purpose of defining an RDFS ontology document?***
@@ -559,4 +588,12 @@ As I mentioned earlier, there are no Go libraries that provide bindings for cuDN
 ### Review and considerations
 
 1. Its seemingly defined using tensorcores.  my laptop doesn't have tensor cores, only cudacores
-2.  
+2.  I didn't know much about the existing solutions like wordnet.
+
+Found:
+
+
+
+https://github.com/ozlo/gown
+
+

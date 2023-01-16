@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d7c88cf561c0df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "263722bfe6f7ba50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/EngineeringConsiderations/Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "container",
+                "query": "guardianship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md"
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md"
               }
             }
           }
@@ -231,17 +256,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1024cc322b2c57da",
+  "active": "7d7c88cf561c0df8",
   "lastOpenFiles": [
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5.md",
+    "WebizenTechStack/EngineeringConsiderations/Prolog.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/Sacrifices-hardproblems.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOfCoreConcepts.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
     "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/PCT-NOTES.md",
     "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/HelperAppObjectives.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/FUNCTIONS.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/GoLangWebIDOIDC.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/Sacrifices-hardproblems.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives.md",
-    "SocialFactors/WebScience/SafetyProtocols/KnowledgeQualificationMethods.md"
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/FUNCTIONS.md"
   ]
 }
