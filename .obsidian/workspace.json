@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
+                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permissive commons",
+                "query": "cimba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
+                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
+                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md"
+                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md"
               }
             }
           }
@@ -195,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "5b9aedab1ea70953",
   "lastOpenFiles": [
+    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md",
+    "old-work-archives/2018-webizen-net-au/posts/RWW & some Solid history.md",
+    "WebizenTechStack/WebizenApps/Historical RWW Apps.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
     "SocialFactors/WebScience/PermissiveCommons.md",
     "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/PCT-NOTES.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
     "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
     "SocialFactors/CyberAttackVectors/NobodyAI.md",
     "SocialFactors/CyberAttackVectors.md",
-    "SocialFactors/WebScience/TheValuesProject.md",
-    "SocialFactors/CyberAttackVectors/TechDebt.md",
-    "SocialFactors/WebScience/ArtificialMinds/AChatGPTExperimentHolborn.md",
-    "SocialFactors/SocioEconomicTechReqs/GuardianshipSemantics.md"
+    "SocialFactors/WebScience/TheValuesProject.md"
   ]
 }
