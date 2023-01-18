@@ -49,7 +49,7 @@ Importantly also; there are [[GuardianshipRelations]] and [[GuardianshipSemantic
 
 #### Human Users
 
-The focus for Human Users presently is english, as that's the only natural spoken / written language i am competent in.  Phonetics, tonality and other factors play a role with spoken speech; punctuation and grammar plays a role with written natural language alongside spelling.
+The focus for Human Users presently is English (focus therein - AustralianEnglish, as well as other examples of it) as that's the only natural spoken / written language i am competent in.  Phonetics, tonality and other factors play a role with spoken speech; punctuation and grammar plays a role with written natural language alongside spelling.
 
 Courts use natural langague to process disputes, form common-sense and defined outcomes.
 

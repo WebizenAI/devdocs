@@ -4,9 +4,9 @@ Web Civics was established in 2014.
 
 Some of the underlying works produced under the banner of 'Web Civics' is provided in the Old Work Archives folder; including,
 
-- [[Webizen Group 2015]]
-- [[WebCivics BizPlan 2018]]
-- [[WebCivics Medium Posts]] (2019)
+- [[WebizenGroup2015]]
+- [[WebCivicsBizPlan2018]]
+- [[WebCivicsMediumPosts]] (2019)
 
 (more to be added later)
 

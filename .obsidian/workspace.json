@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,62 +49,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
+                "file": "SocialFactors/WebScience/EnglishLanguageModelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb9b94e48c62d683",
+            "id": "f0e10397b82068a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
+                "file": "old-work-archives/LinkedInArticles/linkedinNoteAIDigitalIdentity&Guardianship Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53bac3277397d8d0",
+            "id": "49623ddbc67130d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
+                "file": "old-work-archives/LinkedInArticles/LinkedInLabellingAiAgents.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1deb3e99cef5423d",
+            "id": "802d3dcb04c802c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/TechDebt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71aa4af73ad83779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/NobodyAI.md",
+                "file": "old-work-archives/LinkedInArticles/LinkedInLabellingAiAgents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verb",
+                "query": "chomsky ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
+                "file": "SocialFactors/WebScience/EnglishLanguageModelling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
+                "file": "SocialFactors/WebScience/EnglishLanguageModelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,11 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md"
+                "file": "SocialFactors/WebScience/EnglishLanguageModelling.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,17 +220,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "b15b43b1dfc456dd",
   "lastOpenFiles": [
-    "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
-    "SocialFactors/SocialAttackVectors/Torts.md",
-    "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology.md",
+    "SocialFactors/WebScience/EnglishLanguageModelling.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
     "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
-    "SocialFactors/SocialAttackVectors/CriminalActivity/DigitalSlavery.md",
-    "SocialFactors/SocialAttackVectors.md",
-    "SocialFactors/SocioEconomicTechReqs.md",
-    "WorkInProgress.md",
-    "WebizenTechStack/EngineeringConsiderations/TopLevelOntologyNLPResearch.md",
-    "SocialFactors/SocioEconomicTechReqs/AccountCreation.md"
+    "old-work-archives/LinkedInArticles/LinkedInLabellingAiAgents.md",
+    "old-work-archives/WebCivicsMediumPosts/during-covid/IsanInternationalCyberMigrationEvenPossible.md",
+    "old-work-archives/WebCivicsMediumPosts/during-covid/DoWeNeedaSpaceTimeNavigator.md",
+    "old-work-archives/WebCivicsMediumPosts/during-covid/DigitalCovid19VaccinePassports.md",
+    "old-work-archives/WebCivicsMediumPosts/during-covid/ChoicesaboutthefutureofKnowledgeGovernanceAlternativesSolutionstoVaccinePassports.md",
+    "old-work-archives/WebCivicsMediumPosts/during-covid/AFuturetoSupportInformedDecisionsSTEAM&Stars.md"
   ]
 }

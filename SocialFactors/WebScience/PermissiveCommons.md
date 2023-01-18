@@ -6,8 +6,8 @@ The Permissive Commons concept is like an advancement of 'open-data', whilst add
 
 Permissive Commons related documents;
 - [[PermissiveCommonsTech]]
-- [[Open Data v3.0 Permissive Commons]]
-- [[Tech for Permissive Commons]]
+- [[OpenDatav3.0PermissiveCommons]]
+- [[TechforPermissiveCommons]]
 
 There are a few different 'usecases' relating to the use of 'permissive commons'. 
 

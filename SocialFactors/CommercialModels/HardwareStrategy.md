@@ -5,7 +5,7 @@
 
 *Writing these works now, i find it interesting that my journey from the early 90s started with building, fixing and selling computers; leading to my first work on an 'invention' where i sought to make computers that worked on tvs.* 
 
-*Indeed also, there's an old email from me to former Microsoft 'luminary' Frank Arrigo that he published at the time [[2005 Lots of ideas - some big & some small]]. So many years later, some of the problems illustrated as ideas are now commonplace, others remain to be a problem, and others still not yet created... ie: The Computer expansion port for displays*...
+*Indeed also, there's an old email from me to former Microsoft 'luminary' Frank Arrigo that he published at the time [[2005LotsOfIdeas-SomeBig&SomeSmall]]. So many years later, some of the problems illustrated as ideas are now commonplace, others remain to be a problem, and others still not yet created... ie: The Computer expansion port for displays*...
 
 *Interesting also - i only recently heard about the Holborn Computer:*
 

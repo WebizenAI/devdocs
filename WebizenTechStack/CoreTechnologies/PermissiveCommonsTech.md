@@ -18,8 +18,8 @@ Historically also, there has been an 'open data' movement; however these resourc
 
 Some earlier notes include;
 
-- [[Open Data v3.0 Permissive Commons]] (2019)
-- [[Tech for Permissive Commons]] (2019)
+- [[OpenDatav3.0PermissiveCommons]] (2019)
+- [[TechforPermissiveCommons]] (2019)
 - [[the-need-for-decentralised-open-linked-data]] (2018)
 
 (other records available )

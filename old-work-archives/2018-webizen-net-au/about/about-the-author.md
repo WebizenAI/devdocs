@@ -9,7 +9,7 @@ inline_featured_image:
     - '0'
 ---
 ```html
-<div>(document status; draft)</div>I had an interest in computers since he was a child. Born in 1978, from the early 90’s my interest in computer led me to worked as a computer professional from the mid 90s (as a teenager) fixing / building computers, etc.
+I had an interest in computers since he was a child. Born in 1978, from the early 90’s my interest in computer led me to worked as a computer professional from the mid 90s (as a teenager) fixing / building computers, etc.
 
 Whilst i grew up sailing, learning piano and being supported in my interest in computers (grandpa gave me a vic 20, and later bought me my first, 386dlc, which i upgraded) my family were troubled, as is documented in the press.
 

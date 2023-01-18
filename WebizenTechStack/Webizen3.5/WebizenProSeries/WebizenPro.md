@@ -109,7 +109,7 @@ A project called ‘SoLiD’, which has had a number of names historically (inc:
 
 This ‘group’ or ‘corpus’ of technologies includes various components that are designed to be interoperable.  Whilst further investigation needs to be made into the Authentication semantics, and how to best deploy solutions that both preserve privacy; whilst also, providing applications the underlying data-services they need to function properly; the vast majority of the underlying components are thought to be sufficiently developed, as to produce applications using it today.  
 
-3.  [[Tech for Permissive Commons]]
+3.  [[TechforPermissiveCommons]]
 
 The ‘permissive commons’ components are thought to be undeveloped as of today. The principal concept is to support private operation of AI agents; that require data-sets (knowledge / information) relating to various fields of knowledge of mankind.  Historically, a component of this field is known as ‘open data’; yet, ‘permissive commons’ elevates the capacities in new ways to support various new features & benefits; both, in relation to the curation of the knowledge of human-kind, but also, in relation to the means through which we support how AI Agents function.  
   
