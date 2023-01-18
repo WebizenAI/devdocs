@@ -1,6 +1,10 @@
+
+https://hypercore-protocol.org/
 https://dat-ecosystem.org/ 
 
-DAT protocol is now called HyperCore Protocol. 
+DAT protocol is now called HyperCore Protocol, which in-turn appears to be defined as [HolePunch](https://holepunch.to/)
+
+The documents are: https://docs.holepunch.to/
 
 DAT is a decentralized, peer-to-peer protocol for sharing and synchronizing data. It is designed to allow users to share and collaborate on data in a decentralized way, without the need for a central server or authority.
 

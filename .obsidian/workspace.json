@@ -11,8 +11,12 @@
             "id": "57427290d6468806",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pct-devdocs",
+                "query": "pct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,17 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57427290d6468806",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
+    "WebizenTechStack/CoreServices/Non-HTTP(s)Protocols/DAT.md",
+    "WebizenTechStack/EngineeringConsiderations/DatabaseRequirements/DatabaseMethods/Sparql.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/SparqlFamily.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/Ontologies/FOAF.md",
     "SocialFactors/WebScience/PermissiveCommons.md",
     "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
     "PermissiveCommonsTech/PCTWorkInProgress.md",
     "WorkInProgress.md",
-    "README.md",
-    "pct-devdocs.webcivics.org.md",
-    "WebizenTechStack/LanguageModelling/TopLevelOntologyNLPResearch.md",
-    "SocialFactors/SocialAttackVectors.md",
-    "WebizenTechStack/Webizen3.0/HyperMediaContainers/webizen.n3.md",
-    "WebizenTechStack/CoreServices/DecentralisedOntologies.md"
+    "README.md"
   ]
 }
