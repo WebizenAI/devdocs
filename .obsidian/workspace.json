@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
+                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pct",
+                "query": "ontology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
+                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
+                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md"
+                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "57427290d6468806",
   "lastOpenFiles": [
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/Ontologies.md",
+    "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
     "WebizenTechStack/CoreServices/Non-HTTP(s)Protocols/DAT.md",
     "WebizenTechStack/EngineeringConsiderations/DatabaseRequirements/DatabaseMethods/Sparql.md",
     "WebizenTechStack/CoreTechnologies/SemanticWeb/SparqlFamily.md",
@@ -155,7 +157,6 @@
     "SocialFactors/WebScience/PermissiveCommons.md",
     "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
     "PermissiveCommonsTech/PCTWorkInProgress.md",
-    "WorkInProgress.md",
-    "README.md"
+    "WorkInProgress.md"
   ]
 }

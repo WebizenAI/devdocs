@@ -8,7 +8,7 @@ This is the underlying system that is in-turn responsible for the way through wh
 
 An alternative for domains has been created by a range of [Blockchain based solutions](https://en.wikipedia.org/wiki/Blockchain#Domain_names) yet, these solutions are moreover considered to be categorised as components of the [Web3](https://en.wikipedia.org/wiki/Web3) ecosystem, which is basically considered to be blockchain based. 
 
-After several years, works on [[DIDs]] has evolved to provide some form of solution that is supported by a [DID Methods Registry](https://github.com/w3c/did-spec-registries/tree/main/methods) yet, this methodology provides far less namespace than the DNS system in and of itself.  These works create a bridge between Web (WWW / W3C / HTTP) based ecosystems, and those that strongly rely upon [Web3](https://en.wikipedia.org/wiki/Web3) technology.
+After several years, works on [[DIDsEval]] has evolved to provide some form of solution that is supported by a [DID Methods Registry](https://github.com/w3c/did-spec-registries/tree/main/methods) yet, this methodology provides far less namespace than the DNS system in and of itself.  These works create a bridge between Web (WWW / W3C / HTTP) based ecosystems, and those that strongly rely upon [Web3](https://en.wikipedia.org/wiki/Web3) technology.
 
 There are an array of DNS related technologies that are able to provide significant security improvements, however they are not necessarily reliably in-place nor necessarily able to work with all internet connected devices that depend upon existing ICANN related DNS systems.
 

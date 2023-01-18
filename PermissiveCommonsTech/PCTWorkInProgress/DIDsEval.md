@@ -1,6 +1,6 @@
 The concept of Decentralised IDentifiers was first raised on the [W3C WebPayments Mailing list in 2014 by Manu Sporny](https://lists.w3.org/Archives/Public/public-webpayments/2014May/0033.html) (and Dave Longley who originally registered the [URI Scheme with IANA](https://web.archive.org/web/20181225121742/https://www.iana.org/assignments/uri-schemes/prov/did)
 
-(whilst i'm noted - often the context of these calls was that they were held in the early hours of the morning (ie: 3AM Sydney/AU Time)).
+*(Whilst i'm noted - often the context of these calls was that they were held in the early hours of the morning (ie: 3AM Sydney/AU Time)).*
 
 Whilst the works have developed significantly, there are some particular use-cases relating to a concept called [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) that has been the primary focus of these works.
 
@@ -34,7 +34,7 @@ I was involved with the beginnings of this work, whereby I particularly supporte
 
 Prior to the creation of Decentralised Identifiers, previous projects included WebDHT and HTTPA.  The hope was that DIDs were going to be the solution for providing permissive commons; however in more recent years, the works appear to have taken a turn towards being defined by many as 'Decentralised IDentity' which has some percieved problems, that i do not like or support; noting, that the underlying issues relating to these percieved problems are complex, and that i very much support the ability to have Verifiable Claims and Verifiable Credentials.
 
-DIDs are also very closely related to various #Web3 and #Web5 works, that aren't actually about the use of the World Wide Web very much at all - whilst noting again, the complexities involved.  Perhaps most of all; an ecosystem using [[VerifiableCredentials]]  and [[DIDs]] emerged and had a significant global role in the global promotion, that at times resulted in enforced requirements for people to be delegated 'Vaccine Passports' which appears to have been directly tied to newer members involved in the production of these technologies.  
+DIDs are also very closely related to various #Web3 and #Web5 works, that aren't actually about the use of the World Wide Web very much at all - whilst noting again, the complexities involved.  Perhaps most of all; an ecosystem using [[VerifiableCredentials]]  and [[DIDsEval]] emerged and had a significant global role in the global promotion, that at times resulted in enforced requirements for people to be delegated 'Vaccine Passports' which appears to have been directly tied to newer members involved in the production of these technologies.  
 
 This had the effect of breaching what i considered to have been a previously considered problem (at the time when works were seeking to advance [[VerifiableCredentials]] to become a chartered W3C Activity ) that i thought was agreed, would not be employed as a 'go to market' usecase.
 

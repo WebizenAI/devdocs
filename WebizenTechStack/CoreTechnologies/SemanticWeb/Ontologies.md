@@ -14,6 +14,8 @@ CORE Semantic Web Ontologies include;
 - [SOIC](SOIC.md)
 - [SKOS](SKOS.md)
 
+A list of many others in the [github/linkeddata/ontology-archiver](https://github.com/linkeddata/ontology-archiver/blob/master/all.ttl) (approx count 2205); and,
+
 Facebook: https://ogp.me/
 Search: https://schema.org/ 
 
