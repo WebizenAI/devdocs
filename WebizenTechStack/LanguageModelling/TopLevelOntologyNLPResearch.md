@@ -10,7 +10,7 @@ The ecosystem is intended to produce 'personal ai' or 'human centric ai', which 
 The ecosystem incorporates decentralising ontologies: 
 
 - [[PermissiveCommons]]  
-- https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/
+- [[WhatAreTheCommons]]
 
 As such; i have an opportunity to redefine it.  The HumanCentricAI 'agent' (webizen, owned by whomever purchases it - which essentially means atm - the underlying database) is designed to operate (privately) on a laptop/desktop (in the first instance); apps are defined in a way that advances the old RWW (read-write-web) works, with a variety of distinctions from solid. 
 

@@ -1,6 +1,6 @@
 # Permissive Commons
 
-Permissive Commons is in-fact similar to the [DecentralisedOntologies](DecentralisedOntologies.md) however the scope of 'hyper-media' assets is broader than simply any RDF based assets; and the two are interoperable.
+Permissive Commons is in-fact similar to the [DecentralisedOntologies](WebizenTechStack/CoreServices/DecentralisedOntologies.md) however the scope of 'hyper-media' assets is broader than simply any RDF based assets; and the two are interoperable.
 
 The Permissive Commons concept is like an advancement of 'open-data', whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.
 

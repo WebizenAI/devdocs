@@ -75,7 +75,7 @@ A list of  [[ArtificialMinds]] is being developed to help people think about wha
 8.  [[Webizen3.5]] 
 10. [[Webizen4.0]]
 
-Note Also:  whilst there are some document resources herein about [[PermissiveCommons]] given the scope, importance and broader use-cases are so vast; i've set-up a seperate documentation site for it under [webcivics/pct](https://pct-devdocs.webcivics.org/) (Permissive Commons Technology).
+Note Also:  whilst there are some document resources herein about [[PermissiveCommons]] given the scope, importance and broader use-cases are so vast, i tried to set-up a seperate site and then ended-up folding it back into this devdocs site.
 
 Permissive commons is essential for the Webizen Ecosystems, but it is also intended to be made useful for others who may want to use some of that work for whatever reason; as such, it is an illustration of what sorts of projects are broadly considered to be about [[WebCivics]].
 

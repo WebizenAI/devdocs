@@ -1,6 +1,6 @@
-# Cognative AI
+# Cognitive AI
 
-The Cognative AI strategy is still being more formerally defined, and is likely to be one of the more significant projects that is better undertaken once the [[Webizen3.0]] systems are released.
+The Cognative AI strategy is still being more formerally defined, and is likely to be one of the more significant projects that is better undertaken once the [[Webizen3.0]] systems are released.  Current work is being undertaken via [[CognitiveAI-WIP]] notes.
 
 Cognitive artificial intelligence (AI) is a type of AI that is designed to mimic the cognitive abilities of humans, such as learning, problem-solving, decision-making, and natural language processing. It is based on the idea that the human brain is a computational system that can be emulated by a machine, and it seeks to build AI systems that can perform tasks that require human-like cognition.
 

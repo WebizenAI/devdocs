@@ -1,9 +1,10 @@
 # Work in Progress
 
-This is where i'll put information about the work in progress.
+This is where i'll put information about the work in progress.  note also [[PCTWorkInProgress]]
 
 ### [DevDocs (#this)](https://devdocs.webizen.org/)
 This documentation environment has been built using [Obsidian](https://obsidian.md/), [GitHub](https://github.com/), [Gatsby](https://www.gatsbyjs.com/) and the [Obsidian Template for Gatsby](Obsibian Template for Gatsby).  The [[DocumentationMethod]] document explains how its done.
+
 
 The process of producing the documentation; includes,
 1. Writing Content about the architecture of the Webizen Project.
@@ -44,15 +45,13 @@ As i'm working through it; i am also constantly working on different ideas to im
    
 10. Working on what it means to 'own your own webizen'; which both, creates a series of requirements in defining how the technology is implemented; in-order to, support an ecosystem solution that has a lawful basis upon which it may be asserted that a person owns their own 'webizen'; and in-turn, addresses related issues linked with guardianship related semantics.  
     
-11. In-order for the specifications for the Webizen Agent to be defined, there also needs to be a clear specification for the Permissive Commons Technology (PCT) ecosystem.  A seperate site is being developed in-order to address these requirements noting the distinctions; whilst also noting, that the designs may end-up requiring the webizen ecosystem in-order to make it work in a manner that is considered to be 'fit for purpose' Here is the link to the [PCT-Docs](https://pct-devdocs.webcivics.org/)
+11. In-order for the specifications for the Webizen Agent to be defined, there also needs to be a clear specification for the Permissive Commons Technology (PCT) ecosystem.  A seperate site is being developed in-order to address these requirements noting the distinctions; whilst also noting, that the designs may end-up requiring the webizen ecosystem in-order to make it work in a manner that is considered to be 'fit for purpose' 
     
-12. I need to re-organise  documentation to use git [sub-modules](https://git-scm.com/docs/git-submodule) so that that the organisation of these docs and those in [PCT-Docs](https://pct-devdocs.webcivics.org/) are more managable as ecosystem components.   This method is likely to end-up requiring more than the two repos currently defined.  Following-on from these earlier considerations - I am now wondering how / if - it might be better to revert to a single repo rather than trying to do something more complex - when, the underlying purpose of these docs is to support an implementation that will in-turn lead to the documents being relocated to the webizen system anyway.   Presently, its hard to keep track of both; and i'm trying to 'crunch time', whilst raising discussion points with others - leads to sharing links, and the coherance of the notes is suffering as a consequence of their being seperated and at times duplicated; sometimes, with differing versions - which is going to cause problems into the future (noting - the webizen environment is likely to address the problem, but that it'll be a completely different environment - so, the troubles with these repos becomes irralavent)
+12. I need to re-organise  documentation to use git [sub-modules](https://git-scm.com/docs/git-submodule) so that that the organisation of these docs and those in [[PermissiveCommonsTech]] are more managable as ecosystem components.   This method is likely to end-up requiring more than the two repos currently defined.  Following-on from these earlier considerations - I am now wondering how / if - it might be better to revert to a single repo rather than trying to do something more complex - when, the underlying purpose of these docs is to support an implementation that will in-turn lead to the documents being relocated to the webizen system anyway.   Presently, its hard to keep track of both; and i'm trying to 'crunch time', whilst raising discussion points with others - leads to sharing links, and the coherance of the notes is suffering as a consequence of their being seperated and at times duplicated; sometimes, with differing versions - which is going to cause problems into the future (noting - the webizen environment is likely to address the problem, but that it'll be a completely different environment - so, the troubles with these repos becomes irralavent)
 
 ### Ontology Modelling
-The ontology modelling process is trying to address various requirements for [[DecentralisedOntologies]], [[TemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].
+The ontology modelling process is trying to address various requirements for [[WebizenTechStack/CoreServices/DecentralisedOntologies]], [[TemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[Values Credentials]].
 
 Much of the ontology work is in the [Web Civics - Ontologies 2023](https://github.com/WebCivics/ontologies/tree/2023) github folder / project. Some use of [Chat AI](https://chat.openai.com/) has been employed, that has helped a great deal in some ways; whilst also problematic.  
 
-Yet now, as the requirements to set-out how the Permissive Commons Technology (PCT) works to support Ontologies (ONT or PCT-ONT); i've set-up another documentation site which is online at [pct-devdocs.webcivics.org](https://pct-devdocs.webcivics.org/) and am only just starting to work on it.
-
-Once this is in-shape, i should be in a position to get onto the ontology modelling in a way that means i'll be able to provide examples of exactly how it works - with a demonstration! 
+Yet now, as the requirements to set-out how the Permissive Commons Technology (PCT) works to support Ontologies (ONT or PCT-ONT).  Once this is in-shape, i should be in a position to get onto the ontology modelling in a way that means i'll be able to provide examples of exactly how it works - with a demonstration! 

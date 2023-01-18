@@ -2,6 +2,8 @@
 
 ***This Document is a work in progress!***
 
+[[UnderstandingOntologies]]
+
 I'm exploring an idea about forming some sort of semantic database method that would use language (english) to structure the ontological predicates. Part of the objective is to end up with a software model that can operate on a laptop (or mobile phone) privately.  
 
 The underlying consideration is that the ability to 'think' and write something that may or may not be communicated to anyone else (or any other agent) should not be subject to interference or survellience.  Any implication any use of the english language either written or as is able to be intepreted via sensors (ie: microphones) for natural language processing, should be private - until such a time as the derivatives of that work are shared with someone else (a 3rd party agent); and even then, permissions and rules should be asserted to the rightful use of any-such derivatives of a persons thought-processes.  
@@ -116,7 +118,7 @@ Perhaps moreover - the difference between 'NLP' and what this process is seeking
 
 In-order to scope the broad notional concept; there's a question about whether to slim it down or first work to define a 'gold plated' model ie: *all the qualities that one might wish for if computing resources for all users wasn't a problem...*  and thereafter, seek to slim it down as required?  
 
-### The Gold Plated solution...
+### What would a *"Gold Plated Solution"* Look Like?
 
 Looking into the history of the english language, evokes an array of considerations that i think are related to Etymology, Semiotics, Epistemology etc.  
 
@@ -138,15 +140,50 @@ LINKS:
 https://github.com/CLLKazan/MathSearch
 https://github.com/CLLKazan/OntoMathPro
 
-
 #### Specialised Vocabularies & Field Specific Meanings
 
 There are various industries that make use of language of various forms and in various ways.  
 
 Sometimes the meaning that is applied within that professional field; has distinctions to the use of the term in other settings.  As such, the concept topic-field becomes an important attribute when seeking to comprehend the 'meaning' of a statement, that may be employed in relation to a specified field of '[liberal arts](https://en.wikipedia.org/wiki/Liberal_arts_education)' profession, skillset or domain. 
 
+#### Functional (Software) Language
+
+Language sets for the useful production of software, may include definitions about protocols and in-turn also API definitions.   Further definitions could be provided about the meaning of various functions provided by various software languages.  
+
+#### Translations
+A 'gold plated' solution would also be able to support translations between languages with a high-level of accuracy, in real-time. 
+
+#### Complex Document "Graph" support for AnyURI
+
+A gold plated solution might be able to process the text (or indeed also audio) of any webpage or electronic resource, and support a means to both better manage the history of a persons time spent on a computer, supporting improved recall and perhaps also the ability to archive versions of documents and thereafter support the ability to distinguish between versions of the same resource that may either change; or that the context relating to the content artifact changes, as to result in a different sort of meaning / categorisation of the content artifact; and in-turn perhaps also, any other content artifacts that refer to it.
+
+### SocioEconomic Considerations.
+
+There is an incredibly high-skilled series of 'jobs' or in-other-words, work, that does continually need to be undertaken and the useful benefit of that work is instrumental. 
+
+As is noted below; there are some solutions that are available as 'open source libraries' yet there are other solutions that are made available on a paid basis.   Given the enormous scope of works that could be done towards supporting the commons / common-sense of computer-humanity language systems, whilst the means to make use of these systems should be free of 'survellience' particularly in relation to private use, the idea that all this work can be done 'for free', isn't considered reasonable or consistant with various practical factors that have a firm footing in reality.  As such, some way of ensuring support for those whose job/skillset/life it is to do language related work, is considered both reasonable and important.  
+
+### Defining AI Related Input.
+
+As is noted in the [[AgentLabelling]] note; it is important that the technical delivery is designed in such a way that ensures that, by default, the solution identifies which agent was responsible for which words being added to a document or communication artifact or event; This is likely able to be done via markup that is embedded in the content assets, however the exact solution is presently unknown and yet to be more formerally defined.  Whilst part of the consideration relates more specifically to AI (inc 'autocorrect') the same requirement is usefully important for collaborative documents involving many human actors.
+
+### Summary: *"Gold Plated Solution"* 
+
+Whilst these considerations are not yet exhaustive (ie: there's more), and that i have not got into the database (software) methods and implications - as yet... i note again,
+
+It is not presently expected that all of these sorts of qualities are going to be achievable nor is it considered that these qualities, characteristics and related considerations are all required in-order to make a significant improvement above and beyond the manner through which systems are made to operate today.  
+
+## Technology Considerations
+
+Whilst investigating solutions, an array of existing language models have been identified that provide a great deal of the underlying data that is considered to be required, although the methods to employ best employ them is presently unclear. 
+
+Whilst making a note of the work done previously making enquiries with ChatGPT as is illustrated by: [[ChatGPTDynamicOntology]] and in-turn the [[LanguageModelling]] folder has been created to 'create space' for more thougher investigation. In-order to illustrate the considerations; i'll start with illustrating the resources that i've found so far. 
 
 ### Large Language Models.
+
+Framenet: https://framenet.icsi.berkeley.edu/fndrupal/
+https://github.com/chanind/frame-semantic-transformer
+https://github.com/topics/framenet
 
 https://github.com/dbamman/latin-bert
 http://wordnet-rdf.princeton.edu/
@@ -166,26 +203,7 @@ https://babelnet.org/
 
 NoteAlso: https://www.wordsapi.com/
 
+https://github.com/alammehwish/framester
 
+NOTE: i was also thinking about something that's more like '@enNoun' or '@enNounAu' rather than simply '@en' or '@en_au', etc. But still working on how to formulate the basic concept. Fundamentally, re: nlp / ml/dl, etc. I wasn't sure how complex it might be, whilst seeking to ensure it doesn't consume too much memory / processing power.
 
-One of the questions I was wondering about, was whether there was a temporal language model that took into consideration the stem languages / vocabularies, perhaps even with geospatial considerations...  
-As noted, I'm new to this. So still at the stage of asking dumb questions. Apologies, but also hoping to make something useful.
-
-Also: I guess overall, my objective might be better described as a vocabulary model rather than a fully fledged language model - but therein also, idk. Still learning.
-
-RE: Broader ecosystem goal [https://devdocs.webizen.org/](https://devdocs.webizen.org/ "https://devdocs.webizen.org/") Shorter-term goal: [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/") NB: [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/") Design is intending to support 'personal data vaults' & a system i call 'permissive commons' to that is built upon decentralised ontologies for Shared assets; [https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/](https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/ "https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/") ie: between a doctor and patient, or between a husband and wife) or publicly employable (ie: laws - general public can't write new ones, but they're all able to consume / read those assets locally).  
-
-[https://pct-devdocs.webcivics.org/WorkInProgress/CognitiveAI/PCTOntologyModelling/](https://pct-devdocs.webcivics.org/WorkInProgress/CognitiveAI/PCTOntologyModelling/ "https://pct-devdocs.webcivics.org/WorkInProgress/CognitiveAI/PCTOntologyModelling/") Therein is an opportunity to redefine how the 'agent' work - that might be different to semweb ontologies; EG: temporal support (EG: [https://github.com/google/badwolf](https://github.com/google/badwolf "https://github.com/google/badwolf") ), The first objective, is to create an app that is able to be used to define an ontologies (/DB); in-turn structure documents as structured data assets using these ontological models. So the idea is to create the top-level ontology using english (for WIP / POC, etc.); ATM, A relatively simple api might be: [https://www.wordsapi.com/](https://www.wordsapi.com/ "https://www.wordsapi.com/") yet i want to ensure the approach scales (can be developed further / better). NB ALSO: [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/") [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/") USECASE: The concept is that apps use the ontological structures defined to be modelled based upon NLP words; how word are used defines the structure of the document(/graph). User is able to populate a document (not seeking to NLP entire document); and turn it into an ontologically defined DB structure / asset / permissions, etc. rather than using FOAF etc (for clients that support it).
-
-FWIW - i'm hoping to have a basic POC done sometime this week. but atm, still puzzling it...
-
-basically like a universal natural lang (semweb tech based) api. probably also, converting basic terms into camelcase ie profile image = ProfileImage / profileImage, etc. i was also thinking about something that's more like '@enNoun' or '@enNounAu' rather than simply '@en' or '@en_au', etc. But still working on how to formulate the basic concept. Fundamentally, re: nlp / ml/dl, etc. I wasn't sure how complex it might be, whilst seeking to ensure it doesn't consume too much memory / processing power.
-
-
-NB: atm, i'm just working towards doing a basic implementation that is built in a way that supports the foundational principals. The desired outcome, is a runtime on a laptop/desktop that's operating locally; connected online with a FQDN using tailscale / tailnet (nb also: headscale); whilst the local env. is based on RWW (newer versions are called solid) & i'm then going to modify the old RWW work to support functionality that wasn't part of how the old solutions worked. most of the tools are built using GoLang (particularly the tailscale networking tools, required for HTTP(s), etc.). The DB solution i'm thinking about atm is: [https://github.com/google/badwolf](https://github.com/google/badwolf "https://github.com/google/badwolf") as its effectively a triple-store + temporal support (which is kinda essential). thereafter; there's two main DBs, one is for decentralised 'commons' [https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/](https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/ "https://pct-devdocs.webcivics.org/About/WhatAreTheCommons/") the other is a private data-store (stuff that hasn't been shared with anyone). Some notes / links: [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/ClientSoftwareRequirements/") Therein also - the broader concept is that a person owns their 'webizen', which ends-up being an AI Agent [https://devdocs.webizen.org/WebizenTechStack/WebizenApps/WebizenInterfaces/](https://devdocs.webizen.org/WebizenTechStack/WebizenApps/WebizenInterfaces/ "https://devdocs.webizen.org/WebizenTechStack/WebizenApps/WebizenInterfaces/") that's operating privately on their own behalf... This 'agent' is in-turn powered by ontology / graph ecosystems (alongside crypto, etc. complex ecosystem). So, The deliberations about natural language; notes, [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts/") [https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/ "https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/goDevWebizen2.5/ChatGPTSupported/ChatGPTDynamicOntology/") Was basically about how to produce the tool / app; that's going to be used to define the graph structures / DBs; and whether an approach might be to use an NLP approach as the foundation, rather than existing ontologies (ie: [https://github.com/WebCivics/ontologies/tree/2023/ttl](https://github.com/WebCivics/ontologies/tree/2023/ttl "https://github.com/WebCivics/ontologies/tree/2023/ttl") )
-
-Therein; as to support #HumanCentricAI - seek to focus on the proper use of vocabulary as the foundational 'data structure' for decentralised informatics. therein - an example of existing problems is; that the schemaorg definition of 'doctor' is about a place, not a person / profession: [https://schema.org/Physician](https://schema.org/Physician "https://schema.org/Physician")
-
-ATM: the main ontology used for reasoning, etc. is OWL [https://www.w3.org/TR/owl-guide/](https://www.w3.org/TR/owl-guide/ "https://www.w3.org/TR/owl-guide/") which has a top-level ontological term `owl:Thing` thereby asserting anything expressed by that top-level concept, to be a sub-class of that concept. Which doesn't apply well, when seeking to define a HumanCentric Ontology; and in-turn, biosphere and sociosphere ontological fabrics.
-
-FWIW: ontologies are historically defined using HTTP URIs (often the URIs they refer to, are no-longer relevant); therein, the permissive commons tech ecosystem (decentralised ontologies) - defining it, offers an opportunity to rethink how it should / could, be structured.

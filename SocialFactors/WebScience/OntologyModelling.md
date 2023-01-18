@@ -8,6 +8,6 @@ There are several benefits to using ontologies in modeling a domain of knowledge
 
 ## Permissive Commons Technology
 
-Permissive Commons Technology (PCT) is being documented on the [webcivics/pct](https://pct-devdocs.webcivics.org/) documentation site; given the fairly significant amount of documentation that is required to produce these systems / modules specifically.  
+Permissive Commons Technology (PCT) is being documented on this site, as a consequence of the difficulties in trying to keep multiple loosely coupled sites in sync. 
 
 A page within this documentation environment seeks to help provide some information about [[UnderstandingOntologies]].

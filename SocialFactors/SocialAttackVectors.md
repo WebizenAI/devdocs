@@ -1,6 +1,6 @@
 # Social Attack Vectors
 
-***NOTE:  The bulk of works in this category is currently being done in the [permissive Commons Technology Documetation](https://pct-devdocs.webcivics.org/) site; however, there are use-cases that moreover relate to 'webizen' ecosystem, as well as those that are considered more broadly.  At some stage the content may be duplicated into both libraries; but this has not yet been done.*** 
+***NOTE:  The bulk of works in this category is currently being done in the [[PermissiveCommonsTech]]; however, there are use-cases that moreover relate to 'webizen' ecosystem, as well as those that are considered more broadly.  At some stage the content may be duplicated into both libraries; but this has not yet been done.*** 
 
 ## Summary
 

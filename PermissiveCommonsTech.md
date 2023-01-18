@@ -2,9 +2,8 @@
 
 Permissive Commons is thought of as a form of technology, given the requirement for a specification to be defined in-order for it to be made to work harmonously online.
 
-NOTE:  The Permissive Commons Tech (PCT) work is being done on a seperate documentation site - [pct-devdocs.webcivics.org/](https://pct-devdocs.webcivics.org/)
+![[webizen_diagram_1-2.jpg]]
 
-The content between this site and the PCT site may not be syncronised. 
 
 ### About PCT
 

@@ -8,6 +8,4 @@ This may include;
 
 etc. 
 
-These considerations are being advanced in the Web Civics Permissive Commons Technology project environment; that can be found online: https://pct-devdocs.webcivics.org/ 
-
 In-effect, a webizen.n3 file is intended to be used by a webizen agent, as a more advanced version of sitemap.xml or robots.txt etc.
