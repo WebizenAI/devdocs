@@ -5,7 +5,9 @@
 ## Summary
 
 **Topics include; but are not limited to,** 
-Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs, Financial Crimes, Corproate Crimes, Attacks Online, Fraud, Social Engineering, etc.
+Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Misleading Behaviours, Wrongs, Financial Crimes, Corproate Crimes, Attacks Online, Fraud, Social Engineering, etc.  
+
+As the ecosystem is intended to be 'human centric' the implications of attack vectors that involve the use of technology (ie: cyber) has been incorporated.....
 
 *IMHO: At the end of the day, harms caused to [[BiosphereOntologies]] entities, is fundamentally caused by other [[BiosphereOntologies]] entities, regardless of the [[SocioSphereOntologies]] related implications.*  
 

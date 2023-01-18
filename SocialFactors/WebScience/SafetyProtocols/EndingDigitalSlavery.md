@@ -1,6 +1,8 @@
 # Ending Digital Slavery
 
-When asking ChatAI about Ending digital Slavery, it provided the following feedback;
+see note about [[DigitalSlavery]].  When asking ChatAI about Ending digital Slavery, it provided the following feedback;
+
+### ChatAI
 
 There are a few different economic models that might be better suited to addressing the issue of unpaid or underpaid work, especially when it comes to knowledge workers. One approach could be to adopt a model that places a greater emphasis on workers' rights and the fair distribution of wealth. This could involve implementing policies that aim to reduce income inequality and provide a safety net for workers who are not being fairly compensated for their labor. Additionally, there could be a focus on providing training and education opportunities to help workers develop the skills they need to negotiate for better pay and working conditions. This could be coupled with stronger labor protections and enforcement mechanisms to ensure that workers are not exploited.
 
@@ -26,3 +28,6 @@ Transparency is also important in open-source projects. Contributors should be a
 
 Overall, it is important to recognize that the contributions of open-source volunteers are valuable and should be treated with respect and fairness. By following these principles, open-source projects can be more inclusive and sustainable in the long term.
 
+## Notes and Considerations
+
+it is very difficult to simplify the notion of [[DigitalSlavery]] as is similarly the case in seeking to provide a simple summary of how it is these works act as a broad-ranging ecosystem with the express intent, of seeking to form apparatus that provides support for enabling lawful remedy in relation to these sorts of crimes and human rights abuses.   As such, when considering the points made about ending digital slavery, note that, the broader ecosystem if effectively implemented; has an effect, that is greater than any single part alone.  The success of the project is effectively defined by whether and/or how it supports #RealityCheckTech, without unreasonably compromising other broader values.  The webizen ecosystem produces an environment where technology, and by extension - Artificial intelligence, is curated as a set of tools for human kind to employ, as to be supported by those tools, and in-particular thereafter; be better equipped to be empowered to successfully engage in activities such as the broader [[PeaceInfrastructureProject]] - which is far less about ICT and far more about our biosphere and in-turn sociosphere; whereby, we need the tools to achieve more than is otherwise simply illustrated by the [[SDGs]].

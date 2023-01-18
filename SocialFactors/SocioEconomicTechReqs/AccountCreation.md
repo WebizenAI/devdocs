@@ -1,3 +1,5 @@
+# Account Creation
+
 In-order to on-board users that are using services that are provided by [[WebizenAlliance]] members; there is a need to perform Know Your Customer / Anti Money-Laundering checks.
 
 and in-turn also; create payment infrastructure support for those users both, to support the distribution of revenues they may generate, and support payment for services they may use.

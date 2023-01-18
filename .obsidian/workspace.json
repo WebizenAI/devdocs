@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e09dc3876fc259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed535ced1af63e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9b94e48c62d683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors.md",
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/TechDebt.md",
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/TechDebt.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/NobodyAI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cimba",
+                "query": "verb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
+                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md",
+                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SocialFactors/CyberAttackVectors/NobodyAI.md"
+                "file": "SocialFactors/SocialAttackVectors/CriminalActivity/ProxyAttacks.md"
               }
             }
           }
@@ -195,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b9aedab1ea70953",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
-    "WebizenTechStack/Webizen3.0/ClientSoftwareRequirements.md",
-    "old-work-archives/2018-webizen-net-au/posts/RWW & some Solid history.md",
-    "WebizenTechStack/WebizenApps/Historical RWW Apps.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/POCOntologyAppDev.md",
-    "SocialFactors/WebScience/PermissiveCommons.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/PCT-NOTES.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/FunctionalObjectives/RootConcepts.md",
-    "SocialFactors/CyberAttackVectors/NobodyAI.md",
-    "SocialFactors/CyberAttackVectors.md",
-    "SocialFactors/WebScience/TheValuesProject.md"
+    "SocialFactors/SocialAttackVectors/CommercialExploitation.md",
+    "SocialFactors/SocialAttackVectors/Torts.md",
+    "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
+    "SocialFactors/SocialAttackVectors/CyberAttackVectors.md",
+    "SocialFactors/SocialAttackVectors/CriminalActivity/DigitalSlavery.md",
+    "SocialFactors/SocialAttackVectors.md",
+    "SocialFactors/SocioEconomicTechReqs.md",
+    "WorkInProgress.md",
+    "WebizenTechStack/EngineeringConsiderations/TopLevelOntologyNLPResearch.md",
+    "SocialFactors/SocioEconomicTechReqs/AccountCreation.md"
   ]
 }

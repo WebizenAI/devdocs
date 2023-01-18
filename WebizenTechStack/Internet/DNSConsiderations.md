@@ -1,3 +1,5 @@
+# DNS Considerations
+
 The Primary DNS service provided on the internet is governed via ICANN.  This system defines how Domain Names are allocated and in-turn also, the rental charges attributed to them.  Alternatives have been developed overtime, most recently via the Etherum Blockchain.
 
 The preference is to seek to ensure etherum is only optionally required, rather than being core to the function of the broader ecosystem.
