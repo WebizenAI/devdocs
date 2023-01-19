@@ -1,7 +1,6 @@
 # Biosphere Ontologies
 
 
-
 ![Biosphere Systems from WikiPedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Biosphere_system.png)
 
 The Work on [Biosphere](https://en.wikipedia.org/wiki/Biosphere) Ontologies is interactive with [Currencies](Currencies.md) and in-turn also [Values Credentials](Values%20Credentials.md) and [SafetyProtocols](SafetyProtocols.md).  

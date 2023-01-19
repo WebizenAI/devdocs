@@ -4,13 +4,27 @@ This document is about Permissive Commons Technology - Ontology Modelling. The h
 
 In-order for [[CognitiveAI-WIP]] systems to meaningfully support the notion of 'common sense', semantic web related ontology technology is sought to be advanced.  In-turn, the objective is to seek to address a number of underlying issues that are considered to be problems with it.
 
+#### QuickLinks
+
+- [[OntologyModelling]] - general introductory notes
+- [[PCTWebizenUseOfOntology]] - info about the applied use of ontology
+- [[LanguageModelling]] - general notes about language modelling
+- [[EnglishLanguageModelling]] - specifically about english (NLP) ontology modelling
+- [[BiosphereOntologies]] - (tbd better: needs top-level ontology)
+- [[SocioSphereOntologies]] - (tbd better: needs top-level & BiosphereOntology)
+
 #### Webizen Diagram: A Basic UseCase Illustration
+
 
 ![[webizen_diagram_1-2.jpg]]
 
-The above diagram was produced as part of the process of seeking to get some sort of grasp on how to address the [[GuardianshipRelations]] problems. Part of the purpose of the illustration, is to denote the difference between a persons 'private and personal' [inforg](https://en.wikipedia.org/wiki/Inforg) (seeAlso: [[TheSemanticInforg&TheHumanCentricWeb — RealityCheckTech]]) and the resources that are electronically supplied as a consequence of social involvement with others.
+The above diagram was produced as part of the process of seeking to get some sort of grasp on how to address the [[GuardianshipRelations]] problems. 
 
-This is intended to be empowered via [[ValuesCredentials]] which in-turn require core ontologies; that are sought to be delivered using the PCT ecosystems.  
+Further details about the applied usecases are described: [[PCTWebizenUseOfOntology]]
+
+Part of the purpose of the illustration, is to denote the difference between a persons 'private and personal' [inforg](https://en.wikipedia.org/wiki/Inforg) (seeAlso: [[The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech.]]) and the resources that are electronically supplied as a consequence of social involvement with others.
+
+This is intended to be empowered via [[Values Credentials]] which in-turn require core ontologies; that are sought to be delivered using the PCT ecosystems.  
 
 Thereafter; the effect of these components, are intended to support the private operation of 'Webizen' (Agents). 
 
@@ -18,6 +32,17 @@ Thereafter; the effect of these components, are intended to support the private 
 
 ***The objective for now, is to define the requirements to establish a functional [[Webizen]] ecosystem that is then able to be used to further progress the works, upon a common set of principals and technology that supports those socio-economic and technological foundations*** 
 
+#### Technical Requirements
+
+The solution that can work, shouldn't consume more than 128MB or at most 1GB of RAM, depending on how the graph model may be processing - complex graphs; which should require upto 2GB RAM to operate in a basic way.  The use of GPU Processing may be employed, but shouldn't be required for whatever the basic solution is. Some GPUs do not have tensor cores whilst others may not support cuda or similar.  Conversely, in future implementations - the use of Neuromorphic Processors is being considered, and perhaps there are significantly beneficial applications for the use of these sorts of hardware components to expressly support the way these fundamental processes are processed. 
+
+The complexity of the model will in-turn have various repercussions on performance and resource requirements.  The language model should also be designed to support voice interaction (ie: VoiceToText, and TextToVoice); which in-turn means it should support phonetic analysis. 
+
+The language model should be able to work offline; the solution should not require continual communications with a public (cloud) API.   
+
+Perhaps moreover - the difference between 'NLP' and what this process is seeking to achieve, is that the software is not seeking to create an archive of the knowledge of human kind that is available to an AI agent to turn into one massive AI 'language model'; rather, what i'm seeking to achieve is the development of a very well defined vocabulary model, that can support the development of database structures, AI and therein - ontologies & interfaces.
+
+In-order to scope the broad notional concept; there's a question about whether to slim it down or first work to define a 'gold plated' model ie: *all the qualities that one might wish for if computing resources for all users wasn't a problem...*  and thereafter, seek to slim it down as required?  
 
 ## Problem Statement
 

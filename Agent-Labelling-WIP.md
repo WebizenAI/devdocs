@@ -1,4 +1,8 @@
-This is a continuation of the [[AgentLabelling]] note provided in the section about [[SafetyProtocols]].
+This document is a continuation of the [[AgentLabelling]] note provided in the section about [[SafetyProtocols]].  Whilst the webizen systems will address these sorts of issues as part of those broader [[SafetyProtocols]], it is somewhat obvious that forming an approach to the fairly old issue, more broadly, of the importance of providing information about the agent responsible for content associated with (electronic) communiations is becoming increasingly important.  As such, this note was initially drafted as i thought about whether or not a W3C Community Group or similar might be established to consider how an ecosystems solution that is more broadly applicable, might be forged.
+
+Yet, my concern is that doing that work would be both unpaid and take my time away from doing this work on producing the [[WebizenTechStack]] that innately seeks to address the underlying problems in anycase; therein, the difference between seeking to do good, and seeking to engage in activities that might result in positive outcomes for others; but in a way that doesn't consider the various implications otherwise considered in the production of the [[Webizen]] and [[PermissiveCommons]] ecosystem outcomes; which are only able to be brought about, if i maintain my focus on seeking to bring it about.
+
+As such; see some notes below, which will in-turn end-up being part of what is defined in the webizen ecosystems, and perhaps if others think they're useful, may end-up being taken-on by others and/or turned into web standards at some later time.  
 
 ​I'm thinking that there should be some w3c works done on defining a method for agent labelling.  I'm not sure if that might be something that this CG could get stuck into, or whether it is an objective body of work that might be better done elsewhere (either a different W3C CG or a different venue).  
 

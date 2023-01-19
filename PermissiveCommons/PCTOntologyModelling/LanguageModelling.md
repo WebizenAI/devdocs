@@ -1,5 +1,10 @@
 # The Role of Vocabulary
 
+
+![[20230119_webizenDBDiagram1.jpg]]
+
+The Diagram above make an attempt to provide basic summary overview of how ontologies (vocabulary / languages) are used by these systems to define 'semantics'.
+
 #### Human Users
 
 The focus for Human Users presently is English (focus therein - AustralianEnglish, as well as other examples of it) as that's the only natural spoken / written language i am competent in.  Phonetics, tonality and other factors play a role with spoken speech; punctuation and grammar plays a role with written natural language alongside spelling.
