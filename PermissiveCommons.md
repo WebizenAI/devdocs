@@ -1,15 +1,22 @@
 # Permissive Commons
 
-Permissive Commons is in-fact similar to the [DecentralisedOntologies](WebizenTechStack/CoreServices/DecentralisedOntologies.md) however the scope of 'hyper-media' assets is broader than simply any RDF based assets; and the two are interoperable.
+I have found that i've had challenges trying to figure out how to best structure the documentation for [[PermissiveCommonsTech]] ("PCT") primarily because, there are many complex considerations that need to be illustrated both in-terms of the applied use of the technology as an instrumental sub-system for the [[Webizen]] Tech-Stack; whilst also considerate of the desirable implication and/or outcome, that these systems may well be used independently to other Webizen Technology related Ecosystems.  In-turn there are various considerations related to the notes broadly made via the [[SocialFactors]] folder; but also, and in-particular therein, various deliberations related to [[WebScience]] methodologies.   There are many, many technical factors involved, yet the purpose of these considerations are fundamentally social, or moreover related to the useful purpose of [[BiosphereOntologies]] and in-turn [[SocioSphereOntologies]] being empowered to deliver useful insights that show how the consequential [[EnergyCalcs]] and [[ESG]] metrics (inc. [[SDGs]] ) perform much better via these systems, than alternatives; and in circumstances where that is not the case, offer the information needed to address it.
 
-The Permissive Commons concept is like an advancement of 'open-data', whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.
+The foundational notions of Permissive Commons were born due to the design requirements considered - now many years ago - in relation to the management of Ontologies, which thereby brought about the notion of [[DecentralisedOntologies]] however the applied employment of these components becomes a critical service to all other parts.  
+
+Beyond [[OntologyModelling]], the scope of 'hyper-media' assets is broader than simply any RDF based assets, and the two are interoperable.  
+
+The Permissive Commons concept is like an advancement of 'open-data' (see: [[WhatIsOpenData]]), whilst adding more functionality as a consequence of the ability to use permission structures in relation to assets.
 
 Permissive Commons related documents;
 - [[PermissiveCommonsTech]]
 - [[OpenDatav3.0PermissiveCommons]]
 - [[TechforPermissiveCommons]]
 
-There are a few different 'usecases' relating to the use of 'permissive commons'. 
+There are a few different 'usecases' relating to the use of 'permissive commons'.  The applied definition of 'commons' is also described by [[WhatAreTheCommons]].  
+
+The sub-folders and notes are strongly related to the work to produce an implementation of the webizen ecosystem, which is moreover the intended purpose of this documentation.
+
 
 **The Public Commons**
 The first is what would generally be considered 'open data' or information / artifacts of knowledge that pertain to and/or are counterparts to the essential knowledge artifacts required to support human rights.  

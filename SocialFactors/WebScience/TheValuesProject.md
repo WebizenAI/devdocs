@@ -105,7 +105,7 @@ The specification goals seek to outline what it is that the design is attempting
 
 There’s a few components to it.
 
-1.  The way in which the ‘[[Ontologies]]’ are handled generally.
+1.  The way in which the ‘[[SemWebOntologies]]’ are handled generally.
 	a. [[UnderstandingOntologies]] provides general 'non-technical' information.  
       
 2.  Ideally, the moral owners of the ‘[[Values Credentials]]’ would be stewards of those instruments, versions of them, etc.  

@@ -1,6 +1,6 @@
 # Non-HTTP(s) Protocols
 
-Non-HTTP(s) Protocols are helpful for [DecentralisedOntologies](WebizenTechStack/CoreServices/DecentralisedOntologies.md), [PermissiveCommons](PermissiveCommons.md), [VerifiableClaims&Credentials](VerifiableClaims&Credentials.md) and in-turn also support for various forms of [Currencies](Currencies.md) (including Micro-Payments), although not exclusively.
+Non-HTTP(s) Protocols are helpful for [[DecentralisedOntologies]], [PermissiveCommons](PermissiveCommons.md), [VerifiableClaims&Credentials](VerifiableClaims&Credentials.md) and in-turn also support for various forms of [Currencies](Currencies.md) (including Micro-Payments), although not exclusively.
 
 A List of examples and candidates include; but are not exclusive to,
 

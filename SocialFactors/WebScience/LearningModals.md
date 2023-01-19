@@ -1,6 +1,6 @@
 # Learning Modals
 
-## What is Learning?
+## How to define Learning?
 
 Learning is the process of acquiring new knowledge, skills, behaviors, or attitudes through experience, study, or training. Learning can take place in a variety of contexts, including in formal educational settings, such as schools or universities, or informally, through life experiences or self-directed study.
 
@@ -40,5 +40,5 @@ In a similar yet different area; a person may be charged with the responsibility
 
 So the learning modals, seek to support sense-making to more rapidly produce contextually useful insights and related links that support a means to process the circumstances of a persons learning and seek to mitigate risks of events that may lead to disputes and/or [[SocialAttackVectors]] that may negatively impact a legal entities [[ESG]] and/or insurability status.
 
-Additionally, the objective is to produce systems that can provide categorised qualification  [[Ontologies]] and [[TemporalSemantics]] that is in-turn intended to support [[CognitiveAI]] processes (noting the importance of: [[HumanCentricDigitalIdentity]] ) and thereby providing support for [[VerifiableClaims&Credentials]] in relation to this field of [[WebScience]] and its means to address various [[SocialFactors]].
+Additionally, the objective is to produce systems that can provide categorised qualification  [[SemWebOntologies]] and [[TemporalSemantics]] that is in-turn intended to support [[CognitiveAI]] processes (noting the importance of: [[HumanCentricDigitalIdentity]] ) and thereby providing support for [[VerifiableClaims&Credentials]] in relation to this field of [[WebScience]] and its means to address various [[SocialFactors]].
 

@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
+                "file": "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef9a0bd41c0c097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e50a8a0fc3b0e0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/StrategicHarms/TheSecret.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "418a21d611e80fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/DeepFakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbc998ee9e9c4cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/SDGs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "101016b1a3d04599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/CyberAttackVectors/DeepFakes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ontology",
+                "query": "\"Values Credentials\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
+                "file": "PermissiveCommons/SDGs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md",
+                "file": "PermissiveCommons/SDGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PermissiveCommonsTech/PCTWorkInProgress/DIDsEval.md"
+                "file": "PermissiveCommons/SDGs.md"
               }
             }
           }
@@ -146,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57427290d6468806",
+  "active": "6dbc998ee9e9c4cc",
   "lastOpenFiles": [
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/Ontologies.md",
-    "PermissiveCommonsTech/Requirements/PCTOntologyModelling.md",
-    "WebizenTechStack/CoreServices/Non-HTTP(s)Protocols/DAT.md",
-    "WebizenTechStack/EngineeringConsiderations/DatabaseRequirements/DatabaseMethods/Sparql.md",
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/SparqlFamily.md",
-    "WebizenTechStack/CoreTechnologies/SemanticWeb/Ontologies/FOAF.md",
-    "SocialFactors/WebScience/PermissiveCommons.md",
-    "SocialFactors/WebScience/SafetyProtocols/EndingDigitalSlavery.md",
-    "PermissiveCommonsTech/PCTWorkInProgress.md",
-    "WorkInProgress.md"
+    "PermissiveCommons/OntologyAppDev.md",
+    "PermissiveCommons.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTEngineeringConsiderations/EnergyConsumption.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTEngineeringConsiderations/CryptographicSignatures.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCT-Core-Services/HumanCentricOntology.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCT-Core-Services/DecentralisedOntologies.md",
+    "PermissiveCommons/OLD_DecentralisedOntologies.md",
+    "WorkInProgress.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTREADME.md",
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/SemWebOntologies.md"
   ]
 }

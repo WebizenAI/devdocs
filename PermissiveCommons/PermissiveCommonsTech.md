@@ -42,7 +42,7 @@ The concept of 'commons' basically refers to some kind of 'group'.  It could ref
 
 Another form of permissive commons may be an array of information about biosphere related things (ie: like wikipedia related assets) or machine learning models; or indeed also, works that relate to a group project, that leads to an ability to support different sorts of business models (note: [[ValueAccountingInitiatives]] ). 
 
-The concept of [[Ontologies]] is fairly important to understand; noting, one of the greatest purposes of Permissive Commons, is to support means to decentralise 'group' ontologies (is is distinct to personal ontologies). 
+The concept of [[SemWebOntologies]] is fairly important to understand; noting, one of the greatest purposes of Permissive Commons, is to support means to decentralise 'group' ontologies (is is distinct to personal ontologies). 
 
 The Development Folder for ontology related work is currently located [here on github](https://github.com/WebCivics/ontologies/tree/2023) 
 

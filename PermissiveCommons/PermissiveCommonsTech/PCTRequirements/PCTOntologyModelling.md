@@ -74,7 +74,7 @@ The [[GuardianshipRelations]] document provides some initial texts in relation t
 
 ## PCT Ontology Modelling Requirements
 
-[[TheValuesProject]] seeks to employ various pre-existing well-known instruments; such as those that have been created via the United Nations and various other internationally well regarded groups and institutions, that are not presently available in an [[SemanticWeb]] based format.  Some information about existing [[Ontologies]] is provided via that link (although, not exhaustively). 
+[[TheValuesProject]] seeks to employ various pre-existing well-known instruments; such as those that have been created via the United Nations and various other internationally well regarded groups and institutions, that are not presently available in an [[SemanticWeb]] based format.  Some information about existing [[SemWebOntologies]] is provided via that link (although, not exhaustively). 
 
 In-order to support the [[SafetyProtocols]] and related ecosystems, some core work on the ontology methods is required; which will in-turn lead to the development of an ecosystem method for [[SocioSphereOntologies]] and [[BiosphereOntologies]] to compliment existing systems that are well defined for `owl:thing` related requirements.
 

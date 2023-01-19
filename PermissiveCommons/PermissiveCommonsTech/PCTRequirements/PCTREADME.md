@@ -50,7 +50,7 @@ The methodology seeks to make use of [[SemanticWeb]] technologies whilst appendi
 ### Initial Usecases
 
 The initial use-cases that are sought to be rendered at least some basic level of support; includes the ability to,
-- Define and Make Available [[WebizenTechStack/CoreServices/DecentralisedOntologies]].
+- Define and Make Available [[DecentralisedOntologies]].
 - Support Agreements (contract law) to be employed socially
 - Support the development of Projects and related requirements.
 - Provide a method to store and make use of 'commons' artifacts using PCT.
@@ -89,7 +89,7 @@ INDEX
 6. [[WorkInProgress]]: provides information about whatever is currently 'work in progress' and/or any information about progress that has already been made.
 
 ### Ontology Modelling
-The ontology modelling process is trying to address various requirements for [[WebizenTechStack/CoreServices/DecentralisedOntologies]], [[PCTTemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[ValuesCredentials]].
+The ontology modelling process is trying to address various requirements for [[DecentralisedOntologies]], [[PCTTemporalSemantics]] and [[PermissiveCommons]] which will in-turn support both the [[SafetyProtocols]] as well as the [[ValuesCredentials]].
 
 Much of the ontology work is in the [Web Civics - Ontologies 2023](https://github.com/WebCivics/ontologies/tree/2023) github folder / project. Some use of [Chat AI](https://chat.openai.com/) has been employed, that has helped a great deal in some ways; whilst also problematic.  
 

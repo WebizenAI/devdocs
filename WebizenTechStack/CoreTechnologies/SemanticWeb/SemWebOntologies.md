@@ -5,10 +5,10 @@ The Development Folder for ontology related work is currently located [here on g
 
 The Objective is to work to ensure the ontologies refer to working URIs.  Some new ontology work may thereby be required, with the appropriate work to define the relations with pre-existing / historical ontologies / URIs.
 
-Part of what is sought to be achieved, is to decentralise the storage of URIs on protocols that are less suceptable to dead-links via [DecentralisedOntologies](WebizenTechStack/CoreServices/DecentralisedOntologies.md) efforts, which is in-turn part of the [PermissiveCommons](PermissiveCommons.md) objectives more broadly.
+Part of what is sought to be achieved, is to decentralise the storage of URIs on protocols that are less suceptable to dead-links via [[DecentralisedOntologies]] efforts, which is in-turn part of the [PermissiveCommons](PermissiveCommons.md) objectives more broadly.
 
 CORE Semantic Web Ontologies include;
-- [FOAF](WebizenTechStack/CoreTechnologies/SemanticWeb/Ontologies/FOAF.md)
+- [FOAF](FOAF.md)
 - [RDFS](RDFS.md)
 - [OWL](OWL.md)
 - [SOIC](SOIC.md)

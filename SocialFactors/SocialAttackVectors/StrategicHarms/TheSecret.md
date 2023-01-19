@@ -1,0 +1,23 @@
+# "The Secret"
+
+The concept of 'the secret' refers to circumstances where an allegation or statement is made by an agent in a manner that is not made known to the primary target of the statement; that is intended to elicit or invoke a behaviour that is harmful to the target and thereby/thereafter untrue or malignantly illustrated in a wrongful manner.   
+
+Issues related to this form of attack includes; Denial of [Natural Justice](https://en.wikipedia.org/wiki/Natural_justice), [[Torts]] and implications whereby persons may be coopted to support any other [[SocialAttackVectors]] in a manner that seeks to strategically ensure that the target is unaware of the problem and is therefore made incapable of being furnished means to address any such problem and the implications of any additional issues that may have been incurred as a consequence of these forms of attack vectors.
+
+Whilst the semantics of who should be considered the primary target is a complex issue; as some may argue that the person being coopted is the primary target, whilst implicitly thereafter - the person that is sought to be maligned by "The Secret" is implicitly also the intended target.  As such, the underlying series of events and related social mechanism result in a 'graph' of events that result in many persons being harmed.
+
+These sorts of attacks are also linked to the [[GuardianshipSemantics]] issues; as bad actors will often target persons who are not best equipped to make proper considerations about the nature of the event, that they are sought to take on - in good faith - as fact.
+
+factors relating to [[TemporalAttacks]] (whilst not exclusively) are of great significance, as the consequence is often a circumstance where various effects of these behaviours render outcomes that may or may not have a means to render [lawful remedy](https://en.wikipedia.org/wiki/Legal_remedy) that is able to repair the harms that have been engendered. The effect of this consideration denotes the reality (physics and sociology, etc) whereby a person who is subjected to wrongs without available lawful remedy and/or ability to be afforded natural justice is obstructed and/or sought to be impaired and made inaccessible; the consequences may have impacts that can never be adequatly responded to by compensation alone. 
+
+There is also an array of complex semantics relating to other temporal factors; which may include, circumstances where a false statement is made - but at the time, unclear, whereas over a period of time the nature of that situation may become clear and/or considered or made known (ie: courts of law, etc.) but that the false statements are maintained either or both in electronic systems that are sought to be lawfully relied upon and/or (interactively) via social agents more broadly.  Therein, the culpability of those involved becomes greater overtime should the matter not be rendered with effect an ability to be triaged and resolved.
+
+The effect of these sorts of problems often relates to [[Dehumanisation]], [[CommercialExploitation]] and in-turn both [[CriminalActivity]] & [[PublicSectorWrongDoings]]. 
+
+A challenge in seeking to address this problem is that there are implications that invoke lawful responsibilities to be made tangibly employed by persons who may have traditionally done otherwise, as such, there are various implications of difficulty and thereafter also - significance; including but not limited to, considerations that are noted in relation to the topic of [[DigitalSlavery]].
+
+## Complexities - Dignity / Privacy
+
+Whilst it is too often the case that the concept of privacy is intentionally misused; as to, for instance, suggest that records about a person are unavailable to that person due to privacy considerations made by an offending entity...  
+
+There are other situations where matters of significance; including but not limited to the human rights of others, cannot be disclosed publically as to support appropriate and proportionate support for providing remedy to any and all social wrongs / attack vector implications; that may disaffect the target of wrong-doings.  Some examples are provided in the [[DigitalSlavery]] notes, yet others may relate to Mental Illness, [[GuardianshipRelations]] and/or professional obligations (ie: confidentiality duties) and various other forms of circumstances.  The design challenge is therefore to seek to ensure that the methodologies that are employed are sensitive to these sorts of issues.

@@ -118,7 +118,7 @@ Lastly, i got ChatGPT to provide a description of what a network tariff is,
 NOTE: the considerations about Network Tarrif associates in-turn also to [[Non-FinancialCurrencies]] and in-particular, working on solutions to address biosphere economics issues.
 
 ### CONSIDERATIONS
-Many of these sorts of payments will apply in different ways and different circumstances, as to create various types of financial models for various purposes that will often become linked together via [[Ontologies]] for generating different kinds of functionally useful insights and documents.  
+Many of these sorts of payments will apply in different ways and different circumstances, as to create various types of financial models for various purposes that will often become linked together via [[SemWebOntologies]] for generating different kinds of functionally useful insights and documents.  
 
 Therein; the ability for a person to perform work activities, whether it be in the form of [[KnowledgeWork]] or [[LabourWork]] requires a person to make an array of payments for things like utilities, rent or mortgages, etc.   This may in-turn be used privately by that person to undertake cost/benefit analysis and other financial management processes; without necessarily sharing that information with others in any way that may be deemed unnecessary.
 

@@ -4,7 +4,7 @@ Below is a list of different problems that are sought to be considered and addre
 
 The objective outcome is to have a specification that is firstly going to be applied for the [[Webizen]] Ecosystem solutions, yet others may take it up and its being designed to support that sort of outcome.
 
-In the webizen systems, there are agents that are designed using 'artificial intelligence' technologies.  These agents use [[SemanticWeb]] technologies - namely, RDF [[Ontologies]], which structures the content in relavent documents and databases in a way that means other systems are able to process that data without needing to produce new APIs (application program interfaces).  Historically, the way these systems have worked is that some groups produce an ontology and then publish it somewhere on the web.  This ontology is then used by other people, processes and systems to structure their electronic documents (databases) so that the information can be consumed by other systems easily. 
+In the webizen systems, there are agents that are designed using 'artificial intelligence' technologies.  These agents use [[SemanticWeb]] technologies - namely, RDF [[SemWebOntologies]], which structures the content in relavent documents and databases in a way that means other systems are able to process that data without needing to produce new APIs (application program interfaces).  Historically, the way these systems have worked is that some groups produce an ontology and then publish it somewhere on the web.  This ontology is then used by other people, processes and systems to structure their electronic documents (databases) so that the information can be consumed by other systems easily. 
 
 These systems have suffered from an array of problems.
 1. The ontologies have either become unavailable on the original location or lost entirely (other than the copies others may have of that document)
@@ -35,7 +35,7 @@ The use of Ai systems in many situations will increasingly be employed in person
 
 In-order to achieve an ability to perform this functionality, the resources need to be locally available to the computing device that is processing the records and related systems. 
 
-In-turn part of the fundamental objective is to [[PermissiveCommonsTech/Requirements/PCT-Core-Services/DecentralisedOntologies]] and other commons, providing a different way to manage electronic information to support human centric AI. 
+In-turn part of the fundamental objective is to [[DecentralisedOntologies]] and other commons, providing a different way to manage electronic information to support human centric AI. 
 
 ## Technical Challenges
 

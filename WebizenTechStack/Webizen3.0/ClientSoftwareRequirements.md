@@ -97,7 +97,7 @@ The RWW functionality basically supported the ability to Read & Write [Linked Da
 > NOTES:
 > *Theoritically, the afore mentioned Virtuoso software could be employed as an alternative to caddy and GOLD.  Yet IMHO / AFAIK; Virtuoso doesn't appear to be as easily advanced to support the growth of the ecosystems via the [[Webizen3.5]] scope of works and beyond.  
 > 
-> Also, there are various additives, such as the use of [[Non-HTTP(s)Protocols]] for [[WebizenTechStack/CoreServices/DecentralisedOntologies]] / [[PermissiveCommonsTech]] and [[Currencies]] alongside [[VerifiableClaims&Credentials]] that are not thought to be easily applied to virtuoso.*  
+> Also, there are various additives, such as the use of [[Non-HTTP(s)Protocols]] for [[DecentralisedOntologies]] / [[PermissiveCommonsTech]] and [[Currencies]] alongside [[VerifiableClaims&Credentials]] that are not thought to be easily applied to virtuoso.*  
 > 
 > *Whilst, other technology pieces were being developed along the way; they were often not able to be successfully integrated. This particularly impacted the ability to produce Credentials, payments (inc. micropayments) and permissive commons related systems / solutions.*
 >  
