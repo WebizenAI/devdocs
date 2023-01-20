@@ -8,7 +8,7 @@ In-order for [[CognitiveAI-WIP]] systems to meaningfully support the notion of '
 
 - [[OntologyModelling]] - general introductory notes
 - [[PCTWebizenUseOfOntology]] - info about the applied use of ontology
-- [[LanguageModelling]] - general notes about language modelling
+- [[VocabularyModelling]] - general notes about language modelling
 - [[EnglishLanguageModelling]] - specifically about english (NLP) ontology modelling
 - [[BiosphereOntologies]] - (tbd better: needs top-level ontology)
 - [[SocioSphereOntologies]] - (tbd better: needs top-level & BiosphereOntology)
@@ -106,7 +106,7 @@ In-order to support the [[SafetyProtocols]] and related ecosystems, some core wo
 Additionally, 
 - well known ontologies such as FOAF are now fairly outdated; 
 - Most reasoning / ontologicial systems are very much centered aruond the use of OWL; which has a top-level predicate defining anything that employs it as a sub-classes of `owl:thing` 
-- Ontologies are currently designed to refer to HTTP-URIs.  By employing [[Non-HTTP(s)Protocols]] a method to define how to support various [[Requirements]] is thereby invoked.
+- Ontologies are currently designed to refer to HTTP-URIs.  By employing [[Non-HTTP(s)Protocols]] a method to define how to support various [[POCAppRequirements]] is thereby invoked.
 - A foundational structure needs to be defined to thereafter built upon; and some consideration is being made about what the most appropriate approach may well be.  
 
 Thereafter, once these considerations are better understood; then, there is an ability to create the ontological structures of those ontology documents, including references to other `.wellknown` ontologies and related intended inferencing models, can be better modelled.  

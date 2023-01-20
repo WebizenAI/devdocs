@@ -1,4 +1,6 @@
-# The Role of Vocabulary
+# Vocabulary Modelling
+
+NOTE:  Related works are located in the [[PCTOntologyModelling]] folder.  This is intended to be more technical, as i'm working on some sort of implementation method.
 
 
 ![[20230119_webizenDBDiagram1.jpg]]

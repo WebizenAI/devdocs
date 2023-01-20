@@ -37,6 +37,8 @@ Systems, that are designed to support acts of violence with legal impunity, due 
 
 In the diagram, produced in 2018, as provided below; the distinction between 'moral responsibility' and 'ethical responsibility' is illustrated. 
 
+![[2018-9TheCollectiveInfoSphere.webp]]
+
 ![[1_iGzdEyUWAzT7TDjU6IUvTQ.webp]]
 
 

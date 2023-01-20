@@ -30,7 +30,7 @@ These include; but are not limited to,
 - Considerations about the sorts of [[SafetyProtocols]] that might be required to provide the support required for disaffected persons to be made able to address those sorts of issues.
 - [[TheValuesProject]] and related [[SocioSphereOntologies]] and [[BiosphereOntologies]] requirements to address [[SustainableDevelopmentGoals(ESG)]] & related [[ESG]] responsibilities.
 
-There is also an array of materials that are intended to support considerations about the [[PermissiveCommonsTech]] [[Requirements]]; including but not limited to,
+There is also an array of materials that are intended to support considerations about the [[PermissiveCommonsTech]] [[POCAppRequirements]]; including but not limited to,
 
 - [[Business-Cases]]
 - [[EngineeringConsiderations]]
@@ -41,4 +41,4 @@ Which is intended to result in [[Specifications]]
 
 The work is presently being undertaken without funding or resources that would improve the circumstances in which this work is being undertaken.  
 
-The Use-Cases are intended to be developed to both illustrate particular use-cases and a related [[ProblemStatement]] and thereby also, illustrate how the [[PermissiveCommonsTech]] addresses those problems; or, that the problem is an outstanding issue without a known solution as of yet.  Presently, the use-cases are seperated from the [[Requirements]] documents that are in-effect, seeking to form the solutions architecture required to address those needs.
+The Use-Cases are intended to be developed to both illustrate particular use-cases and a related [[ProblemStatement]] and thereby also, illustrate how the [[PermissiveCommonsTech]] addresses those problems; or, that the problem is an outstanding issue without a known solution as of yet.  Presently, the use-cases are seperated from the [[POCAppRequirements]] documents that are in-effect, seeking to form the solutions architecture required to address those needs.

@@ -10,7 +10,7 @@ Part of what is sought to be achieved, is to decentralise the storage of URIs on
 CORE Semantic Web Ontologies include;
 - [FOAF](FOAF.md)
 - [RDFS](RDFS.md)
-- [OWL](OWL.md)
+- [OWL](WebizenTechStack/CoreTechnologies/SemanticWeb/SemWebOntologies/OWL.md)
 - [SOIC](SOIC.md)
 - [SKOS](SKOS.md)
 

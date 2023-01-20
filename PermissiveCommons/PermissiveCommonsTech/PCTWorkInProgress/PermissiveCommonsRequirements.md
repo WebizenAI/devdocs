@@ -2,7 +2,7 @@
 
 ### Summary
 
-Work is being performed to produce a requirements analysis to inform a design approach as required for an implementation.  The process involves defining [[Requirements]], declaring [[ProblemStatement]] and therefore seeking to define [[PermissiveCommonsTech]].
+Work is being performed to produce a requirements analysis to inform a design approach as required for an implementation.  The process involves defining [[POCAppRequirements]], declaring [[ProblemStatement]] and therefore seeking to define [[PermissiveCommonsTech]].
 
 This is a non-trivial process.  There will be different options that will become exposed; some will deliver 'optional features' (MAY / OPTIONAL) others will define 'requirements' (MUST).
 

@@ -44,48 +44,120 @@
             }
           },
           {
-            "id": "9e400a3152760d65",
+            "id": "e135aedbd5ff3012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/BiosphereOntologies.md",
+                "file": "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/KnowledgeModelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6dbc998ee9e9c4cc",
+            "id": "8b7d30ff2f24c199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/PCTWebizenUseOfOntology.md",
+                "file": "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/KnowledgeModelling/GeoTemporalSemantics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c38702cf9d5fa5d7",
+            "id": "97fc822e75703e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/OntologyModelling.md",
+                "file": "WebizenTechStack/DataStoreVaultNotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6401441efa3819ed",
+            "id": "c2f08f14421428c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTEngineeringConsiderations/Protocolindependence.md",
+                "file": "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTSpecifications/PermissiveCommonsCategories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61c65cafcad4f134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/HumanCentricAIEthics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f78f8f123deee528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AppRequirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "747ae5105b325540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/WebizenEngine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaa1673670ab8341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AgentAPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1bf2d04f45aa7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/CoreTechnologies/SemanticWeb/SemWebOntologies/FOAF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dad6ff718e007ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/KnowledgeModelling/AgentOntologyModelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -133,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biosphere",
+                "query": "foaf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/OntologyModelling.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AgentAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/OntologyModelling.md",
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AgentAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PermissiveCommons/PCTOntologyModelling/OntologyModelling.md"
+                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AgentAPI.md"
               }
             }
           }
@@ -232,17 +305,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c38702cf9d5fa5d7",
+  "active": "eaa1673670ab8341",
   "lastOpenFiles": [
-    "PermissiveCommons/PCTOntologyModelling/EnglishLanguageModelling.md",
-    "PermissiveCommons/PCTOntologyModelling/BiosphereOntologies.md",
-    "PermissiveCommons/PCTOntologyModelling/PCTWebizenUseOfOntology.md",
-    "PermissiveCommons/PCTOntologyModelling/NLP.md",
-    "PermissiveCommons/PCTOntologyModelling/OntologyModelling.md",
-    "PermissiveCommons/PCTOntologyModelling.md",
-    "PermissiveCommons/PCTOntologyModelling/LanguageModelling.md",
-    "TheSemanticInforg&TheHumanCentricWeb — RealityCheckTech.md",
-    "SocialFactors/WebScience/ArtificialMinds/CognitiveAI/CognitiveAI-WIP.md",
-    "PermissiveCommons/PermissiveCommonsTech.md"
+    "WebizenTechStack/CoreTechnologies/SemanticWeb/SemWebOntologies/FOAF.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AgentAPI.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/PCT-SocialAPI.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/WebizenEngine.md",
+    "WebizenTechStack/EngineeringConsiderations/DatabaseRequirements.md",
+    "SocialFactors/WebScience/HumanCentricAIEthics.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/BasicWebizenNetworking2.5.md",
+    "WebizenTechStack/DataStoreVaultNotes.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTRequirements/PCTSpecifications/PermissiveCommonsCategories.md",
+    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/AppRequirements.md"
   ]
 }

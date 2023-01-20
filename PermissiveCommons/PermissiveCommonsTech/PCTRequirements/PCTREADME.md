@@ -84,7 +84,7 @@ INDEX
 1. [[PermissiveCommons]]: provides an overview of the broader goals of the project.
 2. [[About]]: Is intended to provide historical information that is generally intended for non-technical people.
 3. [[Use-Cases]]: is intended to provide the business systems related descriptions of various applications, related requirements, considerations and related works.
-4. [[Requirements]]: is intended to be developed as a Requirements Specification, in-effect.
+4. [[POCAppRequirements]]: is intended to be developed as a Requirements Specification, in-effect.
 5. [[ExistingEcosystems]]: provides information about existing solutions and will in-turn support the ability to provide considerations about interopability and pre-existing functionality / methods.  
 6. [[WorkInProgress]]: provides information about whatever is currently 'work in progress' and/or any information about progress that has already been made.
 
