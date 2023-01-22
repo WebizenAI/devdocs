@@ -5,25 +5,24 @@ The AgentAPI (ontology) will interface with the [[HumanCentricOntology]] that wi
 Below is a copy/paste of the [[FOAF]] dialect that is nowtherefore being redefined (as such, the modifications will not reflect FOAF statements.)
 
 
-`<http://xmlns.com/foaf/0.1/>`
+`<http://webizen.org/Agent/0.1/>`
 
 ```
 @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl:  <http://www.w3.org/2002/07/owl#> .
 @prefix vs:  <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
-@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix agent:  <http://webizen.org/Agent/0.1/> .
 @prefix wot:  <http://xmlns.com/wot/0.1/> .
 @prefix dc:  <http://purl.org/dc/elements/1.1/> .
 
 foaf:   rdf:type        owl:Ontology ;
-        dc:title        "Friend of a Friend (FOAF) vocabulary" ;
-        dc:description  "The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language." .
+        dc:title        "Webizen Agent vocabulary" ;
+        dc:description  "The Webizen Agent RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language." .
 ```
 
-The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language.
+The Webizen Agent RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language.
 
-[The original specification](http://xmlns.com/foaf/spec/) is licensed under [CC BY-1.0](http://creativecommons.org/licenses/by/1.0/).
 
 #### Contents
 
@@ -49,13 +48,13 @@ The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and
 
 ## Agent
 
-`foaf:Agent`
+`Agent:Agent`
 
 ```
-foaf:Agent  rdf:type         rdfs:Class ;
+Agent:Agent  rdf:type         rdfs:Class ;
         vs:term_status       "stable" ;
         rdfs:label           "Agent" ;
-        rdfs:comment         "An agent (eg. person, group, software or physical artifact)." ;
+        rdfs:comment         "A Software agent." ;
         rdf:type             owl:Class .
 ```
 
@@ -67,7 +66,7 @@ The Agent class is useful in a few places in FOAF where Person would have been o
 
 `owl:equivalentClass`
 
-- Agent `<http://purl.org/dc/terms/Agent>`
+- Software Agent `<http://purl.org/dc/dcmitype/Software>`
 
 ## Person
 
@@ -88,14 +87,13 @@ The Person class represents people. Something is a Person if it is a person. We 
 
 `rdfs:subClassOf`
 
-- [Agent](#agent) `foaf:Agent`
+- [Agent](#agent) `Agent:Agent`
 
 ### equivalent classes
 
 `owl:equivalentClass`
 
-- Person `<http://schema.org/Person>`
-- Person `<http://www.w3.org/2000/10/swap/pim/contact#Person>`
+- Software Application `<https://schema.org/SoftwareApplication>`
 
 ### disjoint with
 
