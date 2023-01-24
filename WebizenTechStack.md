@@ -24,7 +24,7 @@ This folder contains information about the technology stack being produced as [[
 1. [[AuthenticationFabric]]
 2. [[CoreServices]]
 3. [[CoreTechnologies]]
-4. [[Internet]]
+4. [[InternetStrategy]]
 5. [[Webizen3.0]] ( #HelloWorld )
 6. [[Webizen3.5]] (An Advanced #AiOS )
 7. [[Webizen4.0]] (Webizen #HomeAiOs )

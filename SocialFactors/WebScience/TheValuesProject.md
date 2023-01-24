@@ -22,7 +22,7 @@ USA: one of the best American examples i've found is this 5:45 video presenting 
 
 
 
-Fundamentally - one of the primary objecties in the short-term is to define [[Values Credentials]] as is required to ensure the [[WebizenTechStack]] supports the critical requirements illustrated by various topics relating to [[SocialFactors]] and in-particular, providing means to support the growth of [[CommercialModels]] particularly therein via the [[WorkProject]].
+Fundamentally - one of the primary objecties in the short-term is to define [[ValuesCredentials]] as is required to ensure the [[WebizenTechStack]] supports the critical requirements illustrated by various topics relating to [[SocialFactors]] and in-particular, providing means to support the growth of [[CommercialModels]] particularly therein via the [[WorkProject]].
 
 NOTE ALSO:
 - [[OpenBadges]]
@@ -108,7 +108,7 @@ There’s a few components to it.
 1.  The way in which the ‘[[SemWebOntologies]]’ are handled generally.
 	a. [[UnderstandingOntologies]] provides general 'non-technical' information.  
       
-2.  Ideally, the moral owners of the ‘[[Values Credentials]]’ would be stewards of those instruments, versions of them, etc.  
+2.  Ideally, the moral owners of the ‘[[ValuesCredentials]]’ would be stewards of those instruments, versions of them, etc.  
     
 3.  Presently HTTP Uris are used for ontologies - DLT/DHT ontologies are useful; as such, the objective is to implement [[PermissiveCommons]]. SeeAlso; [[PermissiveCommonsTech]]
     

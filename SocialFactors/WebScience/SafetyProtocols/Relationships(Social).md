@@ -6,7 +6,7 @@ Often, the way 'connections' work online is that the way current relationships a
 
 So these over-simplified systems are susceptable to abuse; in all sorts of different ways, that are consequentially very difficult to manage.   
 
-The principal concept relating to the management of social relationships, is built upon the use of the [Values Credentials](Values%20Credentials.md) and the rules defined are generally (although there are some exceptions that are intended to be supported via other safety protocols) temporally applied; and if / when the rules change; and in-turn also, the circumstances change, then the patterns relating to the discovery, interaction and use of materials associated with the relationship also changes.
+The principal concept relating to the management of social relationships, is built upon the use of the [ValuesCredentials](ValuesCredentials.md) and the rules defined are generally (although there are some exceptions that are intended to be supported via other safety protocols) temporally applied; and if / when the rules change; and in-turn also, the circumstances change, then the patterns relating to the discovery, interaction and use of materials associated with the relationship also changes.
 
 
 #socialfabric #ValuesFrameworks #SafetyProtocols

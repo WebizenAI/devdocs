@@ -3,7 +3,7 @@
 
 ![Biosphere Systems from WikiPedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Biosphere_system.png)
 
-The Work on [Biosphere](https://en.wikipedia.org/wiki/Biosphere) Ontologies is interactive with [Currencies](Currencies.md) and in-turn also [Values Credentials](Values%20Credentials.md) and [SafetyProtocols](SafetyProtocols.md).  
+The Work on [Biosphere](https://en.wikipedia.org/wiki/Biosphere) Ontologies is interactive with [Currencies](Currencies.md) and in-turn also [ValuesCredentials](ValuesCredentials.md) and [SafetyProtocols](SafetyProtocols.md).  
 
 All members of Humanity are part of our biosphere.  Whilst there has been a significant push towards the creation of a 'carbon economy', there are various other factors related to our means to support the development of systems that support rejuvative repercussive effects, in our biosphere.
 

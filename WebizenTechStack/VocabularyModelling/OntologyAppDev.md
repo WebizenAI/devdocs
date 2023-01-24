@@ -2,7 +2,7 @@
 
 The development of an Application to support PCT ontology modelling requires a PCT ontology methods model to firstly be defined.  This is being done as is illustrated via the  [[OntologyModelling]] notes; and this note, is intended to provide an aid to figuring out how those systems should be made able to work from a users point of view.
 
-There is a close relationship between the development of ontologies, and the [[TheValuesProject]] which thereby produces [[Values Credentials]] using ontologies. Applications are developed to make use of ontologies as a native API method. 
+There is a close relationship between the development of ontologies, and the [[TheValuesProject]] which thereby produces [[ValuesCredentials]] using ontologies. Applications are developed to make use of ontologies as a native API method. 
 
 Here's a link for those who want to learn about [[UnderstandingOntologies]].
 

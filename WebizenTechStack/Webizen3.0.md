@@ -29,7 +29,7 @@ If someone does years of unpaid work towards some sort of good objective, the im
 
 In consideration also; there are often '*two (or more) competing realities*' that relate to complex choices.  For example; some may consider that users don't need their own domains, which means i might simply use some of the domains i've established to support the project; but what if i can't afford to provide those services anymore?  does that mean their systems will no-longer work? 
 
-So this concept of seeking to ensure [NoLock-ins](NoLock-ins.md), is in-turn bonded to various other [Values Credentials](Values%20Credentials.md).
+So this concept of seeking to ensure [NoLock-ins](NoLock-ins.md), is in-turn bonded to various other [ValuesCredentials](ValuesCredentials.md).
 
 
 

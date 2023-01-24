@@ -10,7 +10,7 @@ However, cognitive AI also raises ethical and societal concerns, such as the pot
 
 ### UseCases
 
-Some of the initial use-cases for CogAI will include the [[TheValuesProject]] and in-turn therein,  the ability to process a multitude of [[Values Credentials]] and in-turn provide support for Webizen Owners to evaluate whether and/or how an activity may be compliant, compatible and/or promotional of those values or whether and how there may be some sort of conflict.  
+Some of the initial use-cases for CogAI will include the [[TheValuesProject]] and in-turn therein,  the ability to process a multitude of [[ValuesCredentials]] and in-turn provide support for Webizen Owners to evaluate whether and/or how an activity may be compliant, compatible and/or promotional of those values or whether and how there may be some sort of conflict.  
 
 ### Requirements
 There must be an open-standards way to perform these sorts of procedural knowledge representation tasks.  This will in-turn support productivity and reduce and/or clarify risks associated with behaviours and/or activities.

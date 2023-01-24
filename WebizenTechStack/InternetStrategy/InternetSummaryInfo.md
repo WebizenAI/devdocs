@@ -1,4 +1,6 @@
-The Webizen stack is built to use IPv6 whilst being designed to support backwards compatability for IPv4 services.  The Webizen Stack also supports traditional ICANN Domain Name System.  Whilst it is understood that other alternatives are emerging, and that there are serious problems with the consequences of how the existing DNS system has been managed historically, the hope is that these problems will be able to be addressed somehow, rather than investiture in alternatives that may end-up presenting other problems, that have the effect of not providing any material progress.  
+# General Internet Info
+
+This note provides some basic info about how internet works, and is intended for people who aren't necessarily very technical, etc.
 
 ###  [THE ISO MODEL](https://en.wikipedia.org/wiki/OSI_model)  
 The **Open Systems Interconnection model** (**OSI model**) is a [conceptual model](https://en.wikipedia.org/wiki/Conceptual_model "Conceptual model") that 'provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection'.  In the OSI reference model, the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application. 

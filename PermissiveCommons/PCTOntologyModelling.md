@@ -24,7 +24,7 @@ Further details about the applied usecases are described: [[PCTWebizenUseOfOntol
 
 Part of the purpose of the illustration, is to denote the difference between a persons 'private and personal' [inforg](https://en.wikipedia.org/wiki/Inforg) (seeAlso: [[The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech.]]) and the resources that are electronically supplied as a consequence of social involvement with others.
 
-This is intended to be empowered via [[Values Credentials]] which in-turn require core ontologies; that are sought to be delivered using the PCT ecosystems.  
+This is intended to be empowered via [[ValuesCredentials]] which in-turn require core ontologies; that are sought to be delivered using the PCT ecosystems.  
 
 Thereafter; the effect of these components, are intended to support the private operation of 'Webizen' (Agents). 
 

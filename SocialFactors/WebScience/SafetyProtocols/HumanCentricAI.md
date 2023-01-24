@@ -14,6 +14,6 @@ Human-centric AI systems may be designed to support and augment human cognition 
 
 They may also be designed to be more transparent and explainable, so that humans can understand how the AI system is making decisions and take appropriate action based on those decisions.
 
-Human-Centric AI is focused on creating AI systems that are tailored to the needs and goals of humans and that support and augment human cognition and decision-making, yet, the way in which this is achieved via Human Centric Principals, does not undermine our capacity to form a means to maintain support for Human Rights and Responsibilities; which is in-turn instrumental for ensuring support of Democracies, Rule of Law and other [[Values Credentials]] as is otherwise noted as being constituencies of the [[TheValuesProject]].
+Human-Centric AI is focused on creating AI systems that are tailored to the needs and goals of humans and that support and augment human cognition and decision-making, yet, the way in which this is achieved via Human Centric Principals, does not undermine our capacity to form a means to maintain support for Human Rights and Responsibilities; which is in-turn instrumental for ensuring support of Democracies, Rule of Law and other [[ValuesCredentials]] as is otherwise noted as being constituencies of the [[TheValuesProject]].
 
 Here is a Link to the [Human Centric AI - Interest Group on Facebook](https://www.facebook.com/groups/1137273419765842)

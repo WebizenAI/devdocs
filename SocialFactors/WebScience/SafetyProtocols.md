@@ -11,7 +11,7 @@ Safety protocols may relate to providing insights as to whether or not an agent 
 
 Safety protocols can be empoyed at different levels; some will be designed to operate at the systems level, others will be designed to operate in connection to the functionality of an app.
 
-Safety protocols will employ [[Values Credentials]] and [[PermissiveCommonsTech]], alongside other tooling as required to make an environment that is both able to be made highly secure, and simultaniously also - support safety both for the user and others they interact with, based upon the values they decide to be important for themselves, as individuals / groups.   
+Safety protocols will employ [[ValuesCredentials]] and [[PermissiveCommonsTech]], alongside other tooling as required to make an environment that is both able to be made highly secure, and simultaniously also - support safety both for the user and others they interact with, based upon the values they decide to be important for themselves, as individuals / groups.   
 
 ## Defining the Webizen Rules - Safety Protocols
 

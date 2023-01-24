@@ -5,7 +5,7 @@ This document will be developed to provide information about various Engineering
 
 ### Security Architecture
 
-The note about the [[AuthenticationFabric]] provides some insights into one of many tooling ecosystems that are intended to produce a highly secure environment.  similarly also, the point of making a note about [[Internet]].  
+The note about the [[AuthenticationFabric]] provides some insights into one of many tooling ecosystems that are intended to produce a highly secure environment.  similarly also, the point of making a note about [[InternetStrategy]].  
 
 Yet - other issues such as [[Containerisation]] has not been formerally sorted out yet and is amongst the many tasks that need to be done, prior to having a firm grip on the [[Webizen3.0]]  architectural design (software) requirements. 
 

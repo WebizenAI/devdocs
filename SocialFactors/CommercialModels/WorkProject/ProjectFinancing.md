@@ -19,7 +19,7 @@ This is in-turn intended to support a framework that is in-effect, compatible wi
 
 [Fundamental Charter of Christian Ethical Finance](https://github.com/WebizenAI/devdocs/raw/main/Attachments/2015_Fundamental%20Charter%20of%20Christian%20Ethical%20Finance%20-%202015.pdf)
 
-Which is in-turn expected to be compatible with many of the [[Values Credentials]] frameworks.
+Which is in-turn expected to be compatible with many of the [[ValuesCredentials]] frameworks.
 
 ## OpenAI Q & A Notes
 

@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/Basedrive.md",
+                "file": "WebizenTechStack/InternetStrategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d967594ad8c04ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/InternetStrategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webizenid-dns",
+                "query": "values credentials",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/Basedrive.md",
+                "file": "WebizenTechStack/InternetStrategy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/Basedrive.md",
+                "file": "WebizenTechStack/InternetStrategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/Basedrive.md"
+                "file": "WebizenTechStack/InternetStrategy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,17 +208,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce52995e963fc553",
+  "active": "2d967594ad8c04ec",
   "lastOpenFiles": [
-    "SocialFactors/SocioEconomicTechReqs/SupportForHumanAgency.md",
-    "Attachments/basedrive_design_map.png",
+    "WebizenTechStack/InternetStrategy/DNSConsiderations.md",
+    "WebizenTechStack/InternetStrategy.md",
+    "WebizenTechStack/InternetStrategy/ListOfProtocolsISOmodel.md",
+    "WebizenTechStack/InternetStrategy/InternetSummaryInfo.md",
+    "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md",
+    "WebizenTechStack/CoreServices/VerifiableClaims&Credentials.md",
+    "SocialFactors/WebScience/identityModelling.md",
     "old-work-archives/Basedrive.md",
-    "Attachments/basedrive/BaseGames.jpg",
-    "Attachments/Basedrive_interface.png",
-    "old-work-archives/iBank.md",
-    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5.md",
-    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/WebizenHostWebPlatform.md",
-    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5.md",
-    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/EmailMethodsModification.md"
+    "SocialFactors/SocioEconomicTechReqs/SupportForHumanAgency.md",
+    "Attachments/basedrive_design_map.png"
   ]
 }

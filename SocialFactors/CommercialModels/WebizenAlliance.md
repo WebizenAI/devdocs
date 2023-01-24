@@ -1,6 +1,6 @@
 # Webizen Alliance
 
-The [[Webizen]] Alliance is difficult to define prior to sorting out the [Values Credentials](Values%20Credentials.md) frameworks.  as such, the construct of the framework is seeking to be applied upon an ability to have [Webizen3.0Apps](Webizen3.0Apps.md) operating, as to support the requirements needed by alliance members to support the charter.
+The [[Webizen]] Alliance is difficult to define prior to sorting out the [ValuesCredentials](ValuesCredentials.md) frameworks.  as such, the construct of the framework is seeking to be applied upon an ability to have [Webizen3.0Apps](Webizen3.0Apps.md) operating, as to support the requirements needed by alliance members to support the charter.
 
 The [[Webizen3.0]] environment will be used to develop social-protocols to support frameworks relating to the [Centricity](Centricity.md) considerations, as to also support the growth of Webizen as a [CommunityOfPractice](CommunityOfPractice.md) that is designed to support various values frameworks, as part of the underpinnings for how it is those involved are able to work with one another and in-turn also, address disputes and support their own needs to be safe and supported, in ways webizen hopes to provide a means to support in ways that other solutions (whilst technically possible) have failed to provide already.  
 
@@ -69,7 +69,7 @@ As noted; this will require engagement with the ecosystem that will in-turn requ
 
 	These checks will include validation about personal background & professional skills. 
 
--  [[CommunityOfPractice]] Agreements:  [[TheWebizenCharter]] and [[WebizenAlliance]] which will make use of [[TheValuesProject]] derivatives ( [[Values Credentials]] in particular) will cover various considerations; and will need to be held in ‘good standing’ in-order to maintain support arrangements. 
+-  [[CommunityOfPractice]] Agreements:  [[TheWebizenCharter]] and [[WebizenAlliance]] which will make use of [[TheValuesProject]] derivatives ( [[ValuesCredentials]] in particular) will cover various considerations; and will need to be held in ‘good standing’ in-order to maintain support arrangements. 
 
 As is otherwise noted elsewhere, the higher-order objective is to actively support the growth of the [[PeaceInfrastructureProject]]
 

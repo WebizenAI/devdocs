@@ -89,7 +89,7 @@ The use of a more sophistocated database is being considered. The [[akutan]] sol
 
 ##### Desirable Features
 
-It would be better, if apps developed for the webizen ecosystem, provided a networked means to interact with 'Solid' based system users.  This may mean that transformers are required - which are generally required anyway, its just another use-case for how they may be used.  Yet, there's some aspects - that may not already be supported by these other systems that may end-up being required / non-negotable - particularly with respect to the [[Values Credentials]] as there have been SERIOUS problems in the past which the solid community has not resolved (noting - it doesn't appear to be a 'mistake' on the part of those who were directly involved).
+It would be better, if apps developed for the webizen ecosystem, provided a networked means to interact with 'Solid' based system users.  This may mean that transformers are required - which are generally required anyway, its just another use-case for how they may be used.  Yet, there's some aspects - that may not already be supported by these other systems that may end-up being required / non-negotable - particularly with respect to the [[ValuesCredentials]] as there have been SERIOUS problems in the past which the solid community has not resolved (noting - it doesn't appear to be a 'mistake' on the part of those who were directly involved).
 
 
 
