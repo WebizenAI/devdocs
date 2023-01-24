@@ -4,7 +4,7 @@
 
 The basic summary is that it'll be designed to use Tailscale clients, Headscale and the use of caddy server is  considered likely.
 
-The Headscale 
+### The Headscale 
 link: https://github.com/juanfont/headscale
 
 NOTE: From [readme file](https://github.com/juanfont/headscale)
@@ -28,8 +28,15 @@ Caddy is configured using JSON files.  It would be nice to be able to manage thi
 
 Caddy has a method to produce extensions via [modules](https://caddyserver.com/docs/extending-caddy).
 
+### Containerisation
 
-### Questions
+The [[Containerisation]] approach is likely to use docker, although i'm yet to better understand the potential role of kubernetes, how and why it may be supported. 
 
-Should docker and/or kubernetes be supported, if so how.
+
+## General notes
+
+I am working through the [[AuthUseCases]] for the host platform that i've termed the [[Curator]].  Therein, the underlying process firstly is to define the cryptography methods employed at different levels of the technology stack, which can then support work on [[CuratorLogic]] systems.  SeeAlso: [[WebizenDNSNotes]].
+
+
+
 

@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "68511ccdb521ec78",
+        "id": "a68d51900294264d",
         "type": "tabs",
         "children": [
           {
-            "id": "57427290d6468806",
+            "id": "abc9eb9fceccc2d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/HeadScaleImplementation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90127e5da64361cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/Headscale-UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b9460cf996927cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/SolidBasedSystemsFork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38db146eb6392ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/BasicWebizenNetworking2.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffbc43aebe8f4ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/ImplementationProgress2.5/ModdingSolid.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "networking",
+                "query": "define peace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/ImplementationProgress2.5/ModdingSolid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/ImplementationProgress2.5/ModdingSolid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/ImplementationProgress2.5/ModdingSolid.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffbc43aebe8f4ed1",
+  "active": "abc9eb9fceccc2d5",
   "lastOpenFiles": [
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/BasicWebizenNetworking2.5.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenHostWebPlatform.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/SolidBasedSystemsFork.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/HeadScaleImplementation.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/EmailMethodsModification.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/Headscale-UI.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/WebizenID.md",
-    "WebizenTechStack/Webizen3.0/goDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/ImplementationProgress2.5.md"
+    "SocialFactors/WebScience/identityModelling/NISTIDOntology.md",
+    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5/CuratorLogic.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/Manipulation.md",
+    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/PsychologicalAttack.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/Impairment.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/AcademicInstitutionalFunnelling.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/Compromise.md",
+    "SocialFactors/SocialAttackVectors/CyberAttackVectors/MisRepresentation.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/AuthorisedThinkers.md"
   ]
 }

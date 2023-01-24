@@ -1,4 +1,4 @@
-# Webizen 2.5 Dev in GoLang
+# Webizen 2.5 Dev
 
 Whether its 2.5 or 3.0 i'm not sure - the premise of trying to simplify, is influenced by a desire to get to a point where the ability to work with other people on this project, in good faith / fair terms - is supported by usefully functioning software. 
 

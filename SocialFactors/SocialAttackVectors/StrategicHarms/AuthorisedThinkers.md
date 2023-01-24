@@ -1,0 +1,3 @@
+# Authorised Thinkers
+
+The "Authorised Thinker" paradigm often relates to sophistocated actors who engage in whatever activity required to assign someone elses work to be progressed by the 'Authorised Thinkers' who are then delegated to be publically considered the creators and/or inventors of whatever body of work that is sought to be progressed by underlying 'shadow directors'.   These attack vectors often relate also to [[PublicSectorWrongDoings]] and [[CommercialExploitation]].

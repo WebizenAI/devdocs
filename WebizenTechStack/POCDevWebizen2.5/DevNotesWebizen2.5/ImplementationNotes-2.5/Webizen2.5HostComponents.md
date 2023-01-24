@@ -1,12 +1,13 @@
 # Webizen 2.5 Host Components
 
-The Host components require modification.  In some instances these modifications are significant, in others less so.   This document will develop as the implementation work is being done.  For updates see [[ImplementationNotes-2.5]].
+The Host components require modification.  In some instances these modifications are significant, in others less so.  This document will develop as the implementation work is being done.  For updates see [[ImplementationNotes-2.5]].
 
 The components being used currently include,
 
 1. Headscale
 2. Headscale-UI
 3. CaddyServer
+4. Cockpit
 
 Exploration is being done to review which version of the solid-server-node should be modified to convert the way the ecosystem works into a webizen based solution. Additionally, there is work to be done to figure out what the best database approach is. 
 
@@ -22,6 +23,11 @@ The systems should support a [[PermissiveCommonsTech]] implementation.  It is al
 
 ### ALPHA Stage Webizen: Not for Public Use
 This stage of development is not intended to be a 'public release' and there will be alot more that needs to be done prior to being able to support either - early-adopter or public users.  Nonetheless, the code-base will be made public via GitHub, but the license document for the work may not be in place as that requires the completion of [[TheValuesProject]].
+
+## AdminSetup Experience & Related Requirements
+
+1. Get VPS
+2. 
 
 ## User Experience & Related Requirements
 

@@ -7,11 +7,7 @@ The current specification document is located: https://github.com/solid/webid-oi
 
 Considerations are underway about how to manage the URI element (currently using FOAF & WebOfTrust WOT (as is ditinct to WebOfThings)).
 
-
 NOTE Libraries: https://github.com/zitadel/oidc in addition to those mentioned below.
-
-
-
 
 ChatGPT Question: I am reviewing the code for the Go OIDC client library ( https://github.com/coreos/go-oidc ). What are the instructions for modifying this library to support WebID-OIDC?
 

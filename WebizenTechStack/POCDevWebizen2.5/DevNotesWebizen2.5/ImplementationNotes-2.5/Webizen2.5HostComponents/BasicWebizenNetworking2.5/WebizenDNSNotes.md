@@ -37,5 +37,51 @@ Within the [[TailNets]] there is an opportuntity to redefine some of the DNS sys
 
 IF This method were employed; then in-order to ensure that there was no confusion, the  serialisation methods would be best provided using an alternative method, following the specifications provided by the [[WebizenID]] specifications, which at the time of writing this, requires alot more work.  
 
+## IPv6
 
+Re: Digital Ocean, a droplet (VPS) when enabled with IPv6 provides 16 IPv6 addresses. (/124 subnet)
+see: https://docs.digitalocean.com/products/networking/ipv6/
+https://docs.digitalocean.com/products/networking/ipv6/how-to/configure-additional-addresses/
+
+#### IPv6 Subnets & Corrasponding number of Ipv6 Addresses.
+
+Below is a list; noting, the concept generally is that there is a subnet delegates regardless of whether or not the IPs end-up being publically routable. (ie: may be used within the tailnet).  The general consideration is about harmonising the IP tooling and in-turn support employment of IPv6 related security extensions.  
+
+Each user would be delegated a subnet that exceeds their requirements, without unnecessarily wasting IPs.  It is also better to plan to seek to ensure sufficient IPs for future use.  (ie: expansion of IoT devices, etc.).  Subnets should be based upon legal entities (ie: individual or incorporated entity). 
+
+/128 = 1
+/127 = 2
+/126 = 4
+/125 = 8
+/124 = 16
+/123 = 32
+/122 = 64
+/121 = 128
+/120 = 256
+/119 = 512
+/118 = 1,024
+/117 = 2,048
+/116 = 4,096
+/115 = 8,192
+/114 = 16,384
+/113 = 32,768
+/112 = 65,536
+/111 = 131,072 
+/110 = 262,144
+
+
+### DNSSEC
+
+https://www.digitalocean.com/community/tutorials/how-to-setup-dnssec-on-an-authoritative-bind-dns-server-2
+
+### DANE
+
+
+### DNSoverTLS
+
+
+
+NOTES: 
+General presentation on DNSSEC + Lets Encrypt
+https://docs.google.com/presentation/d/13YzUCu5Ilba73P5DwnUP9bjBkXkJVKH8fGn3JAUxxuk/htmlpresent
 
