@@ -6,6 +6,10 @@ These informatics designs are considered essential for [[SafetyProtocols]] and i
 
 The ecosystem assumes will at this stage require a user to own their own domain name.
 
+The Authentication Fabric employs cryptography at various levels of the stack, in an interoperably complimentary manner.  The methods are loosely based upon the WebIDauth methods, although not exclusively; yet there is a significant amount of modification of the WebID methods as defined by the standards documentation; and the creation of a new method ( [[WebizenID-DNS]] ) that isn't otherwise considered (as far as i know).  Whilst interoperability with existing WebID systems is desirable; the desirability is balanced with the requirements to form a secure authentication fabric. Given these methods are not consistant with the WebID methods, the methods are thereby being renamed WebizenID as to ensure that there isn't any confusion, etc. 
+
+Generally speaking, the methods are similar in form; although also, distinct. 
+
 ## Modifying WebID
 
 [[WebID]] was developed sometime ago.  I have some issues with the way its generally implemented, although i'm not entirely sure whether my concerns / deliberations will end-up having merit; or whether i'll end-up reverting; yet fundamentally, its likely that some changes may be positively employed and other considerations found to lack merit.  As such, the work in progress ("WIP") notes will define the modified versions as constituent pieces of the WebizenID implementation components, that are designed to operate as a type of security-fabric. 

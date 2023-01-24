@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The basic summary is that it'll be designed to use Tailscale clients, Headscale and the use of caddy server is  considered likely.
+The basic summary is that it'll be designed to use Tailscale clients, Headscale and the use of caddy server is  considered likely.  Thereafter also, is a requirement to establish the elected methodology for managing users platforms.  Presently, the headscale based solution is designed to support only one domain.  Modifying this to support multiple may be beyond the scope of what is reasonably sought to be achieved for this POC stage.  Therefore, it is likely a better alternative to design an implementation where each domain operator is setup with their own headend solution.  This may be different to the requirements for the [[Curator]] solution. 
 
 ### The Headscale 
 link: https://github.com/juanfont/headscale

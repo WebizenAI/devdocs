@@ -9,6 +9,10 @@ The package is likely to be produced to use Docker / Docker Files.
 TBD = To Be Done
 WIP = Work in Progress
 
+
+The high-level concepts relating to [[WebizenID-DNS]] have been somewhat defined; note also, [[WebizenDNSNotes]].
+
+
 ## Summary of Mods
 
 ### Headscale Mods

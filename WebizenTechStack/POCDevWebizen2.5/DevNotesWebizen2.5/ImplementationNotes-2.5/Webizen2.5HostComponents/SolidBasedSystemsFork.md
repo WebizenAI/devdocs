@@ -4,6 +4,8 @@ I started this document to make notes about the changes, and have then ended-up 
 
 nonetheless - this document is intended to be updated with more practical support about the changes, and i'm now therefore also noting that it needs to be updated to provide more than simply some notes about historical stuff; and a few useful bits and pieces. 
 
+At the moment; I am investigating how the most recent version of the [node solid server](https://github.com/nodeSolidServer/node-solid-server) implementation can be modified.  This is differen to the version currently being developed by [inrupt](https://www.inrupt.com/solid) and different also to the fork produced by one of the key solid contributors sometime ago that he termed [Life Server](https://github.com/interop-alliance/life-server), which appears to focus on the use of Verifiable Credentials (noteAlso: [[DIDsEval]]). Fundamentally, i'm making significant changes to the way the systems work; as such, if i am successful (and the logic of my approach end-up passing the POC tests), then the two systems aren't going to be natively compatible (although the ability for a webizen user to leave the ecosystem and migrate their systems to solid via a [[DataPortability]] solution is considered to be a requirement - notwithstanding, the fact that some functionalty may not be available on the solid based systems and visa versa.)
+ 
 ## Introduction
 
 I've made some Historical Notes below (and elsewhere in the documentation), but have decided to put that info at the end rather than at the top of this note.  The history is important, but something that is hoped to be better understood as a consequence of a useful implementation of something else; which is the purpose of this documentation.

@@ -11,11 +11,64 @@
             "id": "abc9eb9fceccc2d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b8a8a3f1e01efc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/SolidBasedSystemsFork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "683082bdf8d20476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f33434b7a88dfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocioEconomicTechReqs/SupportForHumanAgency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce52995e963fc553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old-work-archives/Basedrive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "define peace",
+                "query": "webizenid-dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "old-work-archives/Basedrive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "old-work-archives/Basedrive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "old-work-archives/Basedrive.md"
+              }
             }
           }
         ]
@@ -138,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abc9eb9fceccc2d5",
+  "active": "ce52995e963fc553",
   "lastOpenFiles": [
-    "SocialFactors/WebScience/identityModelling/NISTIDOntology.md",
-    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5/CuratorLogic.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/Manipulation.md",
+    "SocialFactors/SocioEconomicTechReqs/SupportForHumanAgency.md",
+    "Attachments/basedrive_design_map.png",
+    "old-work-archives/Basedrive.md",
+    "Attachments/basedrive/BaseGames.jpg",
+    "Attachments/Basedrive_interface.png",
+    "old-work-archives/iBank.md",
+    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5.md",
+    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/WebizenHostWebPlatform.md",
     "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/PsychologicalAttack.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/Impairment.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/AcademicInstitutionalFunnelling.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/Compromise.md",
-    "SocialFactors/SocialAttackVectors/CyberAttackVectors/MisRepresentation.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/AuthorisedThinkers.md"
+    "WebizenTechStack/POCDevWebizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/EmailMethodsModification.md"
   ]
 }

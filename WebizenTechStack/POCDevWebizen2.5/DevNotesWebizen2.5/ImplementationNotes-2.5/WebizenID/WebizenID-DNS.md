@@ -8,13 +8,15 @@ The WebizenID-DNS systems will require a DNS record that supports the use of a U
 
 The most likely standard that could apply is the URI DNS [RFC7553](https://www.rfc-editor.org/rfc/rfc7553.html) however that RFC does not make specific note of the use of an RDF URI.
 
-A similar type of concept is employed by the [LetsEnrypt DNS-01 challenge](https://letsencrypt.org/docs/challenge-types/) service, although it makes use of a TXT record which is defined by [RFC1464](https://www.rfc-editor.org/rfc/rfc1464.txt).
+A similar type of concept is employed by the [LetsEnrypt DNS-01 challenge](https://letsencrypt.org/docs/challenge-types/) service, although it makes use of a TXT record which is defined by [RFC1464](https://www.rfc-editor.org/rfc/rfc1464.txt).  
 
-### Relationship to IPv6 Extensions
+### WebizenID-DNS & IPv6 Extensions
 
-IPv6 provides support for [DNS Security Extensions(DNSSEC)](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) and [DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities) which are invaluable for the purpose of securing the relationship with the DNS record provided.
+The method will employ  [DNS Security Extensions(DNSSEC)](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) and [DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities) which are invaluable for the purpose of securing the relationship with the DNS record provided.
 
-Further investigation needs to occur to better comprehend the requirements herein.
+Further investigation is being undertaken to get a better grasp on how else the WebizenID-DNS related records can serve a useful purpose, as part of the broader ecosystem requirements. 
+
+The [[WebizenDNSNotes]] page goes into a bit more detail of the current WIP process that needs to occur to better comprehend the requirements herein.
 
 ### Relationship with TailNets
 
