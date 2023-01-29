@@ -4,7 +4,7 @@ The [[Curator]] is the service orchastrator, given there is a need for one.
 
 Most of the systems use JSON files to define configurations.  There would be various benefits in being able to dynamically update these files via a database. 
 
-need to investigate how a DB like [[BadWolf]] might be used to renders json files. Therein the timestamp functions would be useful for maintaining a log of changes.  Another option is [Dgraph](https://dgraph.io/).
+need to investigate how a DB like [[BadWolf]] might be used to renders json files. Therein the timestamp functions would be useful for maintaining a log of changes.  Another option is [Dgraph](https://dgraph.io/) alongside others... 
 
 ### AUTH logic
 ​
@@ -31,10 +31,8 @@ Therefore foundational crypto library needs to be openssl not certbot.
 Therefore requires SSH access to set-up?  
 
 6. Build network layer. Generate webizen-tls for [[Curator]].
-
-Assume: use CertBot but can also use OpenSSL? 
-
-Public key in webizen.rdf
+- Assume: use CertBot but can also use OpenSSL? 
+- Public key in webizen.rdf
 
 8. Generate [[Curator]] admin accounts (OIDC) & authorised clients.
 

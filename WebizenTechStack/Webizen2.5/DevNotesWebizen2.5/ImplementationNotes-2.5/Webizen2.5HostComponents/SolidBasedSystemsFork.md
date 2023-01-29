@@ -1,8 +1,15 @@
 # Solid / RWW / CrossCloud - Fork
 
+I'm unsure which version to start with.  In many ways, i'd prefer to use the older ones rather than the newer one.  I've done some investigation (per below) about the newer stack - and i'm now going back to review the older work.  
+
+There's some more work to do on the AUTH logic stuff relating to the [[WebizenID]] problem, which will become an important part of deciding which way to go here... 
+
+***nonetheless - recent notes per below;***
+
+
 I started this document to make notes about the changes, and have then ended-up spending more time writing about the history; i guess overall, there's still a great deal of emotion tied up with regard to my involvement in a project over many years.  Innately, there's a bunch of complexities; and i'd prefer not to go into the depths of it. 
 
-nonetheless - this document is intended to be updated with more practical support about the changes, and i'm now therefore also noting that it needs to be updated to provide more than simply some notes about historical stuff; and a few useful bits and pieces. 
+Nonetheless - this document is intended to be updated with more practical support about the changes, and i'm now therefore also noting that it needs to be updated to provide more than simply some notes about historical stuff; and a few useful bits and pieces. 
 
 At the moment; I am investigating how the most recent version of the [node solid server](https://github.com/nodeSolidServer/node-solid-server) implementation can be modified.  This is differen to the version currently being developed by [inrupt](https://www.inrupt.com/solid) and different also to the fork produced by one of the key solid contributors sometime ago that he termed [Life Server](https://github.com/interop-alliance/life-server), which appears to focus on the use of Verifiable Credentials (noteAlso: [[DIDsEval]]). Fundamentally, i'm making significant changes to the way the systems work; as such, if i am successful (and the logic of my approach end-up passing the POC tests), then the two systems aren't going to be natively compatible (although the ability for a webizen user to leave the ecosystem and migrate their systems to solid via a [[DataPortability]] solution is considered to be a requirement - notwithstanding, the fact that some functionalty may not be available on the solid based systems and visa versa.)
  

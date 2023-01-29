@@ -34,11 +34,27 @@ An integration between Headscale-UI and the modified version of a Node-Solid-Ser
 
 This integration will seek to create a docker Image that somewhat automates the installation process.  
 
+## Server Administration
+
+There's two fields of issues, the first is [[WebizenAllianceHostProviders]] managing the server themselves which will then involve the management of multiple accounts and VPSs, etc.  Then the second requirement is to support the needs of [[Webizen]] owners.
+
+These [[Webizen2.5]] works are not intended to be exhaustive; meaning, the goal is to get something that works well enough, to develop upon - without making significant changes to the foundational logic; save circumstances where it is noted that there's changes required that haven't been done due to lack of skills or newly identified issues, etc.   or failed logic - stuff, that just doesn't practically work...  
+
+Some Tools;
+
+Note:  [[MailServerLogic]] and therein the mailserver package [maddy](https://github.com/foxcpp/maddy).  the broader considerations about how the mail server is sought to be made to work will be in the afore mentioned [[MailServerLogic]] note. 
+
+Note also: [[WebizenDNSNotes]] and  [[WebizenID-DNS]] which provides some initial information about the intended DNS requirements.
+
+Tools:
+
 ### Cockpit
 Server Management Engine [Cockpit](https://cockpit-project.org/)
 Cockpit is a web-based graphical interface for servers.
 
-
+### Gpanel
+A web-hosting control panel written in Go.
+https://github.com/kentonh/gPanel
 
 
 

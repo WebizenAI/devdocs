@@ -9,7 +9,19 @@ When a web-service is established for a legal entity, the service requires a mea
 
 The objective purpose of this method is to establish a process whereby the account owner establishes an account using their own top-level domain.  This domain is then required to either establish a DNS record on their existing NameServer or migrate the domain to the Webizen Host Services Name-Server where a DNS record will then be applied.  In either case; the domain is registered and owned by someone, as is part of the process that is required in relation to the practice of registering a domain-name.
 
-### DomainMapping (tailnets)
+### DomainMapping 
+
+#### TLD Mapping
+Defining the general defaults for domain map.  ie: [var].mydomain.tld
+
+www.* Public Website.  HTTP/HTTPS Endpoint on the public net
+mail.* Mailserver
+ts.* internal network (tailscale)
+admin.* admin interface (better to call it something other than admin)
+
+
+
+### tailnets
 
 Within the [[TailNets]] a FQDN (See: [WikiPedia: Fully Qualified Domain Name](https://en.wikipedia.org/wiki/Fully_qualified_domain_name)) is provided; which is essential for HTTP(s) services, yet the domain-name address used for each system that is operating an active node will need to be different.  As such, there is a question about how mapping might be best applied.  In these systems, users are expected to register / rent their own domain name (in future, maybe buy/own).  This is part of the ecosystem method as described in the notes about [[WebizenID-DNS]], but the names wont be the same within the tail-net - although, they could be subdomains. 
 
