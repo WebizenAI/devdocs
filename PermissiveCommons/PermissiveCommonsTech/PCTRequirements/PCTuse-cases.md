@@ -22,23 +22,22 @@ Source: [WikiPedia](https://en.wikipedia.org/wiki/Use_case)
 
 ### Description & Purpose
 
-Within this body of documentation works, there are various constituency related considerations associated with the [[ProblemStatement]]. 
+Within this body of documentation works, there are various constituency related considerations associated with the [[PCTProblemStatement]]. 
 
 These include; but are not limited to,
 
 - Considerations about [[SocialAttackVectors]] and [[CyberAttackVectors]]
 - Considerations about the sorts of [[SafetyProtocols]] that might be required to provide the support required for disaffected persons to be made able to address those sorts of issues.
-- [[TheValuesProject]] and related [[SocioSphereOntologies]] and [[BiosphereOntologies]] requirements to address [[SustainableDevelopmentGoals(ESG)]] & related [[ESG]] responsibilities.
+- [[TheValuesProject]] and related [[SocioSphereOntologies]] and [[BiosphereOntologies]] requirements to address [[SDGs]] & related [[ESG]] responsibilities.
 
 There is also an array of materials that are intended to support considerations about the [[PermissiveCommonsTech]] [[POCAppRequirements]]; including but not limited to,
 
-- [[Business-Cases]]
 - [[EngineeringConsiderations]]
 - [[PCT-Core-Services]]
-- [[Peace Infrastructure Project Requirements]]
+- [[PCT_PeaceInfrastructureProjectRequirements]]
 
-Which is intended to result in [[Specifications]]
+Which is intended to result in [[PCTSpecifications]]
 
 The work is presently being undertaken without funding or resources that would improve the circumstances in which this work is being undertaken.  
 
-The Use-Cases are intended to be developed to both illustrate particular use-cases and a related [[ProblemStatement]] and thereby also, illustrate how the [[PermissiveCommonsTech]] addresses those problems; or, that the problem is an outstanding issue without a known solution as of yet.  Presently, the use-cases are seperated from the [[POCAppRequirements]] documents that are in-effect, seeking to form the solutions architecture required to address those needs.
+The Use-Cases are intended to be developed to both illustrate particular use-cases and a related [[PCTProblemStatement]] and thereby also, illustrate how the [[PermissiveCommonsTech]] addresses those problems; or, that the problem is an outstanding issue without a known solution as of yet.  Presently, the use-cases are seperated from the [[POCAppRequirements]] documents that are in-effect, seeking to form the solutions architecture required to address those needs.

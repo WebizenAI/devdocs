@@ -1,5 +1,7 @@
 # Peace Infrastructure Project
 
+[[AboutThePeaceInfrastructureProject]]
+
 The Peace Infrastructure Project is a far broader concept, that is about the purpose of these works and the intended application of the technology works produced via the webizen project, [[WebizenAlliance]] and in-turn also Web Civics & Trust Factory related concepts; to have the effect, of producing Knowledge Technology, or an uplift of 'Information Communications Technology' (ICT) in a particular way, as to support a radical uplift in capacity to use it to support Peace, and in-turn also, rapid advancement in our capacity to produce real-world Peace Infrastructure internationally.  
 
 Recently, i have been producing a library of materials that are presently only able to be somewhat easily collated via a [Google Drive Folder (see link)](https://drive.google.com/drive/folders/1tYFIggw8MIY5fD2u-nbwFRM6wqrhdmQZ) which in-turn provides some insights about the broad-ranging issues that threaten our ability to maintain and support improvements, in the interests of growing circumstances as does relate to the experiences of persons - to be experiencing life in a manner that is compatible with the concept of peace.

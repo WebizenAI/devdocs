@@ -26,7 +26,7 @@ The process of producing the documentation; will include output to address,
 4. Creating an Architectural Strategy for implementing Permissive Commons Ontologies.
 	a. Functionality Objectives
 	b. Comparison of [[Non-HTTP(s)Protocols]] for the purpose of PCT Ontologies.
-	c. Evaluation of candidate approaches in relation to [[Use-Cases]].
+	c. Evaluation of candidate approaches in relation to usecases.
 	
 5. The Application of PCT-Ontologies via Webizen Ecosystems.
    

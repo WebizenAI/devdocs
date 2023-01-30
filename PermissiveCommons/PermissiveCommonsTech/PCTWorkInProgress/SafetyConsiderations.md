@@ -4,7 +4,7 @@ The intended purpose of these works is to produce technology that supportively e
 
 Yet, 
 
-There are an array of safety considerations that are being considered via the [[Webizen]] project and in-turn the  [[PCT-WebizenTechStack]] that have the effect of attending to the issues identified and considered via that process.  There is some concern about circumstances where PCT may be used without the webizen tooling, in a manner that may be harmful or form negative impacts in relation to the issues noted by the [[SocialFactors]] documents.
+There are an array of safety considerations that are being considered via the [[SocialFactors/CommercialModels/Webizen]] project and in-turn the  [[Webizen]] that have the effect of attending to the issues identified and considered via that process.  There is some concern about circumstances where PCT may be used without the webizen tooling, in a manner that may be harmful or form negative impacts in relation to the issues noted by the [[SocialFactors]] documents.
 
 It should also be noted; that whilst i am cognizant of various issues that may lead to unintended and/or bad outcomes; many of these considerations relate to outcomes that may still be better than what otherwise occurs without PCT.  
 

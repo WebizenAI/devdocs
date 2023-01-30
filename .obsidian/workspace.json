@@ -13,146 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5.md",
+                "file": "GuideForDevelopers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b8a8a3f1e01efc1",
+            "id": "17f025706ff4dcd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/SolidBasedSystemsFork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "683082bdf8d20476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/ImplementationProgress2.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f33434b7a88dfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/SocioEconomicTechReqs/SupportForHumanAgency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1fe48588acc16e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/CommercialModels/WebizenAlliance/WebizenAllianceHostProviders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce52995e963fc553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/InternetStrategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d967594ad8c04ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/CuratorLogic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99442d2a4b6865c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/AUTHLogic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01114dc71fb53959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/WebizenHostWebPlatform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f1f0eeca666578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9142330a3336fbdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5/WebizenDNSNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa349bb5b7243986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/AgentLogic.md",
+                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "peace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md",
+                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md",
+                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md"
+                "file": "WebizenTechStack/Webize/BeakerBrowser.md"
               }
             }
           }
@@ -279,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f1f0eeca666578",
+  "active": "17f025706ff4dcd6",
   "lastOpenFiles": [
-    "Attachments/Answers_meme.jpg",
-    "PermissiveCommons/PCTOntologyModelling/PCTWebizenUseOfOntology.md",
-    "PermissiveCommons/PCTOntologyModelling.md",
-    "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/KnowledgeModelling.md",
-    "old-work-archives/LinkedInArticles/ReinventingTheKindnessEquation.md",
-    "old-work-archives/WebCivicsMediumPosts/2019/WoTSmartCitiesEngineeringDigitalTwinThings&Ecosystems.md",
-    "old-work-archives/WebCivicsMediumPosts/2019/Building a safe environment for Kids to thrive with their ‘Digital Twin’.md",
-    "SocialFactors/SocialAttackVectors/StrategicHarms/Reversal.md",
-    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/WebizenHostWebPlatform.md",
-    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/BasicWebizenNetworking2.5/WebizenDNSNotes.md"
+    "GuideForDevelopers.md",
+    "WebizenTechStack/Webize/BeakerBrowser.md",
+    "DocumentationMethod.md",
+    "SocialFactors/CommercialModels/Webizen.md",
+    "SocialFactors/CommercialModels/WorkProject.md",
+    "PermissiveCommons/PermissiveCommonsTech/WhatAreTheCommons.md",
+    "SocialFactors/CommercialModels/WebizenAlliance/WebizenAllianceHostProviders.md",
+    "SocialFactors/CommercialModels/WebizenAlliance.md",
+    "SocialFactors/CommercialModels/TrustFactory.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/SafetyConsiderations.md"
   ]
 }

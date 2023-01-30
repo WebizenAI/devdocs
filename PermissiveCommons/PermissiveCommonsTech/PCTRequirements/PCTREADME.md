@@ -67,7 +67,7 @@ There is also a [Peace Infrastructure Project Group on LinkedIn](https://www.lin
 
 > *Indeed to some-extent, its hoped that the Webizen Systems will be up and running soon, which will have the effect of streamlining how to engage with topics - yet - to achieve this objective, the permissive commons technology work needs to be done to support it.*
 > 
-> *This project, is basically a type of work that is a form of [[WhatIsWebScience]] related fields of expertise, as it requires a multidisciplinary approach to incorporate considerations and expertise from various minds / souls...*
+> *This project, is basically a type of work that is a form of [[WebScience]] related fields of expertise, as it requires a multidisciplinary approach to incorporate considerations and expertise from various minds / souls...*
 
 
 #### Background Notes
@@ -83,9 +83,9 @@ INDEX
 
 1. [[PermissiveCommons]]: provides an overview of the broader goals of the project.
 2. [[About]]: Is intended to provide historical information that is generally intended for non-technical people.
-3. [[Use-Cases]]: is intended to provide the business systems related descriptions of various applications, related requirements, considerations and related works.
+3. UseCases: haven't been regenerated yet, but will intended to provide the business systems related descriptions of various applications, related requirements, considerations and related works.
 4. [[POCAppRequirements]]: is intended to be developed as a Requirements Specification, in-effect.
-5. [[ExistingEcosystems]]: provides information about existing solutions and will in-turn support the ability to provide considerations about interopability and pre-existing functionality / methods.  
+5. A section on existing ecosystems will be developed to provides information about existing solutions and will in-turn support the ability to provide considerations about interopability and pre-existing functionality / methods.  
 6. [[WorkInProgress]]: provides information about whatever is currently 'work in progress' and/or any information about progress that has already been made.
 
 ### Ontology Modelling

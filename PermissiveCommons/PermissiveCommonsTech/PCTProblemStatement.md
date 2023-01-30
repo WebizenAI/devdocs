@@ -103,7 +103,7 @@ or personal responsibility, as noted by Chomsky; as is otherwise illustrated in 
 
 ## Breaking it down.
 
-The permissive commons ecosystem solutions have always been designed for the purpose of being deployed into a particular type of ecosystem, which hasn't been supported via the historical lens of a knowledge banking ecosystem, but has now led to the works on [[Webizen]].  
+The permissive commons ecosystem solutions have always been designed for the purpose of being deployed into a particular type of ecosystem, which hasn't been supported via the historical lens of a knowledge banking ecosystem, but has now led to the works on [[SocialFactors/CommercialModels/Webizen]].  
 
 Regardless of whether or not anyone uses the webizen systems; this work on permissive commons is intended to be about the production of technology for the public good, and thereby support the fundamental purpose of the [[PeaceInfrastructureProject]].
 
@@ -121,7 +121,7 @@ As with many of the modules of work, the concepts relating to these things are o
 ![[Answers_meme.jpg]]
 *Original Source/author unknown*
 
-It has been common to see people get involved seeking to quickly 'know it all', in ways that have ended-up with substandard outcomes; particularly where it comes to human rights and related use-cases / constituents of specifications, that are more specifically support natural persons (ie: consumers ); which is now moreover denoted as [[PeaceInfrastructureProject]] related works; although, instrumental / integral and considered to be unable to be delivered without producing [[Webizen]].
+It has been common to see people get involved seeking to quickly 'know it all', in ways that have ended-up with substandard outcomes; particularly where it comes to human rights and related use-cases / constituents of specifications, that are more specifically support natural persons (ie: consumers ); which is now moreover denoted as [[PeaceInfrastructureProject]] related works; although, instrumental / integral and considered to be unable to be delivered without producing [[SocialFactors/CommercialModels/Webizen]].
 
 One possible method; is to charge enterprise users for the use of materials produced, via transactional payments; until such a time as the work-effort required to produce that work has been compensated - as a means to support [[EndingDigitalSlavery]] and support [[FairWorkProtocols]], whilst also enabling the use of these systems by human beings - freely (no-charge).
 

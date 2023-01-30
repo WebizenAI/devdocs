@@ -36,7 +36,7 @@ This integration will seek to create a docker Image that somewhat automates the 
 
 ## Server Administration
 
-There's two fields of issues, the first is [[WebizenAllianceHostProviders]] managing the server themselves which will then involve the management of multiple accounts and VPSs, etc.  Then the second requirement is to support the needs of [[Webizen]] owners.
+There's two fields of issues, the first is [[WebizenAllianceHostProviders]] managing the server themselves which will then involve the management of multiple accounts and VPSs, etc.  Then the second requirement is to support the needs of [[SocialFactors/CommercialModels/Webizen]] owners.
 
 These [[Webizen2.5]] works are not intended to be exhaustive; meaning, the goal is to get something that works well enough, to develop upon - without making significant changes to the foundational logic; save circumstances where it is noted that there's changes required that haven't been done due to lack of skills or newly identified issues, etc.   or failed logic - stuff, that just doesn't practically work...  
 
