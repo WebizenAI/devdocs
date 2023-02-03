@@ -25,14 +25,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/CookieMonster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9876d92b68fa23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/SocialMedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa2b17f0e526c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/SafetyProtocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c25bf57f9083b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GuideForDevelopers/WebizenTerms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd880a8dca74aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5e0c4ffe8d4ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old-work-archives/WebCivicsMediumPosts/2019/BuildingaNewStartfortheAustralianCreative Sector..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5374eec5b118e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GuideForDevelopers/WebizenDiscord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f2366aa998254d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/StrategicHarms/SocialContractGamification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e93aa7bd42ae3642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/banishmentExile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4725e804c27a5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/SocialAttackVectors/discriminationBasedAttacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -61,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peace",
+                "query": "techstack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/Webize/BeakerBrowser.md",
+                "file": "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebizenTechStack/Webize/BeakerBrowser.md"
+                "file": "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md"
               }
             }
           }
@@ -159,17 +268,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17f025706ff4dcd6",
+  "active": "bdd880a8dca74aea",
   "lastOpenFiles": [
-    "GuideForDevelopers.md",
-    "WebizenTechStack/Webize/BeakerBrowser.md",
-    "DocumentationMethod.md",
-    "SocialFactors/CommercialModels/Webizen.md",
-    "SocialFactors/CommercialModels/WorkProject.md",
-    "PermissiveCommons/PermissiveCommonsTech/WhatAreTheCommons.md",
-    "SocialFactors/CommercialModels/WebizenAlliance/WebizenAllianceHostProviders.md",
-    "SocialFactors/CommercialModels/WebizenAlliance.md",
-    "SocialFactors/CommercialModels/TrustFactory.md",
-    "PermissiveCommons/PermissiveCommonsTech/PCTWorkInProgress/SafetyConsiderations.md"
+    "GuideForDevelopers/WebizenTerms.md",
+    "SocialFactors/WebScience/SafetyProtocols/ValuesCredentials.md",
+    "old-work-archives/WebCivicsMediumPosts/2019/BuildingaNewStartfortheAustralianCreative Sector..md",
+    "SocialFactors/WebScience/SafetyProtocols.md",
+    "SocialFactors/WebScience/ArtificialMinds/BotScience.md",
+    "GuideForDevelopers/WebizenDiscord.md",
+    "SocialFactors/SocialAttackVectors/StrategicHarms/SocialContractGamification.md",
+    "SocialFactors/WebScience/banishmentExile.md",
+    "SocialFactors/SocialAttackVectors/discriminationBasedAttacks.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/SocialMedia.md"
   ]
 }
