@@ -1,7 +1,9 @@
 ![[WebizenLogo.png]]
 # Webizen Docs Introduction
 
-This is the Webizen Documentation site is being developed to provide an array of old work documents, a somewhat comprehensive outline of future work objectives and in-turn thereafter also; support for an outline of what is sought to be achieved via an initial implementation of a [[Webizen]] solution.  The [[WebizenVision]] is about a new type of computing platform, which in-turn supports a form of connected interpersonal computing.
+This is the Webizen Documentation site is being developed to provide an array of old work documents, a somewhat comprehensive outline of future work objectives and in-turn thereafter also; support for an outline of what is sought to be achieved via an initial implementation of a [[Webizen]] solution.  The [[WebizenVision]] is about a new type of computing platform, which in-turn supports a form of connected interpersonal computing.  
+
+Note: the details outlined here, should not be considered specifications; rather illustrative pointers, that are intended to be useful should others seek to get involved in making it.  if so, see [[GuideForDevelopers]] which in-turn makes reference to [[WebizenTerms]] that are defined by [[ValuesCredentials]] and should that all be ok; then you're welcome to get involved via [[WebizenDiscord]]. 
 
 ![[WebizenPeaceBot.png]]
 

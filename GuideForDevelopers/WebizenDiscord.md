@@ -2,7 +2,7 @@
 
 The process of figuring out how to best support cooperative development prior to the availability of an alpha webizen ecosystem - for developers - is, imo, troubling; but, i'll go into  details in a different post.   This post is about Discord.
 
-There has previously been a Web Civics discord server, but it hasn't been used very much; prior to that there was also various Slack and gitter systems.  The current preferred tool for goup chat environments is discord; and the future preferred channel is intended to be a webizen app, most likely via the work-app in the first instance. 
+If you are able to faithfully agree to uphold and support those [[ValuesCredentials]] as is required by the [[WebizenTerms]] then continue reading.  if not, then perhaps its better that you come back when the project is far further down the track.  This process is only just now (3rd feb 2023) being setup to support cooperative development, at this early stage.  There has previously been a Web Civics discord server, but it hasn't been used very much; prior to that there was also various Slack and gitter systems.  The current preferred tool for goup chat environments is discord; and the future preferred channel is intended to be a webizen app, most likely via the work-app in the first instance. 
 
 The mission between now and then, is to get the basics put together.  To achieve that, the use of the Webizen discord server that has been set-up, seems like the best approach.  This note will try to provide considerations about how it will be managed, and other related notes and considerations. 
 

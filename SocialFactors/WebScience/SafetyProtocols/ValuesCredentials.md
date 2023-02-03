@@ -18,8 +18,9 @@ Whilst some efforts have been made to attempt to categorise the values instrumen
 
 *Once the [[WebizenTechStack]] and [[PCTOntologyModelling]] / [[PermissiveCommonsTech]] is adequately produced, these instruments will be encoded in RDF see: [[What is Linked Data]] if the concept of RDF (linked-data) is not understood...* 
 
-#### Human Rights related (universal values)
+The [Charter of the Commonwealth](https://thecommonwealth.org/charter).
 
+### International HumanRights values.
 - [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 - [Universal Declaration on Cultural Diversity](https://www.ohchr.org/en/instruments-mechanisms/instruments/universal-declaration-cultural-diversity)
 - [Universal Declaration on the Eradication of Hunger and Malnutrition](https://www.ohchr.org/en/instruments-mechanisms/instruments/universal-declaration-eradication-hunger-and-malnutrition)
