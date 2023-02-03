@@ -2,7 +2,7 @@ The library project, is both a foundational application and also something that 
 
 The library app, stores the users information in a manner that contains the semantic information needed to provide library assets permissively to others via a range of sharing related methods. 
 
-Some of the applications i am particularly motivated to better develop includes support for the [[Timeline Interface]].  
+Some of the applications i am particularly motivated to better develop includes support for the [[TimelineInterface]].  
 
 The Library interfaces are being developed by starting with a content ingestion process and corrasponding form.
 

@@ -70,7 +70,7 @@ Both the `../facetedsearch/facetedsearch.js` and `../timelines.js` libraries req
 
 ## Timeline Fields.
 
-Presently, the primary interface for this app is intended to be the [[Timeline Interface]]. The fields for the timeline library are as follows:
+Presently, the primary interface for this app is intended to be the [[TimelineInterface]]. The fields for the timeline library are as follows:
 
 - [ ] Title: The title of the timeline.
 - [ ] Timeline Event Fields:

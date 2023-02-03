@@ -1,3 +1,4 @@
+# Timeline Interface
 based on: https://timeline.knightlab.com/ 
 
 The idea is that people are able to create a faceted query (using structured langage) to create a timeline view of a topic or concept that they're interested in exploring, however this has various implications.  Note; the details outlined here, should not be considered specifications; rather illustrative pointers, that are intended to be useful should others seek to get involved in making it.  if so, see [[GuideForDevelopers]] which in-turn makes reference to [[WebizenTerms]] that are defined by [[ValuesCredentials]] and should that all be ok; then you're welcome to get involved via [[WebizenDiscord]]. 
@@ -81,7 +82,6 @@ The Timeline Maker should be able to create a timeline from a list of assets. Th
 
 The app uses [KnightLab TimelineJS](https://timeline.knightlab.com/). The timeline is created by editing the `timeline.json` file in the `data` folder. The file is a JSON file, and the format is described in the [TimelineJS documentation](https://timeline.knightlab.com/docs/json-format.html).
 
-
 ### Folder Structure.
 
 This is how the basics of the folder structure are presently setup.
@@ -93,26 +93,22 @@ This is how the basics of the folder structure are presently setup.
 - data: contains test json and RDF files for the development version of the app.
 - Notes: contains development notes relating to the creation / development of the app.
 
-## Intended Applications
+### Intended Applications
 
 The app is intended to be used as a tool for creating timelines for use in providing privileged briefings to professionals within the healthcare, government and legal sectors, to more easily communicate complex information required for fit and proper decision making. The app is intended to provide the timeline and any related protected assets in a single, secure, web-based application.  
+
+## Dev Notes
 
 ### Functionality Requirements.
 
 The app will require;
 
 - A login to access the timeline and any protected assets.
-
 - Logging of user activity, including the date and time of access, the user's IP address, and the user's login details.
-
 - The Authentication should be via a OIDC Account.
-
 - An agreement form to be completed by the user before they can access the timeline. The user should be sent a copy of the agreement form by email.
-
 - An ability to present private, sensitive, confidential and protected PDF files and other protected assets in a secure manner.
-
 - An ability to present the timeline in a secure manner.
-
 - The timeline should also support the ability for the user to select one or more specific tags, and then the timeline should only display the assets that have been tagged with the selected tags.
 
 ### Notification and interactivity.
@@ -129,7 +125,7 @@ The attendant should be able to;
 
 - Provide a means for the owner of the timeline to provide feedback to the user of the timeline via an online chat facility.
   
-## Timeline Maker
+### Timeline Maker
 
 A timeline maker is required to create the timeline. The timeline maker has two primary components.
 
@@ -197,7 +193,7 @@ Generating the Timeline Package;
 - The timeline owners should be able to define public and private tags for the timeline.
 - THe timeline owner should be able to define a public timeline url that can be used to provide access to publicly available timelines and assets.
 
-## Server Requirements
+### Server Requirements
 
 - The server should be able to host the timeline app.
 - The server should be able to host the timeline maker app.
@@ -207,12 +203,12 @@ Generating the Timeline Package;
 - The email notifications should be sent to the email addresses defined by the timeline owner.
 - The email notification should contain a secure link to the timeline.
 
-## Confidentiality Functionality
+### Confidentiality Functionality
 
-An authorised user may seek permission to access or seek approval to share a confidential timeline with a nominated person. The timeline owner will be notified of the request, and will be able to approve or reject the request. If the request is approved, the timeline owner will be able to provide feedback to the user via the attendant.  If the request relates to sharing the timeline with a nominated person, the timeline owner will be able to approve or reject the request. If the request is approved, the requested user will be required to complete an agreement form before they can access the timeline. The timeline owner will be able to provide feedback to the user via the attendant.
+An authorised user may seek permission to access or seek approval to share a confidential timeline with a nominated person. The timeline owner will be notified of the request, and will be able to approve or reject the request. If the request is approved, the timeline owner will be able to provide feedback to the user via the attendant.  
 
+If the request relates to sharing the timeline with a nominated person, the timeline owner will be able to approve or reject the request. If the request is approved, the requested user will be required to complete an agreement form before they can access the timeline. The timeline owner will be able to provide feedback to the user via the attendant.
 
-## Dev Notes
 
 ## Timeline App
 
@@ -260,7 +256,7 @@ The RDF library that is used for the asset manager may be able to be used for th
 
 - [tagsearch.js](/tagsearch/README.md)
 
-## Timeline Maker
+### Timeline Maker
 
 The timeline maker is an app that is part of the [asset manager](../assetmanager/AssetManager.md) that is used to create timelines from RDF data. The Timeline Maker allows the user to manage timelines that are created through the use of the assets stored in the [asset manager](assetmanager.md) library and to create timelines from those assets.  
 
