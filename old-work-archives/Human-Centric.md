@@ -1,0 +1,16 @@
+# Human Centric
+
+This note is a placeholder that will be used to better describe the history of the use of the term "Human Centric" as is consequently applied to;
+
+- [[HumanCentricDigitalIdentity]]
+- [[HumanCentricOntology]]
+- [[HumanCentricAI]]
+- [[HumanCentricAIEthics]]
+
+My use of the term is publically noted  [from Feb 2016 on the W3C Lists](https://www.w3.org/Search/Mail/Public/advanced_search?keywords=%22Human+Centric%22&index-grp=Public__FULL&type-index=&resultsperpage=100&sortby=date-asc) and i can find emails easily that show that i was speaking, at least somewhat privately via email, using the term in late 2015; but the provonance is not entirely clear.  The term was also used by MyData and others since.  Around the time that i applied the theory to credentials, the [mydata.org](https://web.archive.org/web/20160309113052/http://mydata.org/) site didn't exist, yet the my data nordic model document mentioning 'human-centric' appears to have been created (published) [1st June 2015](https://web.archive.org/web/20170323165040/https://www.lvm.fi/documents/20181/859937/MyData-nordic-model/2e9b4eb0-68d7-463b-9460-821493449a63?version=1.0) and equally, the logo is similar to the one that i made [13th may 2015](https://drive.google.com/file/d/12iVsYFhjRMKyuq1DgtfU51Kr0YSdsx7g/view?usp=sharing) as was sent to gov, in-order to register a trading name; but yet also, dated [15th May 2015 is a MyData release](https://github.com/HIIT/mydata-stack/releases/tag/v1.0.0) (and indeed also, the logo is different). 
+
+Overall, whilst i am certain that i did not know of (& thereby misappropriate the history of) these works at the time; the socialisation and uptake of the concept, does have a complex history, and whilst the concept of a person owning their data was started at the stage of [[iBank]] in 2000; perhaps at the end of the day, the 'common-sense' reality becomes that the notion of 'human centric' made sense for people who were actually trying to achieve that type of outcome; rather than misappropriating the term, as i feel is what has happened since.  At some stage, i'll update this note to go into more detail about my knowledge of it.
+
+Nonetheless; The intended meaning of the term is different to how others have since employed it. Whilst the initial application of the Human Centric concept was upon the development of credentials, as to make a particular licensing / application modality that was different to institutionally centric / focused models; the utterance of the broader considerations were later extended to better illustrate the linked concept of [HumanCentric AI](https://www.facebook.com/groups/1137273419765842) as is otherwise noted via [[HumanCentricAI]] and more broadly otherwise. 
+
+In-turn the concept wasn't simply an 'idea' via the manifest use solely of the term; but moreover, as part of the namonclature that i applied to an intended application of specified technologies (that were being developed at the time) that are still part of the plan that is now again, employing the name - webizen...  although, through a somewhat more developed lens...  

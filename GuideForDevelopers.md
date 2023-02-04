@@ -8,6 +8,8 @@ In future; This document is likely to be broken down into pieces and placed into
 
 I am very nervous about the step between now and the point where the basics are functional as a working system (part of the broader system) that's able to be used to generate both signed RDF documents to support values, licensing and compensatory considerations (overall - values credentials) to better manage hygiene / expectations / community engagement. The requirements to get to that point are not simply s/w dev, but its impossible to get the social (/governance) structures in-place without the functional software that demonstrably provides substance to the intended purpose of the ecosystem methodologies, etc. 
 
+### General Background
+
 The objective milestone is to have the components required to support [[HumanCentricDigitalIdentity]] and [[HumanCentricAI]] which instrumentally involves engendering support for [[ValuesCredentials]] ([[TheValuesProject]]) as to usefully support the [[WorkProject]] /  [[TheWorkPlatform]].
 
 But that there's a fair bit 'under the  hood' considered essential to get there...  
@@ -48,6 +50,49 @@ Yet, until that is done, there's issues that fundamentally relate to the [[Histo
 Now therefore; A summary of now; is thereby provided,
 
 ## Development Components
+
+There general area for notes is in the [[DevNotesWebizen2.5]] section. note again also; the [[WebizenDiscord]] is probably one of the best places to start if you're interested in helping to get this stuff done.  These dev-docs are constantly being updated, and at some stage i'll likely start a completely new implementation.  
+
+### General concepts 
+
+#### TailScale based Networking
+The ability to build web-servers (https) that works on desktop/laptop computers requires some sort of VPN like technology - in this case we're leveraging a wireguard based solution that's built primarily by Tailscale. The libraries are in GoLang and open-source with the exception of the UI. 
+
+The tailscale tools are instrumental to facilitating the networking requirements, which in-turn require TLS certificate issuance. This library (via headscale) is then modified to support [[WebizenID-TLS]] (and likely also [[WebID-TLS]]).  
+
+###### Problem 1.
+there are various packages that are all integrated with TLS or other AUTH related systems; they need to be integrated / harmonised.
+
+### WebHost - Caddy?
+
+Alot of the componts have some sort of web-server function built into them.  Nonetheless, there are a few Caddy - tailscale implementations, whereby part of the benefit is that Caddy has been set-up to grab the TLS certificate from the Tailscale code; and is then able to be set-up to function as a reverse proxy, etc. 
+
+Its configured via json files.
+
+#### RWW based 'server interface'
+
+The concept of RWW has various names, and the webizen systems are not the same as any of them; but, it is very similar.  Effectively, there's an RDF based back-end, that HTML/JS/CSS apps (historically using the RDFlib.js libraries or similar) used in addition to [[WebID-TLS]] or [[WebID-OIDC]] to support AUTH and then via [[Web Access Control (WAC)]] - ACLs.   This basic logic remains, however the ontologies are being changed; and there is a great deal of consideration going into whether and/or how, an API can be provided for Apps, in a way that depends upon a JSON based datafeed rather than more complex RDF based alternatives.   
+
+#### General Implication
+There's basically an RWW based HTTP interface that's supporting ACLd CRUD. 
+
+I think, fundamentally, the general implication is that the the APIs built to support webizen apps are effectively developed from the foundational structures provided by the older RWW based works.  Whilst these systems generally support various [[SemanticWeb]] based interfaces; there's alot of changes / modifications / new functionality and related considerations being made via the webizen tech stack works.
+
+these changes start to become far more significant at latter stages when the AI models become part of the stack; and in-turn, available to use via the local webizen app api.
+
+###### Problem 2
+The AUTH logic needs to be defined; which in-turn depends upon the ontological designs, that also need to be implemented.  Apps cannot be made until after there's a server thing that the apps are able to use to function. 
+
+###### Problem 3
+The general distinction between 'personal' and 'social' isn't as clearly defined as i would like to ensure via engineering choices, which may well be considered 'overkill' by many.
+
+As the saying goes - IDGAF. 
+
+For reasons that have legal considerations / implications; and otherwise, i think its very important to distinguish between the information / data, that's shared in some way shape or form with at least 1 other agent; and information / data that's stored that is entirely private.  Whilst it is understandably going to be the case that most information produced by persons will in-turn be shared with someone else (on defined terms, etc.); the ability to ensure that there is a seperate component that deals with the stuff that isn't, seems enormously important to support the [[SafetyProtocols]] and in-particular therein; the [[FreedomOfThought]]. 
+
+
+
+
 
 1. "Church & State" App/Database basics
 	the terms 'church' and 'state' can be otherwise defined; for example,

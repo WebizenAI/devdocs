@@ -1,5 +1,6 @@
 # Timeline Interface
-based on: https://timeline.knightlab.com/ 
+
+Whilst the main UI for presenting timelines is based on: https://timeline.knightlab.com/  there are an array of significant and important changes / additional features that are being defined for various reasons of importance. The existing timeline app only supports the presentation of timelines that are produced using public information.
 
 The idea is that people are able to create a faceted query (using structured langage) to create a timeline view of a topic or concept that they're interested in exploring, however this has various implications.  Note; the details outlined here, should not be considered specifications; rather illustrative pointers, that are intended to be useful should others seek to get involved in making it.  if so, see [[GuideForDevelopers]] which in-turn makes reference to [[WebizenTerms]] that are defined by [[ValuesCredentials]] and should that all be ok; then you're welcome to get involved via [[WebizenDiscord]]. 
 

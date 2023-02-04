@@ -4,93 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a68d51900294264d",
+        "id": "c722f04e07dbbc53",
         "type": "tabs",
         "children": [
           {
-            "id": "abc9eb9fceccc2d5",
+            "id": "af60fcefaf93b01f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GuideForDevelopers.md",
+                "file": "old-work-archives/Human-Centric.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "17f025706ff4dcd6",
+            "id": "927b426677686116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/CookieMonster.md",
+                "file": "WebizenTechStack/WebizenApps/WebizenInterfaces/TheAttendant.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9876d92b68fa23a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/SocialMedia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fa2b17f0e526c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/WebScience/SafetyProtocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c25bf57f9083b5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GuideForDevelopers/WebizenTerms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd880a8dca74aea",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/1_iGzdEyUWAzT7TDjU6IUvTQ.webp"
-              }
-            }
-          },
-          {
-            "id": "3d5e0c4ffe8d4ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GuideForDevelopers/WebizenDiscord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e5374eec5b118e3",
+            "id": "25775526d17e87f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,55 +44,19 @@
             }
           },
           {
-            "id": "717a06dc03d16ab1",
+            "id": "8823e027723333f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Library/Form Builder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f2366aa998254d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/SocialAttackVectors/StrategicHarms/SocialContractGamification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e93aa7bd42ae3642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/WebScience/banishmentExile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4725e804c27a5b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SocialFactors/SocialAttackVectors/discriminationBasedAttacks.md",
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/TemporalApps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chomsky responsibility",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -278,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b15b43b1dfc456dd",
+  "active": "25775526d17e87f2",
   "lastOpenFiles": [
-    "GuideForDevelopers/WebizenDiscord.md",
-    "GuideForDevelopers.md",
-    "README.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/TemporalApps.md",
+    "old-work-archives/Human-Centric.md",
     "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/TemporalApps/TimelineInterface.md",
-    "Attachments/1_iGzdEyUWAzT7TDjU6IUvTQ.webp",
-    "Attachments/wolfslide.jpg",
-    "Attachments/webscience.jpeg",
-    "Attachments/WebizenSocialExample.jpg",
-    "Attachments/WebizenProSpec2022-12-29.png",
-    "Attachments/WebizenPeaceBot.png"
+    "WebizenTechStack/WebizenApps/WebizenInterfaces/API.md",
+    "WebizenTechStack/WebizenApps/WebizenInterfaces/TheAttendant.md",
+    "GuideForDevelopers/WebizenTerms.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/SocialMedia.md",
+    "GuideForDevelopers/WebizenDiscord.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/Webizen-Connect/UIToolKits.md",
+    "GuideForDevelopers.md"
   ]
 }
