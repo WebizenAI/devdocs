@@ -1,0 +1,17 @@
+# Category Theory
+
+**Category theory** is a general theory of [mathematical structures](https://en.wikipedia.org/wiki/Mathematical_structure "Mathematical structure") and their relations that was introduced by [Samuel Eilenberg](https://en.wikipedia.org/wiki/Samuel_Eilenberg "Samuel Eilenberg") and [Saunders Mac Lane](https://en.wikipedia.org/wiki/Saunders_Mac_Lane "Saunders Mac Lane") in the middle of the 20th century in their foundational work on [algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology "Algebraic topology"). Nowadays, category theory is used in almost all areas of mathematics, and in some areas of [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science"). In particular, many constructions of new [mathematical objects](https://en.wikipedia.org/wiki/Mathematical_object "Mathematical object") from previous ones, that appear similarly in several contexts are conveniently expressed and unified in terms of categories. Examples include [quotient spaces](https://en.wikipedia.org/wiki/Quotient_space_(disambiguation) "Quotient space (disambiguation)"), [direct products](https://en.wikipedia.org/wiki/Direct_product "Direct product"), [completion](https://en.wikipedia.org/wiki/Completion_(disambiguation)#Mathematics "Completion (disambiguation)"), and [duality](https://en.wikipedia.org/wiki/Duality_(mathematics) "Duality (mathematics)").  [Source WikiPedia](https://en.wikipedia.org/wiki/Category_theory).
+
+### Applied Theory
+
+Many of the issues that are part of common discourse online relating to issues like that are defined as `fake news`, `disinformation` or similar are considered to more accurately be described as a categorisation issue, where the classification of the content is not described in a manner that could or would otherwise be described as [[FitForPurpose]].
+
+So, a work purporting to be a `#NonFiction` `#NewsArticle` that is sought by the publisher / author, to be consumed as a contribution towards a person (observers) beliefs about the facts of a situation; whilst containing errors or statements that are not grounded in `Reality` may otherwise be defined as a work of fiction, rather than non-fiction; and in-turn there are an array of genre's and other classification tools (categories) that can be applied to the entire document and/or parts of the document or artifact.  Therein, there's not really any such things as `disinformation` rather its misclassified information.
+
+These sorts of semantics define the difference between `knowledge` systems vs. `information` systems; as are otherwise illustrated by the image provided below;
+
+![[Diagram8.jpg]]
+
+This diagram is intended to be intepreted by starting at the consciousness point; whereby there is then a choice about whether to create `knowledge systems` or `information systems` and this choice leads to consequential implications.  
+
+As such, the webizen environment seeks to employ ontologies that are able to be used within documents to declare the intended characteristics of various elements within artifacts.   This is in-turn intended also to be foundationally employable via [[TemporalSemantics]] that are intended to support the causal process through which new or unpopular concepts may be subject to attacks, but then later found to be accurate.  the distinction becomes; defining what the author / human agent / agent intended the document to state; and how they may in-turn be judged in connection to those statements overtime. 

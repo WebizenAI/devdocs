@@ -37,3 +37,9 @@ The Content Types that are supported via a ‘social’ app includes;
 8.  Events & Activities: The ‘Events and Activities’ is essentially part of a temporal (timeline) explorer that has a few different types of interfaces, including geospatial & Date/Time, alongside calendar and timeline views.
     
 9.  Search:  Search, is a complex App that will develop, and be discussed in more detail in separate documents.   
+
+### DevNotes
+
+This social app; has an array of components, most of which are required for the work app.  I think the work-app is the priority; and that, the design of the services that operate the work-app systems, should then also be tested to ensure they're able to be made to work in other applications - such as the social app. 
+
+Due to the nature of how the [[SocialWeb]] factors function, sucha s the [[AgentDirectory]] and [[TimelineInterface]], [[Library]] there's an array of fairly significant changes that occur that impact design choices when it comes to how 'social media apps' are best made within the webizen environment, for webizen environment users. 
