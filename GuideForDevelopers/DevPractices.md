@@ -8,7 +8,7 @@ I thought this approach; was a better employment of [[BestEfforts]] to support t
 
 ## Focus
 
-The development focus, should be on producing the tools that are required to produce the webizen environment and in-turn the production of the webizen environment componets that are required to make the tools work, etc. 
+The development focus, should be on producing the tools that are required to produce the webizen environment and in-turn the production of the webizen environment components that are required to make the tools work, etc. Whilst hte objective is to get the [[TheWorkPlatform]] done; the requirement that must be considered and addressed first is the means to address the [[HumanCentricDigitalIdentity]] and [[HumanCentricAI]] requirements that are foundationally required in-order to build anything on top of it for applications that relate to [[SocialWeb]] considerations in any and all other ways.  Therein, the preference is to focus on building the [[Tools]] required to support the [[HumanCentricOntology]] requirements first; and once that's somewhat settled, then get onto the [[TheWorkPlatform]] components that weren't defined better earlier.  
 
 ### Modularity
 

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md",
+                "file": "GuideForDevelopers/DevPractices.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/Credentials & Contracts Manager.md",
+                "file": "GuideForDevelopers/DevPractices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/Credentials & Contracts Manager.md",
+                "file": "GuideForDevelopers/DevPractices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/Credentials & Contracts Manager.md"
+                "file": "GuideForDevelopers/DevPractices.md"
               }
             }
           }
@@ -316,17 +316,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a3e5a65b22a4f2a",
+  "active": "122a4844263219c3",
   "lastOpenFiles": [
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/TimelineMaker.md",
+    "SocialFactors/WebScience/identityModelling/PersonalOntology.md",
+    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/Credentials & Contracts Manager.md",
     "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/WebizenSocial.md",
     "GuideForDevelopers/DevPractices.md",
     "SocialFactors/WebScience/CategoryTheory.md",
-    "SocialFactors/WebScience/identityModelling/PersonalOntology.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/TimelineMaker.md",
     "GuideForDevelopers/WebizenTerms.md",
-    "Attachments/Diagram8.jpg",
-    "Attachments/Diagram9.jpg",
-    "Attachments/Diagram10.jpg",
-    "Attachments/Diagram11.jpg"
+    "Attachments/Diagram8.jpg"
   ]
 }

@@ -12,17 +12,18 @@ Functionality.
 
 ##### Template Files
 
-There should be some sort of 'template file' concept, that is in-turn able to be shared and indeed also modified.  These 'templates' should provide the form builder the information needed to understand the structure of the form sought to be employed.  In many ways this is at a minimum supported by RDF ontologies; and perhaps also SHACL and/or RML.  
+There should be some sort of 'template file' concept, that is in-turn able to be shared and indeed also modified.  These 'templates' should provide the form builder the information needed to understand the structure of the form sought to be employed.  In many ways this is at a minimum supported by RDF ontologies; and perhaps also 
+[SHACL](https://www.w3.org/TR/shacl/) and/or [RML](https://rml.io/specs/rml/).  
 
 ##### Functions
 
 
 
 
+
 ### Technologies
 
-[RML](https://rml.io/specs/rml/)
-[SHACL](https://www.w3.org/TR/shacl/)
+
 RDF
 RDFS
 
