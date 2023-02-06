@@ -9,6 +9,8 @@ The Webizen project will both build upon existing nomenclature and develop and e
 This note will define the experimental use of terms and the intended meaning of those terms. The format should also define where the term came from (provonance), etc.
 
 QUADS: 
+seeAlso: [[datavsquads]]
+
 Variants: KiloQuads, MegaQuads, GigaQuads, TeraQuads
 Sources:  there's two,
 1. Star-Trek: In star-trek Voyager, information is stored in Quads. 

@@ -8,9 +8,20 @@ The ecosystem assumes will at this stage require a user to own their own domain 
 
 The Authentication Fabric employs cryptography at various levels of the stack, in an interoperably complimentary manner.  The methods are loosely based upon the WebIDauth methods, although not exclusively; yet there is a significant amount of modification of the WebID methods as defined by the standards documentation; and the creation of a new method ( [[WebizenID-DNS]] ) that isn't otherwise considered (as far as i know).  Whilst interoperability with existing WebID systems is desirable; the desirability is balanced with the requirements to form a secure authentication fabric. Given these methods are not consistant with the WebID methods, the methods are thereby being renamed WebizenID as to ensure that there isn't any confusion, etc. 
 
-Generally speaking, the methods are similar in form; although also, distinct. 
+Generally speaking, the methods are similar in form; although also, distinct.  The methods depend upon crypographic instruments and corrasponding RDF documents.
 
-## Modifying WebID
+These methods are then layered to create support for an AUTH Logic process. 
+
+## Auth Logic
+
+The Auth logic starts to become important when apps are used. So, i'll describe it from that perspective.   For the purpose of getting the Webizen 2.5 stack working, WebAuthn (2nd factor) and OIDC is not a priority other than as required to support the host services.  These user-level authentication methods will extend to the users environment; but at this stage, the priority is to get the certificate based authentication logic working; which should in-turn act to transparently authenticate a user based upon the information in the certificates. This is in-turn coupled with the attempts to get the DNS level authentication systems operating also. 
+
+### Permissive Commons AUTH / Key Management
+
+A significant part of how the informatics systems works, is via [[PermissiveCommonsTech]] infrastructure.  Most protocols will require some sort of authentication method to identify the information about the contributor for write / append / delete functions in particular; alongside access credentials for materials that require credentials to authenticate for the purpose of being able to read an otherwise protected asset(s), etc. 
+
+
+### Modifying WebID
 
 [[WebID]] was developed sometime ago.  I have some issues with the way its generally implemented, although i'm not entirely sure whether my concerns / deliberations will end-up having merit; or whether i'll end-up reverting; yet fundamentally, its likely that some changes may be positively employed and other considerations found to lack merit.  As such, the work in progress ("WIP") notes will define the modified versions as constituent pieces of the WebizenID implementation components, that are designed to operate as a type of security-fabric. 
 
@@ -63,3 +74,6 @@ The primary purpose of WebizenID-DNS is to establish an owner of a domain and th
 ## Serialisation
 
 The preferred serialisation method for a WebizenID is likely to be `Turtle` or `N3`.
+
+## Auth Logic
+

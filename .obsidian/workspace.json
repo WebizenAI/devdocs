@@ -73,7 +73,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GuideForDevelopers/DevPractices.md",
+                "file": "SocialFactors/WebScience/nomenclature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa5fd8443c804aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SocialFactors/WebScience/nomenclature/datavsquads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb59f220fd597c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/RWWNotesInfo.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -254,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuideForDevelopers/DevPractices.md",
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GuideForDevelopers/DevPractices.md",
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuideForDevelopers/DevPractices.md"
+                "file": "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md"
               }
             }
           }
@@ -316,17 +340,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122a4844263219c3",
+  "active": "864a0dc8aae6d780",
   "lastOpenFiles": [
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/FormBuilder.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Tools/TimelineMaker.md",
-    "SocialFactors/WebScience/identityModelling/PersonalOntology.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/Credentials & Contracts Manager.md",
-    "WebizenTechStack/WebizenApps/Webizen3.0Apps/CoreApps/Socialweb/WebizenSocial.md",
-    "GuideForDevelopers/DevPractices.md",
-    "SocialFactors/WebScience/CategoryTheory.md",
-    "GuideForDevelopers/WebizenTerms.md",
-    "Attachments/Diagram8.jpg"
+    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/RWWNotesInfo.md",
+    "SocialFactors/WebScience/nomenclature/datavsquads.md",
+    "SocialFactors/WebScience/nomenclature.md",
+    "WebizenTechStack/Webizen2.5/FunctionalObjectives/RootConcepts.md",
+    "WebizenTechStack/Webizen2.5/FunctionalObjectives/PCT-NOTES.md",
+    "WebizenTechStack/Webizen2.5/FunctionalObjectives/HelperAppObjectives.md",
+    "WebizenTechStack/Webizen2.5/FunctionalObjectives/FUNCTIONS.md",
+    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/WebizenID.md",
+    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/CuratorLogic.md",
+    "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5/Webizen2.5HostComponents/WebizenServiceManagement/Curator.md"
   ]
 }

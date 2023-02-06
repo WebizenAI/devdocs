@@ -19,8 +19,6 @@ There should be some sort of 'template file' concept, that is in-turn able to be
 
 
 
-
-
 ### Technologies
 
 
@@ -34,3 +32,4 @@ A SHACL-based Web-Form Generator for Knowledge Graph Editing
 [github](https://github.com/schimatos/schimatos.org)
 [demo](http://rsmsrv01.nci.org.au:8080/schimatos/)
 License: MIT
+
