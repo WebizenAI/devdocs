@@ -17,7 +17,8 @@ There should be some sort of 'template file' concept, that is in-turn able to be
 
 ##### Functions
 
-
+RDF Namespaces:
+The 
 
 ### Technologies
 
