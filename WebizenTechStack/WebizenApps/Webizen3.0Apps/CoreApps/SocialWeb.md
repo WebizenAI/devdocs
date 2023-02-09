@@ -48,4 +48,4 @@ I had the idea of generating a Social Media Classifier; that might be useful for
 
 The classifier would help alert them to the tweets (or other social media interactions) that are programmatically defined to be more likely to be something that the person is interesting in seeing personally. 
 
-There is also some notes about Social Media stuff via [[Social Media APIs]] and [[UIToolKits]].
+There is also some notes about Social Media stuff via [[SocialMediaAPIs]] and [[UIToolKits]].

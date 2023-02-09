@@ -1,0 +1,3 @@
+The main part of the networking related method that's absolutely required is Wireguard; and then the tooling to better manage it, which is essentially what tailscale related tooling is providing; but may not be necessarily required in future.  particularly with respect to the DNS related considerations; it may be better to develop a custom implementation.  perhaps, without wanting to pick too many battles all at once! 
+
+is likely better to look at it more in future.

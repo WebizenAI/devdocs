@@ -63,7 +63,7 @@ TBA...
 SeeAlso: [[WebizenHostWebPlatform]].
 
 #### Service Management
-There needs to be a service manager; which is likely to be seperate to the runtimes established for users (webizen owners, etc). Most components have [[jsonInterfaces]] which should be updated to be provided as [[JsonAppInterface]] (local service management interfaces); which is being investigated.
+There needs to be a service manager; which is likely to be seperate to the runtimes established for users (webizen owners, etc). Most components have [[jsonInterfaces]] which should be updated to be provided as [[jsonInterfaces]] (local service management interfaces); which is being investigated.
 
 Thinking is that the [[Curator]] may employ [[BadWolf]] or similar, to manage the interfaces.
 

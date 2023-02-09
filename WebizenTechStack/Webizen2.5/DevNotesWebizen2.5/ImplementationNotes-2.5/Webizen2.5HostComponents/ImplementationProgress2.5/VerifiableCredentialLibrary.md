@@ -19,7 +19,6 @@ It may be better to seperate the identity logs from the informatics logs.  perha
 
 The use of JSON-LD has dominated the 'commercial' space; therefore perhaps the 'legal transactional' stuff (commercial / economic) should be in json-ld whilst the networking can be in n3 (the practical stuff); thereby producing a well defined distinction via serialisation.  
 
-
 ## Future Usecases
 
 The credentials interfaces are likely to be required for various sorts of electronic contract automation.  Food delivery, etc.  It'll need to act in a federated way; and it'll need to be operational even if the user is offline - so it needs to be supported by curators. 

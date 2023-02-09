@@ -23,13 +23,14 @@ Whilst investigating solutions, an array of existing language models have been i
 
 Whilst making a note of the work done previously making enquiries with ChatGPT as is illustrated by: [[ChatGPTDynamicOntology]] and in-turn the [[VocabularyModelling]] folder has been created to 'create space' for more thougher investigation. In-order to illustrate the considerations; i'll start with illustrating the resources that i've found so far. 
 
-Framenet: https://framenet.icsi.berkeley.edu/fndrupal/
+Framenet: 
+https://framenet.icsi.berkeley.edu/fndrupal/
 https://github.com/chanind/frame-semantic-transformer
 https://github.com/topics/framenet
 
 https://github.com/dbamman/latin-bert
 http://wordnet-rdf.princeton.edu/
-https://framenet.icsi.berkeley.edu/fndrupal/
+
 https://en.wikipedia.org/wiki/Cyc
 https://old.datahub.io/dataset/opencyc is unavailable;  a version of it has been found: https://github.com/asanchez75/opencyc/blob/master/opencyc-latest.owl.gz 
 
@@ -46,3 +47,5 @@ https://babelnet.org/
 NoteAlso: https://www.wordsapi.com/
 
 https://github.com/alammehwish/framester
+
+https://catalog.ldc.upenn.edu/LDC99T42

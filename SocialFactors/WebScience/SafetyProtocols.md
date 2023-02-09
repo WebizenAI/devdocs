@@ -1,7 +1,7 @@
 # Safety Protocols
 There is a balance between absolute security and secrecy / privacy vs. social needs, to uphold basic values.  The method considered most feasible to address this difficult balance, is emboided by the concept of creating Safety protocols.
 
-The Safety Protocols requirement will end-up being defined in-full to be interoperable terms with by [TheWebizenCharter](TheWebizenCharter.md). 
+The Safety Protocols requirement will end-up being defined in-full to be interoperable terms with by [[TheWebizenCharter]]. 
 
 The Effect of developing 'safety protocols' is instrumental to providing a means to develop a decentralised social-web framework that supports values based networking between agents (people) in a way that supports the recgonition and use of declared values, to provide support for agents to provide the necessary social protections needed, to be able to create safe decentralised online environments.   
 

@@ -28,7 +28,7 @@ https://fusetheme.com/
 
 NOTE:  If, for some reason i end-up looking at doing a back-up (note: [[DataPortability]] ) solution, Inrupt has a [React-SDK](https://github.com/inrupt/solid-ui-react)
 
-NOTE ALSO:  I've started looking into how a [[JsonAppInterface]] might be produced, that would be intended to eventually provide a basic SDK that can be employed by front-end 'template' developers to produce 'apps' that work 'out of the box'.
+NOTE ALSO:  I've started looking into how a [[jsonInterfaces]] might be produced, that would be intended to eventually provide a basic SDK that can be employed by front-end 'template' developers to produce 'apps' that work 'out of the box'.
 
 
 
