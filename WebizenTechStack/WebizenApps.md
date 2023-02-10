@@ -14,7 +14,7 @@ I have made a copy / collection of the old RWW & Solid apps that i could find, n
 
 Once a solution is up and running, the objective will be to create the apps we need to make the environment useful.  This is likely to support a version of the [[HyperMediaContainers]] solution; although it may be as simple as a webizen.rdf file or similar. 
 
-A simple [[DOAP form Example]] has been provided to give a sense of how its intended to work.
+A simple [[DOAPFormExample]] has been provided to give a sense of how its intended to work.
 
 There's an array of other examples in the github repo noted above; noting, i'll provide a table of them in this document sometime soon.. 
 

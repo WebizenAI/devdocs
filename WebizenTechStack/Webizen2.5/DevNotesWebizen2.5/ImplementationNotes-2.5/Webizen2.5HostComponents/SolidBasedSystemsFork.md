@@ -52,7 +52,7 @@ Whereas the older RWW systems were more focused on the use of Turtle (TTL) the n
 
 ### Specific Changes
 
-Presently the concept appears to provide a system that provides pods for human users, and when last tested, there appeared to be significant problems with the logic for the access control systems.  As such, the focus of work to modify the existing Node-Solid-server implementation to something that is considered usefully employable for the Webizen 2.5 (early stage) implementation; is to focus on its potential usefulness for managing accounts and in-turn also, managing parts of the permissive-commons ecosystems.   This will basically augment the authentication logic and therefore also, the  useful employment of the 'pods' (seeAlso: [[Linked Data Platform]] ).
+Presently the concept appears to provide a system that provides pods for human users, and when last tested, there appeared to be significant problems with the logic for the access control systems.  As such, the focus of work to modify the existing Node-Solid-server implementation to something that is considered usefully employable for the Webizen 2.5 (early stage) implementation; is to focus on its potential usefulness for managing accounts and in-turn also, managing parts of the permissive-commons ecosystems.   This will basically augment the authentication logic and therefore also, the  useful employment of the 'pods' (seeAlso: [[LinkedDataPlatform]] ).
 
 A series of 'adapters' will be required in-order to support various webizen methods related functions; and this will in-turn, lead to various changes to the implementation methods use of any historical solid related works.  Yet, fundamentally, the older RWW Apps should be relatively easy to modify in-order to make work. 
 

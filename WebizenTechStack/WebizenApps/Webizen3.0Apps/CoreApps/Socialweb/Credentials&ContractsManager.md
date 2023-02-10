@@ -1,3 +1,5 @@
+# Credentials & Contracts Manager
+
 The Credentials and Contracts management app, is in some ways a component of the [[AgentDirectory]].  Another term that is used is [[OpenBadges]] which is presently implemented in a manner that is designed prodominetly for the education market, and I think that there are some complicated underlying reasons why that occurred; which I think would be unfair to go into...  or perhaps it was because i think i might have been involved... idk.  In anycase, i've put some more background notes at the bottom of this note; whilst highlighting that there are issues that are emotionally contentious for me. 
 
 ## Requirements.

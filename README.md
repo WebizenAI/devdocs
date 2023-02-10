@@ -59,7 +59,7 @@ The end-goal is to produce an ecosystem that supports the [[PeaceInfrastructureP
 3. [[WebizenAlliance]]
 4. [[ESG]]
 5. [[EconomicSystems]] and [[Currencies]]
-6. [[Historical Information]]
+6. [[HistoricalInformation]]
 7. [[SocialAttackVectors]]
 8. [[TheValuesProject]]
 9. [[SafetyProtocols]]

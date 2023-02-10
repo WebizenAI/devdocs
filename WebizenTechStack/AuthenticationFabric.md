@@ -8,7 +8,7 @@ The effect of the Authentication Fabric is intended to result in a curatable, hi
 There's a couple of different layers involved in this Authentication Fabric.
 
 ### Authentication of Devices
-A variety of host-fingerprinting information is employed and thereafter supported via [WebID Specifications](WebID%20Specifications.md) [WebID-TLS](WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH/WebID-TLS.md), [WebID-TLS](WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH/WebID-TLS.md) and similar.  
+A variety of host-fingerprinting information is employed and thereafter supported via [WebIDSpecifications](WebIDSpecifications.md) [WebID-TLS](WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH/WebID-TLS.md), [WebID-TLS](WebizenTechStack/CoreTechnologies/SemanticWeb/SemWeb-AUTH/WebID-TLS.md) and similar.  
 
 NB: https://github.com/jaypipes/ghw
  

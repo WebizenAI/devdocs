@@ -52,7 +52,7 @@ Equally, if they're subjected to harms committed upon them by others; they'll be
 
 The Greatest of all assets any person has, is #Time.  When people, groups, societies employ, use and consume resources (including #time) to harm other people, to engage in and/or support #Wrongs it has a variety of fairly significant #energy related implications.  These sorts of things will be able to be better assessed and managed via the [[SocioSphereOntologies]],  [[BiosphereOntologies]] and other related #Webizen infrastructure pieces that fit into the broader ecosystem.
 
-The ramifications of the design paradigms, such as [[Centricity]] and [[Currencies]] being integrated with [[VerifiableClaims&Credentials]], impacts the [[Historical Information]] to support a [[CommunityOfPractice]] supported by some form of [[WebizenAlliance]] structure, that has intended purpose.
+The ramifications of the design paradigms, such as [[Centricity]] and [[Currencies]] being integrated with [[VerifiableClaims&Credentials]], impacts the [[HistoricalInformation]] to support a [[CommunityOfPractice]] supported by some form of [[WebizenAlliance]] structure, that has intended purpose.
 
 The consequences should be an uplift in productivity and general wellbeing of those using it; which will in-turn translate to other outcomes such as,
 

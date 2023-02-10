@@ -71,7 +71,7 @@ Its configured via json files.
 
 #### RWW based 'server interface'
 
-The concept of RWW has various names, and the webizen systems are not the same as any of them; but, it is very similar.  Effectively, there's an RDF based back-end, that HTML/JS/CSS apps (historically using the RDFlib.js libraries or similar) used in addition to [[WebID-TLS]] or [[WebID-OIDC]] to support AUTH and then via [[Web Access Control (WAC)]] - ACLs.   This basic logic remains, however the ontologies are being changed; and there is a great deal of consideration going into whether and/or how, an API can be provided for Apps, in a way that depends upon a JSON based datafeed rather than more complex RDF based alternatives.   
+The concept of RWW has various names, and the webizen systems are not the same as any of them; but, it is very similar.  Effectively, there's an RDF based back-end, that HTML/JS/CSS apps (historically using the RDFlib.js libraries or similar) used in addition to [[WebID-TLS]] or [[WebID-OIDC]] to support AUTH and then via [[WebAccessControl(WAC)]] - ACLs.   This basic logic remains, however the ontologies are being changed; and there is a great deal of consideration going into whether and/or how, an API can be provided for Apps, in a way that depends upon a JSON based datafeed rather than more complex RDF based alternatives.   
 
 #### General Implication
 There's basically an RWW based HTTP interface that's supporting ACLd CRUD. 

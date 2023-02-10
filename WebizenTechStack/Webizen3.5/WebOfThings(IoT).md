@@ -1,8 +1,8 @@
 # Web Of Things (IoT)
 
-The [[Web Of Things]] architecture is instrumental to the [[WebizenPro]] architecture.
+The [[WebOfThings]] architecture is instrumental to the [[WebizenPro]] architecture.
 
-The [[Web Of Things]] (WoT) is an extension of the Internet of Things (IoT) concept, in which everyday objects are connected to the internet and can communicate with each other. The WoT refers specifically to the connections between these internet-connected objects and the World Wide Web, using standard web protocols and technologies such as HTTP and HTML. This allows the objects to be accessed and controlled from web browsers and other web-based applications, and makes it easier for developers to build applications that can interact with the objects. The WoT has the potential to revolutionize the way we interact with the world around us, by enabling a wide range of new and innovative applications and services.
+The [[WebOfThings]] (WoT) is an extension of the Internet of Things (IoT) concept, in which everyday objects are connected to the internet and can communicate with each other. The WoT refers specifically to the connections between these internet-connected objects and the World Wide Web, using standard web protocols and technologies such as HTTP and HTML. This allows the objects to be accessed and controlled from web browsers and other web-based applications, and makes it easier for developers to build applications that can interact with the objects. The WoT has the potential to revolutionize the way we interact with the world around us, by enabling a wide range of new and innovative applications and services.
 
 The Web of Things (WoT) Semantic Things Description Standards (TSDS) are a set of guidelines and recommendations for describing the properties and capabilities of Internet of Things (IoT) devices and objects in a standardized way. These standards are intended to make it easier for different devices and systems to interoperate and communicate with each other, by providing a common language and framework for describing the objects and their capabilities.
 

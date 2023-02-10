@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/posts/Human Consciousness.md",
+                "file": "WebizenTechStack/Webizen2.5/DevNotesWebizen2.5/ImplementationNotes-2.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d44691c7d4cdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old-work-archives/2018-webizen-net-au/about/references/the-need-for-decentralised-open-linked-data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62b2b4358bc3ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chomsky",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/posts/Human Consciousness.md",
+                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/posts/Human Consciousness.md",
+                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old-work-archives/2018-webizen-net-au/posts/Human Consciousness.md"
+                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md"
               }
             }
           }
@@ -146,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af60fcefaf93b01f",
+  "active": "c62b2b4358bc3ea1",
   "lastOpenFiles": [
-    "SocialFactors/WebScience/SafetyProtocols/DataPortability.md",
-    "SocialFactors/CommercialModels/WebizenAlliance/TheWebizenCharter.md",
-    "GuideForDevelopers/WebizenTerms.md",
-    "GuideForDevelopers/WebizenDiscord.md",
-    "SocialFactors/CommercialModels/WebizenAlliance/WebizenAllianceHostProviders.md",
-    "SocialFactors/CommercialModels/WebizenAlliance.md",
-    "SocialFactors/CommercialModels/Webizen.md",
-    "SocialFactors/SocialAttackVectors.md",
-    "SocialFactors/WebScience/SafetyProtocols.md",
-    "SocialFactors/WebScience/SafetyProtocols/NoLock-ins.md"
+    "old-work-archives/2018-webizen-net-au/about/references/the-need-for-decentralised-open-linked-data.md",
+    "PermissiveCommons/PermissiveCommonsTech.md",
+    "old-work-archives/WebCivicsMediumPosts/2019/OpenDatav3.0PermissiveCommons.md",
+    "PermissiveCommons.md",
+    "PermissiveCommons/PCTOntologyModelling.md",
+    "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md",
+    "SocialFactors/WebScience/TheValuesProject.md",
+    "SocialFactors/CommercialModels/HistoricalInformation/ValueAccountingInitiatives.md",
+    "PermissiveCommons/PermissiveCommonsTech/WhatAreTheCommons.md",
+    "SocialFactors/CommercialModels/HistoricalInformation.md"
   ]
 }

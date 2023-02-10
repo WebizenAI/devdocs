@@ -16,8 +16,6 @@ There are also a few different classes of ontologies, some consider the records 
 
 In-order to realise solutions for many of these goals, the systems need to be produced in-order to deliver the capacity to resolve the problems; but the practice of producing solutions to these sorts of problems still maintains exposure to various [[SocialAttackVectors]] without [[SafetyProtocols]] being operationally useful, as a consequence of the systems to achieve that not being made yet.  They often talk about 'chicken or egg' problems, noting that the answer to that problem is apparently - 'the rooster' - which i hope may illustrate the situation and related challenges.   Historically, i have personally maintained the IP rights in relation to my works; and at some stage, this needs to be transferred into an appropriate organisational structure, which in-turn requires a bunch of complex work and other resources to achieve in a fit-for-purpose manner.
 
-
-
 ### Agency
 
 The vast majority of ontologies use `OWL` which is technically defined to have a top-level term `thing`.  IMO: Human beings aren't things, they're people and primary custodians of anything and everything that happens in relation to our role as a species on earth. 

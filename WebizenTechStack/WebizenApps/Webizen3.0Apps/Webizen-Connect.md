@@ -3,5 +3,5 @@ Webizen Connect is a term that denotes a concept of Connecting, parsing and inte
 Examples are;
 
 - [SocialMediaAPIs](SocialMediaAPIs.md).
-- [[Data Applications]]
+- [[DataApplications]]
 

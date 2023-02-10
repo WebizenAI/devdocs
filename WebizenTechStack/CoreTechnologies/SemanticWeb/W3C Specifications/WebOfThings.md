@@ -1,3 +1,5 @@
+# Web Of Things
+
 https://www.w3.org/WoT/documentation/
 
 The Web of Things (WoT) is a concept that refers to the integration of the physical world and the web using internet-connected devices, sensors, and other technologies. The WoT aims to create a seamless and interoperable network of connected devices and systems that can exchange data, share information, and interact with each other and with humans in a variety of ways.
