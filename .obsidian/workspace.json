@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
+                "file": "GuideForDevelopers/WebizenTerms.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
+                "file": "GuideForDevelopers/WebizenTerms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
+                "file": "GuideForDevelopers/WebizenTerms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md"
+                "file": "GuideForDevelopers/WebizenTerms.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "c62b2b4358bc3ea1",
   "lastOpenFiles": [
+    "WebizenTechStack/EngineeringConsiderations/Cryptography/intel.md",
     "old-work-archives/2018-webizen-net-au/about/references/the-need-for-decentralised-open-linked-data.md",
     "PermissiveCommons/PermissiveCommonsTech.md",
     "old-work-archives/WebCivicsMediumPosts/2019/OpenDatav3.0PermissiveCommons.md",
@@ -181,7 +182,6 @@
     "PermissiveCommons/PermissiveCommonsTech/PCTProblemStatement.md",
     "SocialFactors/WebScience/TheValuesProject.md",
     "SocialFactors/CommercialModels/HistoricalInformation/ValueAccountingInitiatives.md",
-    "PermissiveCommons/PermissiveCommonsTech/WhatAreTheCommons.md",
-    "SocialFactors/CommercialModels/HistoricalInformation.md"
+    "PermissiveCommons/PermissiveCommonsTech/WhatAreTheCommons.md"
   ]
 }
