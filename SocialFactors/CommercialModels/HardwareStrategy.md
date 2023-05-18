@@ -107,7 +107,7 @@ To illustrate an underlying point, the video:
 
 ##### Thomas Thwaites: How I built a toaster -- from scratch 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ODzO7Lz_pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ODzO7Lz_pw" title="Thomas Thwaites: How I built a toaster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 >*It takes an entire civilization to build a toaster. Designer Thomas Thwaites found out the hard way, by attempting to build one from scratch: mining ore for steel, deriving plastic from oil ... it's frankly amazing he got as far as he got. A parable of our interconnected society, for designers and consumers alike.*
 
